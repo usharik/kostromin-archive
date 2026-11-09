@@ -1,0 +1,1140 @@
+# Архив Александра Николаевича Костромина (1951–2026)
+
+> Тексты гитариста, педагога и художественного руководителя Московского центра авторской песни: статьи, методика, расшифровки выступлений и сообщения на форуме ЦАП. Каждый файл — Markdown с YAML-шапкой (источник, дата, ссылка).
+
+## Портрет и инструкция
+- [Инструкция собеседнику](persona/system_prompt.md)
+- [Портрет: биография, манера, взгляды](persona/portrait.md)
+
+## Статьи и доклады
+- [Статьи Александра Костромина — gorodnit2.pdf](texts/articles/gorodnit2_stati-aleksandra-kostromina-gorodnit2-pdf.md)
+- [Статьи Александра Костромина — gorodnit.pdf](texts/articles/gorodnit_stati-aleksandra-kostromina-gorodnit-pdf.md)
+- [ТЕОРЕТИЧЕСКИЕ ЧТЕНИЯ 2009—2013: ВСЕ ДОКЛАДЫ](texts/articles/page-1200_teoreticheskie-chteniya-2009-2013-vse-doklady.md)
+- [Теоретические чтения 2010. Доклад А. Костромина](texts/articles/page-1209_teoreticheskie-chteniya-2010-doklad-a-kostromina.md)
+- [Теоретические чтения 2012. Доклад А. Костромина (2)](texts/articles/page-1220_teoreticheskie-chteniya-2012-doklad-a-kostromina-2.md)
+- [НОТНЫЕ ЗАПИСИ ПЕСЕН Б. ОКУДЖАВЫ: К ВОПРОСУ О МУЗЫКАЛЬНОЙ «ТЕКСТОЛОГИИ»](texts/articles/page-1244_notnye-zapisi-pesen-b-okudzhavy-k-voprosu-o-muzykalnoy-tekst.md)
+- [Александр Костромин. Текст о неграх. 12.03.2010](texts/articles/page-1313_aleksandr-kostromin-tekst-o-negrah-12-03-2010.md)
+- [Доклад А.Костромина 23 ноября 2012 Анчаров и Станиславский](texts/articles/page-1315_doklad-a-kostromina-23-noyabrya-2012-ancharov-i-stanislavski.md)
+- [В. Дашкевич. «Уличный симфонизм». 15.06.2010. Вопросы.](texts/articles/page-1320_v-dashkevich-ulichnyy-simfonizm-15-06-2010-voprosy.md)
+- [Статьи Александра Костромина](texts/articles/page-204_stati-aleksandra-kostromina.md)
+- [А. Н. Костромин. «Ошибка» Галича: ошибки сегодняшние и всевременные...](texts/articles/page-214_a-n-kostromin-oshibka-galicha-oshibki-segodnyashnie-i-vsevre.md)
+- [РАСШИФРОВКА ТЕЛЕПЕРЕДАЧИ ТЕЛЕКАНАЛА «КУЛЬТУРА» «ТЕМ ВРЕМЕНЕМ», ЭФИР 20 октября 2008 г., 22:35](texts/articles/page-221_rasshifrovka-teleperedachi-telekanala-kultura-tem-vremenem-e.md)
+- [А.Костромин рассказывает об истории гитарной школы (2002 г.)](texts/articles/page-224_a-kostromin-rasskazyvaet-ob-istorii-gitarnoy-shkoly-2002-g.md)
+- [Александр Костромин. НА ЧЁМ ИГРАТЬ?](texts/articles/page-230_aleksandr-kostromin-na-chem-igrat.md)
+- [Александр Костромин. НЕСКОЛЬКО ВОПРОСОВ ОБ АВТОРСКОЙ ПЕСНЕ](texts/articles/page-232_aleksandr-kostromin-neskolko-voprosov-ob-avtorskoy-pesne.md)
+- [Гитарные школы. А.Костромин (из книги И.Каримова "КСП")](texts/articles/page-433_gitarnye-shkoly-a-kostromin-iz-knigi-i-karimova-ksp.md)
+- [А. Костромин. Рецензия на книгу "Пятьдесят российских бардов"](texts/articles/page-468_a-kostromin-retsenziya-na-knigu-pyatdesyat-rossiyskih-bardov.md)
+- [А.Костромин. О ПРОТИВОСТОЯНИИ БАРДОВ И РОКЕРОВ](texts/articles/page-482_a-kostromin-o-protivostoyanii-bardov-i-rokerov.md)
+- [Александр Костромин О НЕКОТОРЫХ ПРАКТИЧЕСКИХ ПРИЕМАХ В РАБОТЕ НАД ПЕСНЕЙ](texts/articles/page-509_aleksandr-kostromin-o-nekotoryh-prakticheskih-priemah-v-rabo.md)
+- ["Текст о неграх", чтение 1](texts/articles/page-524_tekst-o-negrah-chtenie-1.md)
+- [ВЫСТУПЛЕНИЕ А.КОСТРОМИНА В КУЛУАРАХ КОНФЕРЕНЦИИ «МАЙ-83»](texts/articles/page-866_vystuplenie-a-kostromina-v-kuluarah-konferentsii-may-83.md)
+
+## Методика гитарной школы
+- [Второй класс. Пособия. — 12strelnikova.doc](texts/teaching/12strelnikova_vtoroy-klass-posobiya-12strelnikova-doc.md)
+- [Второй класс. Лекции. — 240720051.doc](texts/teaching/240720051_vtoroy-klass-lektsii-240720051-doc.md)
+- [Второй класс. Теория. — about.pdf](texts/teaching/about_vtoroy-klass-teoriya-about-pdf.md)
+- [Класс вокала. Теория. — DlitNot.pdf](texts/teaching/dlitnot_klass-vokala-teoriya-dlitnot-pdf.md)
+- [Второй класс. Пособия. — harm10.pdf](texts/teaching/harm10_vtoroy-klass-posobiya-harm10-pdf.md)
+- [Второй класс. Теория. — igr_oku.pdf](texts/teaching/igr-oku_vtoroy-klass-teoriya-igr-oku-pdf.md)
+- [Второй класс. Теория. — igr_vys3.pdf](texts/teaching/igr-vys3_vtoroy-klass-teoriya-igr-vys3-pdf.md)
+- [Второй класс. Теория. — igra_go2.pdf](texts/teaching/igra-go2_vtoroy-klass-teoriya-igra-go2-pdf.md)
+- [Второй класс. Теория. — igra_go4.pdf](texts/teaching/igra-go4_vtoroy-klass-teoriya-igra-go4-pdf.md)
+- [Второй класс. Теория. — igra_vi1.pdf](texts/teaching/igra-vi1_vtoroy-klass-teoriya-igra-vi1-pdf.md)
+- [Второй класс. Теория. — igraem Vysockogo.pdf](texts/teaching/igraem-vysockogo_vtoroy-klass-teoriya-igraem-vysockogo-pdf.md)
+- [Второй класс. Пособия. — interval.doc](texts/teaching/interval_vtoroy-klass-posobiya-interval-doc.md)
+- [Второй класс. Пособия. — interval.pdf](texts/teaching/interval_vtoroy-klass-posobiya-interval-pdf.md)
+- [Второй класс. Пособия. — kolesa_maj-min.pdf](texts/teaching/kolesa-maj-min_vtoroy-klass-posobiya-kolesa-maj-min-pdf.md)
+- [Второй класс. Пособия. — Kolesa.doc](texts/teaching/kolesa_vtoroy-klass-posobiya-kolesa-doc.md)
+- [Второй класс. Пособия. — metry_i_razmery.pdf](texts/teaching/metry-i-razmery_vtoroy-klass-posobiya-metry-i-razmery-pdf.md)
+- [Второй класс. Лекции. — mp.pdf](texts/teaching/mp_vtoroy-klass-lektsii-mp-pdf.md)
+- [Второй класс. Пособия. — muzykalnaia_sistema_okudjavy.pdf](texts/teaching/muzykalnaia-sistema-okudjavy_vtoroy-klass-posobiya-muzykalnaia-sistema-okudjavy-pdf.md)
+- [Второй класс. Теория. — nastroy.pdf](texts/teaching/nastroy_vtoroy-klass-teoriya-nastroy-pdf.md)
+- [Второй класс. Теория. — oboznachen.pdf](texts/teaching/oboznachen_vtoroy-klass-teoriya-oboznachen-pdf.md)
+- [Типовые аппликатурные варианты аккордов](texts/teaching/page-1165_tipovye-applikaturnye-varianty-akkordov.md)
+- [Первый класс](texts/teaching/page-1174_pervyy-klass.md)
+- [Полуторный класс](texts/teaching/page-1175_polutornyy-klass.md)
+- [Обращения аккордов](texts/teaching/page-1176_obrascheniya-akkordov.md)
+- [Типовые аппликатурные варианты мажорных и минорных аккордов: теоретическое и практическое построение](texts/teaching/page-1177_tipovye-applikaturnye-varianty-mazhornyh-i-minornyh-akkordov.md)
+- [Настройка гитары по флажолетам](texts/teaching/page-1242_nastroyka-gitary-po-flazholetam.md)
+- [Гитарная школа](texts/teaching/page-15_gitarnaya-shkola.md)
+- [Второй класс](texts/teaching/page-405_vtoroy-klass.md)
+- [Третий класс](texts/teaching/page-408_tretiy-klass.md)
+- [Второй класс. Песни.](texts/teaching/page-414_vtoroy-klass-pesni.md)
+- [Второй класс. Пособия.](texts/teaching/page-415_vtoroy-klass-posobiya.md)
+- [Второй класс. Лекции.](texts/teaching/page-416_vtoroy-klass-lektsii.md)
+- [Первый класс. Песни.](texts/teaching/page-417_pervyy-klass-pesni.md)
+- [СИСТЕМА БЕЗНОТНОЙ ЗАПИСИ ГИТАРНОГО АККОМПАНЕМЕНТА](texts/teaching/page-418_sistema-beznotnoy-zapisi-gitarnogo-akkompanementa.md)
+- [Класс вокала. Теория.](texts/teaching/page-419_klass-vokala-teoriya.md)
+- [Второй класс. Теория.](texts/teaching/page-420_vtoroy-klass-teoriya.md)
+- [Второй класс. Видеоупражнения.](texts/teaching/page-421_vtoroy-klass-videouprazhneniya.md)
+- [Третий класс. Песни.](texts/teaching/page-430_tretiy-klass-pesni.md)
+- [Внеклассные занятия](texts/teaching/page-470_vneklassnye-zanyatiya.md)
+- [Теория музыки (2 класс)](texts/teaching/page-671_teoriya-muzyki-2-klass.md)
+- [Определитель аккордов "линейка" (1977)](texts/teaching/page-748_opredelitel-akkordov-lineyka-1977.md)
+- [Гитарная школа Центра авторской песни 2013-2014](texts/teaching/page-825_gitarnaya-shkola-tsentra-avtorskoy-pesni-2013-2014.md)
+- [Песни, пройденные в гитарной школе ЦАП](texts/teaching/page-870_pesni-proydennye-v-gitarnoy-shkole-tsap.md)
+- [Песни, пройденные в гитарной школе ЦАП](texts/teaching/page-876_pesni-proydennye-v-gitarnoy-shkole-tsap.md)
+- [Второй класс. Пособия. — rodstvo.pdf](texts/teaching/rodstvo_vtoroy-klass-posobiya-rodstvo-pdf.md)
+- [Второй класс. Теория. — septakk1.pdf](texts/teaching/septakk1_vtoroy-klass-teoriya-septakk1-pdf.md)
+- [Второй класс. Теория. — slushaj.pdf](texts/teaching/slushaj_vtoroy-klass-teoriya-slushaj-pdf.md)
+- [Второй класс. Теория. — stroj.pdf](texts/teaching/stroj_vtoroy-klass-teoriya-stroj-pdf.md)
+- [Класс вокала. Теория. — TablOsnGl.doc](texts/teaching/tablosngl_klass-vokala-teoriya-tablosngl-doc.md)
+- [Класс вокала. Теория. — TablOsnGl.pdf](texts/teaching/tablosngl_klass-vokala-teoriya-tablosngl-pdf.md)
+- [Второй класс. Теория. — trezvuch1.pdf](texts/teaching/trezvuch1_vtoroy-klass-teoriya-trezvuch1-pdf.md)
+- [Второй класс. Теория. — vizbor.pdf](texts/teaching/vizbor_vtoroy-klass-teoriya-vizbor-pdf.md)
+- [Второй класс. Теория. — yakusheva.pdf](texts/teaching/yakusheva_vtoroy-klass-teoriya-yakusheva-pdf.md)
+
+## Расшифровки лекций и концертов
+- ["Солнечный зайчик-2009" в передаче "Нефальшивою струною". Гость - Александр Костромин. Запорожье.](texts/talks/2009-12-20_uTJa6pA8s94_solnechnyy-zaychik-2009-v-peredache-nefalshivoyu-strunoyu-go.md): 2009-12-20
+- [Александр Костромин - концерт в ЦАП (14.10.2010)](texts/talks/2010-10-14_z2jJuGogZkQ_aleksandr-kostromin-kontsert-v-tsap-14-10-2010.md): 2010-10-14
+- [Александр Костромин на Теоретических чтениях в ЦАП 23.11.12](texts/talks/2012-11-23_ikRY6g4I8no_aleksandr-kostromin-na-teoreticheskih-chteniyah-v-tsap-23-11.md): 2012-11-23
+- [Вита Левинсон, Александр Костромин. 02.06.2016. Гиперион. 2-е отделение](texts/talks/2016-06-02_eB9PZ0D7KFQ_vita-levinson-aleksandr-kostromin-02-06-2016-giperion-2-e-ot.md): 2016-06-02
+- [Вита Левинсон, Александр Костромин. 02.06.2016. Гиперион. 1-е отделение](texts/talks/2016-06-02_wNktT0VRm8s_vita-levinson-aleksandr-kostromin-02-06-2016-giperion-1-e-ot.md): 2016-06-02
+- [Александр Костромин. Что Такое Авторская Песня? Лекция, прочитанная в 1,5 классе ГШ 25 марта 2019 г.](texts/talks/2019-03-25_WTYXCo0qgRg_aleksandr-kostromin-chto-takoe-avtorskaya-pesnya-lektsiya-pr.md): 2019-03-25
+- [Концерт Александра Костромина 22 июня 2023 г](texts/talks/2023-06-22_CoXXPiDk-yo_kontsert-aleksandra-kostromina-22-iyunya-2023-g.md): 2023-06-22
+- [Концерт Александра Костромина 14 сентября 2023г](texts/talks/2023-09-14_ebvrquh1PDk_kontsert-aleksandra-kostromina-14-sentyabrya-2023g.md): 2023-09-14
+- [Разминки, распевки  Мастерская Александра Костромина 1](texts/talks/2024-01-02_l6-iL8KHOzU_razminki-raspevki-masterskaya-aleksandra-kostromina-1.md): 2024-01-02
+- [Александр Костромин, ЦАП, 27.06.2024,  2 отделение](texts/talks/2024-06-27_XkTbqzrP-Xg_aleksandr-kostromin-tsap-27-06-2024-2-otdelenie.md): 2024-06-27
+- [Александр Костромин. Лекция о Ю.Визборе, 27.06.2024, ЦАП](texts/talks/2024-06-27_qhVCVi2AeWo_aleksandr-kostromin-lektsiya-o-yu-vizbore-27-06-2024-tsap.md): 2024-06-27
+- [Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).](texts/talks/2024-09-13_GMebvaF1hJM_aleksandr-kostromin-otkrytie-sezona-v-gorodskom-tsentre-avto.md): 2024-09-13
+- [Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.](texts/talks/2025-06-26_sxllI7SYkk0_aleksandr-kostromin-kontsert-v-moskovskom-gorodskom-tsentre.md): 2025-06-26
+- [Александр Костромин, Наталья Быстрова - Закрытие сезона 2025-26 в ЦАП, часть 1 (из 2)](texts/talks/2026-06-24_5rTAumXBRQg_aleksandr-kostromin-natalya-bystrova-zakrytie-sezona-2025-26.md): 2026-06-24
+- [Александр Костромин, Наталья Быстрова - Закрытие сезона 2025-26 в ЦАП, часть 2 (из 2)](texts/talks/2026-06-24_GHTNOTvSH2I_aleksandr-kostromin-natalya-bystrova-zakrytie-sezona-2025-26.md): 2026-06-24
+
+## Форум ЦАП
+- [Концерт 11 ноября в Казематах](texts/forum/2006/2006-11-15_511_kontsert-11-noyabrya-v-kazematah.md): 2006-11-15
+- [Пришел с концерта АП в полном смысле слова убитый](texts/forum/2007/2007-01-24_668_prishel-s-kontserta-ap-v-polnom-smysle-slova-ubityy.md): 2007-01-24
+- [О личности исполнителя АП](texts/forum/2007/2007-01-31_97_o-lichnosti-ispolnitelya-ap.md): 2007-01-31
+- [Юбилей - это когда каждый год все лучше и лучше...](texts/forum/2007/2007-02-02_734_yubiley-eto-kogda-kazhdyy-god-vse-luchshe-i-luchshe.md): 2007-02-02
+- [Открытый Московский фестиваль](texts/forum/2007/2007-06-13_948_otkrytyy-moskovskiy-festival.md): 2007-06-13
+- [2 сентября: концерт у памятника Б.Окуджавы](texts/forum/2007/2007-08-29_1047_2-sentyabrya-kontsert-u-pamyatnika-b-okudzhavy.md): 2007-08-29
+- [первое собрание нового 2007/2008 учебного года](texts/forum/2007/2007-09-14_1073_pervoe-sobranie-novogo-2007-2008-uchebnogo-goda.md): 2007-09-14
+- [Концерт Ченцова](texts/forum/2007/2007-11-28_1129_kontsert-chentsova.md): 2007-11-28
+- [Концерт Светланы Богдасаровой 13 декабря](texts/forum/2007/2007-12-12_1150_kontsert-svetlany-bogdasarovoy-13-dekabrya.md): 2007-12-12
+- [Микрофонка  во 2-м классе](texts/forum/2007/2007-12-20_1159_mikrofonka-vo-2-m-klasse.md): 2007-12-20
+- [Авторские способы игры](texts/forum/2008/2008-01-30_1197_avtorskie-sposoby-igry.md): 2008-01-30
+- [Песни, которые мы проходили](texts/forum/2008/2008-03-12_1236_pesni-kotorye-my-prohodili.md): 2008-03-12
+- [Первый Настоящий Фестиваль Настоящей Авторской Песни](texts/forum/2008/2008-04-01_1251_pervyy-nastoyaschiy-festival-nastoyaschey-avtorskoy-pesni.md): 2008-04-01
+- [Дуловский слёт 15-18 мая, под Суздалем](texts/forum/2008/2008-04-15_1270_dulovskiy-slet-15-18-maya-pod-suzdalem.md): 2008-04-15
+- [Третий тур Московского конкурса](texts/forum/2008/2008-04-23_1279_tretiy-tur-moskovskogo-konkursa.md): 2008-04-23
+- [О 24-м Московском конкурсе](texts/forum/2008/2008-04-24_1285_o-24-m-moskovskom-konkurse.md): 2008-04-24
+- [Ответ А.Костромина на Открытое письмо Ю.Лореса и С.Матвеенко](texts/forum/2008/2008-04-25_1287_otvet-a-kostromina-na-otkrytoe-pismo-yu-loresa-i-s-matveenko.md): 2008-04-25
+- [Пресс-релиз о проведении 35 Грушинского фестиваля](texts/forum/2008/2008-04-30_1295_press-reliz-o-provedenii-35-grushinskogo-festivalya.md): 2008-04-30
+- [Нужны ли конкурсы](texts/forum/2008/2008-05-01_1292_nuzhny-li-konkursy.md): 2008-05-01
+- [Диалект как смыслоноситель](texts/forum/2008/2008-05-05_1307_dialekt-kak-smyslonositel.md): 2008-05-05
+- [Занятие 6 мая все-таки отменяется...](texts/forum/2008/2008-05-05_1309_zanyatie-6-maya-vse-taki-otmenyaetsya.md): 2008-05-05
+- [Юрий Лорес: Послесловие к Московскому конкурсу](texts/forum/2008/2008-05-07_1312_yuriy-lores-posleslovie-k-moskovskomu-konkursu.md): 2008-05-07
+- [Коломенское и сайт](texts/forum/2008/2008-05-19_1324_kolomenskoe-i-sayt.md): 2008-05-19
+- [Как бы слёт на ВВЦ](texts/forum/2008/2008-05-19_1326_kak-by-slet-na-vvts.md): 2008-05-19
+- [Какой ЦАП нам нужен?](texts/forum/2008/2008-05-23_1327_kakoy-tsap-nam-nuzhen.md): 2008-05-23
+- [Итоги Международного фестиваля АП "Петербургский аккорд](texts/forum/2008/2008-06-09_1395_itogi-mezhdunarodnogo-festivalya-ap-peterburgskiy-akkord.md): 2008-06-09
+- [Фестиваль в Коломенском 13--15 июня 2008 г.](texts/forum/2008/2008-06-16_1413_festival-v-kolomenskom-13-15-iyunya-2008-g.md): 2008-06-16
+- ["Антикопирайтерский концерт" (с) Posadnik](texts/forum/2008/2008-06-17_1419_antikopirayterskiy-kontsert-s-posadnik.md): 2008-06-17
+- [Подчищайте!](texts/forum/2008/2008-07-04_1460_podchischayte.md): 2008-07-04
+- [Под дурманом сирени ...](texts/forum/2008/2008-07-07_1469_pod-durmanom-sireni.md): 2008-07-07
+- [Концерт 28 июня в Терлецком парке. Обсуждение](texts/forum/2008/2008-07-08_1451_kontsert-28-iyunya-v-terletskom-parke-obsuzhdenie.md): 2008-07-08
+- [Несколько вопросов](texts/forum/2008/2008-10-06_1661_neskolko-voprosov.md): 2008-10-06
+- [Выбор удобных тональностей для совместного пения](texts/forum/2008/2008-10-07_1668_vybor-udobnyh-tonalnostey-dlya-sovmestnogo-peniya.md): 2008-10-07
+- [Клубный вечер № 2 - Н. Быстрова, Е. Козлова](texts/forum/2008/2008-10-12_1684_klubnyy-vecher-2-n-bystrova-e-kozlova.md): 2008-10-12
+- [вечер памяти Ланцберга](texts/forum/2008/2008-10-13_1662_vecher-pamyati-lantsberga.md): 2008-10-13
+- [Вечер памяти А. Галича в "Республике песни"](texts/forum/2008/2008-10-19_1700_vecher-pamyati-a-galicha-v-respublike-pesni.md): 2008-10-19
+- [Вечер памяти А.Галича в Политехническом музее.](texts/forum/2008/2008-11-04_1733_vecher-pamyati-a-galicha-v-politehnicheskom-muzee.md): 2008-11-04
+- [16 ноября концерт В. Попова](texts/forum/2008/2008-11-10_1748_16-noyabrya-kontsert-v-popova.md): 2008-11-10
+- [Вечер "Споем вместе!" 8 ноября 2008 года](texts/forum/2008/2008-11-10_1750_vecher-spoem-vmeste-8-noyabrya-2008-goda.md): 2008-11-10
+- [6 декабря 2008 -- очередной вечер](texts/forum/2008/2008-11-10_1751_6-dekabrya-2008-ocherednoy-vecher.md): 2008-11-10
+- [Д.Н.Журавлёв. Об искусстве чтеца](texts/forum/2008/2008-11-14_1757_d-n-zhuravlev-ob-iskusstve-chtetsa.md): 2008-11-14
+- [Поздравляем Евгения Даниловича Аграновича с днём рождения!](texts/forum/2008/2008-11-14_1758_pozdravlyaem-evgeniya-danilovicha-agranovicha-s-dnem-rozhden.md): 2008-11-14
+- [Творческий вечер Богдасаровой Светланы Борисовны](texts/forum/2008/2008-12-01_1780_tvorcheskiy-vecher-bogdasarovoy-svetlany-borisovny.md): 2008-12-01
+- [Визбор](texts/forum/2008/2008-12-05_1791_vizbor.md): 2008-12-05
+- [Помогите перевезти пианино](texts/forum/2008/2008-12-08_1789_pomogite-perevezti-pianino.md): 2008-12-08
+- [Вечер "Споём вместе!" 6 декабря 2008](texts/forum/2008/2008-12-08_1798_vecher-spoem-vmeste-6-dekabrya-2008.md): 2008-12-08
+- [интересует?](texts/forum/2008/2008-12-09_1805_interesuet.md): 2008-12-09
+- [Телепередача об Е.Аграновиче](texts/forum/2008/2008-12-20_1821_teleperedacha-ob-e-agranoviche.md): 2008-12-20
+- [мастерская в декабре:](texts/forum/2008/2008-12-26_1833_masterskaya-v-dekabre.md): 2008-12-26
+- [Самоучители игры на гитаре](texts/forum/2009/2009-01-12_1626_samouchiteli-igry-na-gitare.md): 2009-01-12
+- [Вечер "Споём вместе!" 10 января 2009 года](texts/forum/2009/2009-01-12_1855_vecher-spoem-vmeste-10-yanvarya-2009-goda.md): 2009-01-12
+- [Суровый Гантман](texts/forum/2009/2009-01-13_1853_surovyy-gantman.md): 2009-01-13
+- [Аккорды к песне «Заезжий музыкант» Окуджавы](texts/forum/2009/2009-01-14_1813_akkordy-k-pesne-zaezzhiy-muzykant-okudzhavy.md): 2009-01-14
+- [Полезные ссылки](texts/forum/2009/2009-01-16_63_poleznye-ssylki.md): 2009-01-16
+- [Каримов хочет высказаться](texts/forum/2009/2009-01-19_1865_karimov-hochet-vyskazatsya.md): 2009-01-19
+- [Полезные ссылки](texts/forum/2009/2009-01-25_1874_poleznye-ssylki.md): 2009-01-25
+- [Не забывай...](texts/forum/2009/2009-01-26_1463_ne-zabyvay.md): 2009-01-26
+- [мастерские в январе](texts/forum/2009/2009-02-09_1908_masterskie-v-yanvare.md): 2009-02-09
+- [Вечер "Споём вместе!" 15 февраля 2009 года](texts/forum/2009/2009-02-18_1929_vecher-spoem-vmeste-15-fevralya-2009-goda.md): 2009-02-18
+- [Микрофонка 17.02.09](texts/forum/2009/2009-02-20_1931_mikrofonka-17-02-09.md): 2009-02-20
+- [Статья Л.П.Беленького](texts/forum/2009/2009-03-01_1951_statya-l-p-belenkogo.md): 2009-03-01
+- [Коричневая пуговка: автор текста известен!](texts/forum/2009/2009-03-01_1953_korichnevaya-pugovka-avtor-teksta-izvesten.md): 2009-03-01
+- [Концерт в Кремле 26 февраля](texts/forum/2009/2009-03-02_1956_kontsert-v-kremle-26-fevralya.md): 2009-03-02
+- ["Открыли Утесов и Бернес"? Нет!](texts/forum/2009/2009-03-04_1957_otkryli-utesov-i-bernes-net.md): 2009-03-04
+- [Вечер, посвященный 75-летию Бориса Вахнюка](texts/forum/2009/2009-03-09_1966_vecher-posvyaschennyy-75-letiyu-borisa-vahnyuka.md): 2009-03-09
+- [Вечер "Споём вместе!" 7 марта 2009 года](texts/forum/2009/2009-03-09_1968_vecher-spoem-vmeste-7-marta-2009-goda.md): 2009-03-09
+- [Струны](texts/forum/2009/2009-03-10_41_struny.md): 2009-03-10
+- [Фестиваль "БардаАкадемия-2009": отзывы](texts/forum/2009/2009-03-11_1972_festival-bardaakademiya-2009-otzyvy.md): 2009-03-11
+- [Дмитрий Быков. Новая народная песня](texts/forum/2009/2009-03-12_1978_dmitriy-bykov-novaya-narodnaya-pesnya.md): 2009-03-12
+- [Интересный анализ Якимов VS Труханов](texts/forum/2009/2009-03-15_1981_interesnyy-analiz-yakimov-vs-truhanov.md): 2009-03-15
+- [очередной вечер дуэтов :)](texts/forum/2009/2009-03-18_1990_ocherednoy-vecher-duetov.md): 2009-03-18
+- [Раздел сайта "Концерты АП в Москве"](texts/forum/2009/2009-03-23_1994_razdel-sayta-kontserty-ap-v-moskve.md): 2009-03-23
+- [Поздравляем Владимира Альтшуллера с юбилеем!](texts/forum/2009/2009-03-24_2001_pozdravlyaem-vladimira-altshullera-s-yubileem.md): 2009-03-24
+- [50 лет Московскому КСП](texts/forum/2009/2009-03-29_2010_50-let-moskovskomu-ksp.md): 2009-03-29
+- [Идея для вечера "Как надежна земля"](texts/forum/2009/2009-03-30_1768_ideya-dlya-vechera-kak-nadezhna-zemlya.md): 2009-03-30
+- [И всё же Два Грушинских Фестиваля](texts/forum/2009/2009-03-30_900_i-vse-zhe-dva-grushinskih-festivalya.md): 2009-03-30
+- [О "Хронике" Игоря Каримова](texts/forum/2009/2009-04-01_2011_o-hronike-igorya-karimova.md): 2009-04-01
+- [Александр Николаевич (Костромин), СПАСИБО!](texts/forum/2009/2009-04-03_2018_aleksandr-nikolaevich-kostromin-spasibo.md): 2009-04-03
+- [Вечер "Споём вместе!" 11 апреля 2009 года](texts/forum/2009/2009-04-13_2032_vecher-spoem-vmeste-11-aprelya-2009-goda.md): 2009-04-13
+- [Ремонт своими руками, эпизод II](texts/forum/2009/2009-04-14_2031_remont-svoimi-rukami-epizod-ii.md): 2009-04-14
+- [ПОЗДРАВЛЯЕМ ВСЕХ С ЮБИЛЕЕМ! (На этот раз день в день)](texts/forum/2009/2009-04-27_2050_pozdravlyaem-vseh-s-yubileem-na-etot-raz-den-v-den.md): 2009-04-27
+- [Поздравляем Дмитрия Богданова с юбилеем!](texts/forum/2009/2009-04-27_2051_pozdravlyaem-dmitriya-bogdanova-s-yubileem.md): 2009-04-27
+- [Семинар 3 июня 2009 в ЦАПе: СП/АП: Кто поёт?](texts/forum/2009/2009-05-26_2086_seminar-3-iyunya-2009-v-tsape-sp-ap-kto-poet.md): 2009-05-26
+- [Слёт "День рождения Александра Дулова на Суздальской зе](texts/forum/2009/2009-05-27_2079_slet-den-rozhdeniya-aleksandra-dulova-na-suzdalskoy-ze.md): 2009-05-27
+- [Ищу записи Анатолия Иванова (г.Москва).](texts/forum/2009/2009-07-01_2131_ischu-zapisi-anatoliya-ivanova-g-moskva.md): 2009-07-01
+- [Интернет-журнал "Человек с гитарой"](texts/forum/2009/2009-07-01_2137_internet-zhurnal-chelovek-s-gitaroy.md): 2009-07-01
+- [А чего это из раздела ГШ всё снесли?](texts/forum/2009/2009-10-13_2226_a-chego-eto-iz-razdela-gsh-vse-snesli.md): 2009-10-13
+- [Вечер "Споём вместе!" 11 октября 2009 г.](texts/forum/2009/2009-10-18_2242_vecher-spoem-vmeste-11-oktyabrya-2009-g.md): 2009-10-18
+- [Вам!](texts/forum/2009/2009-10-19_2224_vam.md): 2009-10-19
+- [кстати, о новых порядках.](texts/forum/2009/2009-10-22_2256_kstati-o-novyh-poryadkah.md): 2009-10-22
+- [прибейте спамбота](texts/forum/2009/2009-10-25_2118_pribeyte-spambota.md): 2009-10-25
+- [Концерт в ЦАПе](texts/forum/2009/2009-10-30_2289_kontsert-v-tsape.md): 2009-10-30
+- [Вечер "Споём вместе!" 7 ноября 2009 года.](texts/forum/2009/2009-11-08_2326_vecher-spoem-vmeste-7-noyabrya-2009-goda.md): 2009-11-08
+- [послушать песни](texts/forum/2009/2009-11-09_2306_poslushat-pesni.md): 2009-11-09
+- [Умер Михаил Балашов](texts/forum/2009/2009-11-09_2333_umer-mihail-balashov.md): 2009-11-09
+- [Микрофонка 10 ноября 2009](texts/forum/2009/2009-11-09_2334_mikrofonka-10-noyabrya-2009.md): 2009-11-09
+- [С днём рождения, Гитарная школа!](texts/forum/2009/2009-11-13_2351_s-dnem-rozhdeniya-gitarnaya-shkola.md): 2009-11-13
+- [25-и Московский конкурс: приглашаем к обсуждению](texts/forum/2009/2009-11-14_2358_25-i-moskovskiy-konkurs-priglashaem-k-obsuzhdeniyu.md): 2009-11-14
+- [Крысолов  слова - И.Бродский, муз. - П.Термена](texts/forum/2009/2009-11-15_2346_krysolov-slova-i-brodskiy-muz-p-termena.md): 2009-11-15
+- ["Споём вместе!" в Санкт-Петербурге 13 ноября 2009](texts/forum/2009/2009-11-15_2359_spoem-vmeste-v-sankt-peterburge-13-noyabrya-2009.md): 2009-11-15
+- [А.С. Пушкин - наше все!](texts/forum/2009/2009-12-10_2418_a-s-pushkin-nashe-vse.md): 2009-12-10
+- [Майков. Древняя профессия](texts/forum/2009/2009-12-11_2377_maykov-drevnyaya-professiya.md): 2009-12-11
+- [МИКРОФОННАЯ ПРАКТИКА 15 декабря 2009 г.](texts/forum/2009/2009-12-14_2436_mikrofonnaya-praktika-15-dekabrya-2009-g.md): 2009-12-14
+- [Видеозапись в разделе "Песни"](texts/forum/2009/2009-12-15_2404_videozapis-v-razdele-pesni.md): 2009-12-15
+- [Вечер "Споём вместе!" 12 декабря 2009 года](texts/forum/2009/2009-12-22_2459_vecher-spoem-vmeste-12-dekabrya-2009-goda.md): 2009-12-22
+- [Грушинских в 2010 может быть три или четыре](texts/forum/2009/2009-12-23_2312_grushinskih-v-2010-mozhet-byt-tri-ili-chetyre.md): 2009-12-23
+- [Самая длинная ночь](texts/forum/2009/2009-12-23_2458_samaya-dlinnaya-noch.md): 2009-12-23
+- [Новости САЙТА: где бы ИХ выкладывать?](texts/forum/2009/2009-12-24_2461_novosti-sayta-gde-by-ih-vykladyvat.md): 2009-12-24
+- [Умер Роллан Шипов](texts/forum/2009/2009-12-24_2463_umer-rollan-shipov.md): 2009-12-24
+- [Вечер "Споём вместе!" 9 января 2010 года](texts/forum/2010/2010-01-12_2493_vecher-spoem-vmeste-9-yanvarya-2010-goda.md): 2010-01-12
+- [22-24 января 2010,Жигулевск.Слет "тех, кому не безразли](texts/forum/2010/2010-01-12_2495_22-24-yanvarya-2010-zhigulevsk-slet-teh-komu-ne-bezrazli.md): 2010-01-12
+- [25-й Московский конкурс АП](texts/forum/2010/2010-01-14_2501_25-y-moskovskiy-konkurs-ap.md): 2010-01-14
+- [Индивидуальные занятия вокалом, гитарой, фортепиано](texts/forum/2010/2010-01-19_2500_individualnye-zanyatiya-vokalom-gitaroy-fortepiano.md): 2010-01-19
+- [Умер Сергей Каплан](texts/forum/2010/2010-01-23_2513_umer-sergey-kaplan.md): 2010-01-23
+- [Теоретические чтения 22 января 2010 2-Альтшул(л)ер-2](texts/forum/2010/2010-02-02_2515_teoreticheskie-chteniya-22-yanvarya-2010-2-altshul-l-er-2.md): 2010-02-02
+- [МИКРОФОННАЯ ПРАКТИКА 2 ФЕВРАЛЯ 2010 Г.](texts/forum/2010/2010-02-02_2532_mikrofonnaya-praktika-2-fevralya-2010-g.md): 2010-02-02
+- [Зимородок](texts/forum/2010/2010-02-08_2539_zimorodok.md): 2010-02-08
+- [" Школа"- удар в цепочке разрушения страны?](texts/forum/2010/2010-02-13_2541_shkola-udar-v-tsepochke-razrusheniya-strany.md): 2010-02-13
+- [25-й Московский конкурс АП: Вторые туры начинаются](texts/forum/2010/2010-02-14_2549_25-y-moskovskiy-konkurs-ap-vtorye-tury-nachinayutsya.md): 2010-02-14
+- [Вечер "Споём вместе!" 19 февраля 2010 г.](texts/forum/2010/2010-02-23_2571_vecher-spoem-vmeste-19-fevralya-2010-g.md): 2010-02-23
+- [Подарю](texts/forum/2010/2010-03-01_2581_podaryu.md): 2010-03-01
+- [В. А. Луферов умер](texts/forum/2010/2010-03-04_2583_v-a-luferov-umer.md): 2010-03-04
+- [Сергей Шабуцкий](texts/forum/2010/2010-03-07_2591_sergey-shabutskiy.md): 2010-03-07
+- [Вечер "Споём вместе!" 6 марта 2010 года](texts/forum/2010/2010-03-07_2592_vecher-spoem-vmeste-6-marta-2010-goda.md): 2010-03-07
+- [Андрей Крючков как исполнитель](texts/forum/2010/2010-03-07_2597_andrey-kryuchkov-kak-ispolnitel.md): 2010-03-07
+- [Ближайшая микрофонка?](texts/forum/2010/2010-03-08_2593_blizhayshaya-mikrofonka.md): 2010-03-08
+- [Совковые методы воспитания нравственности у мифистов](texts/forum/2010/2010-03-10_2589_sovkovye-metody-vospitaniya-nravstvennosti-u-mifistov.md): 2010-03-10
+- [Вера Матвеева: "Безумный архитектор".](texts/forum/2010/2010-03-10_2602_vera-matveeva-bezumnyy-arhitektor.md): 2010-03-10
+- [Религия Победы ...статья  Александра Проханова](texts/forum/2010/2010-03-15_2598_religiya-pobedy-statya-aleksandra-prohanova.md): 2010-03-15
+- [Культурная революция 11-03-2010](texts/forum/2010/2010-03-15_2605_kulturnaya-revolyutsiya-11-03-2010.md): 2010-03-15
+- [Третий тур Межвузовского конкурса](texts/forum/2010/2010-03-22_2625_tretiy-tur-mezhvuzovskogo-konkursa.md): 2010-03-22
+- [Неожиданный вопрос](texts/forum/2010/2010-03-25_2626_neozhidannyy-vopros.md): 2010-03-25
+- [Проект "Биография"](texts/forum/2010/2010-03-29_2518_proekt-biografiya.md): 2010-03-29
+- [Переход на летнее время](texts/forum/2010/2010-03-29_2636_perehod-na-letnee-vremya.md): 2010-03-29
+- [Ау, КС.](texts/forum/2010/2010-03-30_2637_au-ks.md): 2010-03-30
+- [Прошёл год. Спасибо за советы :-)](texts/forum/2010/2010-03-30_2638_proshel-god-spasibo-za-sovety.md): 2010-03-30
+- [Концерт Игоря Жмотова и Якова Гальперштейна: ЦАП, 1 апреля](texts/forum/2010/2010-03-30_2639_kontsert-igorya-zhmotova-i-yakova-galpershteyna-tsap-1-aprel.md): 2010-03-30
+- [25 Московский конкурс: Вторые туры закончились](texts/forum/2010/2010-03-30_2640_25-moskovskiy-konkurs-vtorye-tury-zakonchilis.md): 2010-03-30
+- ["Летчица". Попытка анализа ;-)](texts/forum/2010/2010-04-03_2658_letchitsa-popytka-analiza.md): 2010-04-03
+- [Фестивали без конкурса](texts/forum/2010/2010-04-04_2655_festivali-bez-konkursa.md): 2010-04-04
+- [мастерская. Границы жанра.](texts/forum/2010/2010-04-06_2661_masterskaya-granitsy-zhanra.md): 2010-04-06
+- [Вечер "Споём вместе!" 14 апреля 2010 года](texts/forum/2010/2010-04-15_2674_vecher-spoem-vmeste-14-aprelya-2010-goda.md): 2010-04-15
+- [Вечер "Споём вместе!" намечен на 8 мая.](texts/forum/2010/2010-04-15_2675_vecher-spoem-vmeste-namechen-na-8-maya.md): 2010-04-15
+- [3 ТУР МОСКОВСКОГО КОНКУРСА](texts/forum/2010/2010-04-16_2671_3-tur-moskovskogo-konkursa.md): 2010-04-16
+- [Международный детско-юношеский фестиваль "Зеленая карет](texts/forum/2010/2010-04-18_2679_mezhdunarodnyy-detsko-yunosheskiy-festival-zelenaya-karet.md): 2010-04-18
+- [Конь крашеный](texts/forum/2010/2010-04-19_2657_kon-krashenyy.md): 2010-04-19
+- [SOS Мир путешествий выселяют!](texts/forum/2010/2010-04-19_2680_sos-mir-puteshestviy-vyselyayut.md): 2010-04-19
+- [Начало концерта в Политехе, по версии Политеха - 17:00](texts/forum/2010/2010-04-22_2685_nachalo-kontserta-v-politehe-po-versii-politeha-17-00.md): 2010-04-22
+- [ИТОГИ 25 МОСКОВСКОГО КОНКУРСА АП](texts/forum/2010/2010-04-25_2689_itogi-25-moskovskogo-konkursa-ap.md): 2010-04-25
+- [Общие и прикладные вопросы концертной звукорежиссуры в АП](texts/forum/2010/2010-04-29_2700_obschie-i-prikladnye-voprosy-kontsertnoy-zvukorezhissury-v-a.md): 2010-04-29
+- [Концерт-награждение 12 мая](texts/forum/2010/2010-04-29_2701_kontsert-nagrazhdenie-12-maya.md): 2010-04-29
+- [Счастливого плаванья!](texts/forum/2010/2010-04-30_2704_schastlivogo-plavanya.md): 2010-04-30
+- [Теоретические чтения. 20 апреля 2010 года АЛЕКСЕЙ КИЯЙКИН](texts/forum/2010/2010-05-03_2708_teoreticheskie-chteniya-20-aprelya-2010-goda-aleksey-kiyayki.md): 2010-05-03
+- [не менее дежурным, уже сильно поскучневшим тоном](texts/forum/2010/2010-05-05_2711_ne-menee-dezhurnym-uzhe-silno-poskuchnevshim-tonom.md): 2010-05-05
+- [Вечер "Споём вместе!" 8 мая 2010 года](texts/forum/2010/2010-05-09_2720_vecher-spoem-vmeste-8-maya-2010-goda.md): 2010-05-09
+- [Статья Аркадия Лебедева](texts/forum/2010/2010-05-10_2723_statya-arkadiya-lebedeva.md): 2010-05-10
+- [Старая статья Виктора Байрака](texts/forum/2010/2010-05-10_2724_staraya-statya-viktora-bayraka.md): 2010-05-10
+- [Учебная радиопередача](texts/forum/2010/2010-05-11_2729_uchebnaya-radioperedacha.md): 2010-05-11
+- [Ремонт гитары. Лак](texts/forum/2010/2010-05-12_2731_remont-gitary-lak.md): 2010-05-12
+- [Петербургский Аккорд-2010](texts/forum/2010/2010-05-18_2091_peterburgskiy-akkord-2010.md): 2010-05-18
+- [Вечер, посвящённый 80-летию Г. Н. Шангина-Березовского](texts/forum/2010/2010-05-19_2749_vecher-posvyaschennyy-80-letiyu-g-n-shangina-berezovskogo.md): 2010-05-19
+- [Грузинская песня Б.Окуджава](texts/forum/2010/2010-05-22_2753_gruzinskaya-pesnya-b-okudzhava.md): 2010-05-22
+- [Мастерская 21.05.2010](texts/forum/2010/2010-05-24_2761_masterskaya-21-05-2010.md): 2010-05-24
+- [по поводу новости о КСП МИДВЕСТ США](texts/forum/2010/2010-06-01_2766_po-povodu-novosti-o-ksp-midvest-ssha.md): 2010-06-01
+- [Третий выпуск интернет-журнала "Человек с гитарой"](texts/forum/2010/2010-06-02_2768_tretiy-vypusk-internet-zhurnala-chelovek-s-gitaroy.md): 2010-06-02
+- [Список песен, прозвучавших в 2005-2010 гг.](texts/forum/2010/2010-06-02_2771_spisok-pesen-prozvuchavshih-v-2005-2010-gg.md): 2010-06-02
+- [Вести с ПетАккорда](texts/forum/2010/2010-06-05_2775_vesti-s-petakkorda.md): 2010-06-05
+- [Фестиваль в Коломенском-2010](texts/forum/2010/2010-06-05_2778_festival-v-kolomenskom-2010.md): 2010-06-05
+- [Гран-при Романа Ланкина и абсолютизация формы в АП](texts/forum/2010/2010-06-08_2780_gran-pri-romana-lankina-i-absolyutizatsiya-formy-v-ap.md): 2010-06-08
+- [Полуофициальное предисловие к официальной информации 135km.](texts/forum/2010/2010-06-10_2714_poluofitsialnoe-predislovie-k-ofitsialnoy-informatsii-135km.md): 2010-06-10
+- [Арт-Перекресток памяти В. Луферова](texts/forum/2010/2010-06-11_2765_art-perekrestok-pamyati-v-luferova.md): 2010-06-11
+- [Готовится концерт "цирковых" бардовских песен](texts/forum/2010/2010-06-20_2793_gotovitsya-kontsert-tsirkovyh-bardovskih-pesen.md): 2010-06-20
+- [Боганов/Баганов - как правильно?](texts/forum/2010/2010-06-23_2799_boganov-baganov-kak-pravilno.md): 2010-06-23
+- [Чикагская джазовая школа](texts/forum/2010/2010-06-30_2801_chikagskaya-dzhazovaya-shkola.md): 2010-06-30
+- [Володя Кухарёнок, ау!](texts/forum/2010/2010-06-30_2802_volodya-kuharenok-au.md): 2010-06-30
+- [4 июля 2010 по «Культуре» концерт АП](texts/forum/2010/2010-07-05_2805_4-iyulya-2010-po-kulture-kontsert-ap.md): 2010-07-05
+- [Ивиковы журавли. Кто убийца?](texts/forum/2010/2010-07-06_2810_ivikovy-zhuravli-kto-ubiytsa.md): 2010-07-06
+- ["Калинка" -- авторская песня.](texts/forum/2010/2010-07-06_2811_kalinka-avtorskaya-pesnya.md): 2010-07-06
+- [Книга "Споём вместе!" на сайте ksp-msk.ru](texts/forum/2010/2010-07-10_2817_kniga-spoem-vmeste-na-sayte-ksp-msk-ru.md): 2010-07-10
+- [Итоги Международного фестиваля АП памяти В.Грушина](texts/forum/2010/2010-07-11_2814_itogi-mezhdunarodnogo-festivalya-ap-pamyati-v-grushina.md): 2010-07-11
+- ["Содержание книги "Споем вместе" - ошибки](texts/forum/2010/2010-07-17_2827_soderzhanie-knigi-spoem-vmeste-oshibki.md): 2010-07-17
+- [о моде на профи - новый круг](texts/forum/2010/2010-07-18_2828_o-mode-na-profi-novyy-krug.md): 2010-07-18
+- [ОПРЕДЕЛЕНИЕ ДУШИ](texts/forum/2010/2010-08-01_2843_opredelenie-dushi.md): 2010-08-01
+- [6-я летняя Верхневолжская школа АП](texts/forum/2010/2010-08-01_2845_6-ya-letnyaya-verhnevolzhskaya-shkola-ap.md): 2010-08-01
+- [ОПРЕДЕЛЕНИЕ ДУШИ](texts/forum/2010/2010-08-02_1606_opredelenie-dushi.md): 2010-08-02
+- [Посвящение товарным поездам (Виктор Луферов)](texts/forum/2010/2010-08-09_2841_posvyaschenie-tovarnym-poezdam-viktor-luferov.md): 2010-08-09
+- [Галич: разборки продолжаются](texts/forum/2010/2010-08-20_2867_galich-razborki-prodolzhayutsya.md): 2010-08-20
+- [Владимиру Туриянскому -- 75!](texts/forum/2010/2010-08-21_2870_vladimiru-turiyanskomu-75.md): 2010-08-21
+- [Почему бардовская душа не поет, а ворчит?](texts/forum/2010/2010-09-15_2889_pochemu-bardovskaya-dusha-ne-poet-a-vorchit.md): 2010-09-15
+- [Юрий Визбор. "Пора подумать о себе"](texts/forum/2010/2010-09-21_2904_yuriy-vizbor-pora-podumat-o-sebe.md): 2010-09-21
+- [Визбор "Да, мой любимый"](texts/forum/2010/2010-09-22_2901_vizbor-da-moy-lyubimyy.md): 2010-09-22
+- [Организационное собрание гитарной школы 4 октября 2010 г.](texts/forum/2010/2010-09-24_2910_organizatsionnoe-sobranie-gitarnoy-shkoly-4-oktyabrya-2010-g.md): 2010-09-24
+- [Поздравляем posadnik-а!](texts/forum/2010/2010-09-28_1646_pozdravlyaem-posadnik-a.md): 2010-09-28
+- [Александр Городницкий. Приглашение к плаванью](texts/forum/2010/2010-09-29_2913_aleksandr-gorodnitskiy-priglashenie-k-plavanyu.md): 2010-09-29
+- [Вечер "Споём вместе!" 2 октября 2010 года](texts/forum/2010/2010-10-03_2920_vecher-spoem-vmeste-2-oktyabrya-2010-goda.md): 2010-10-03
+- [Из истории кустов АП](texts/forum/2010/2010-10-05_2925_iz-istorii-kustov-ap.md): 2010-10-05
+- [Михаил Гантман об Александре Костромине](texts/forum/2010/2010-10-16_2940_mihail-gantman-ob-aleksandre-kostromine.md): 2010-10-16
+- [Как уменьшить размер wma-файла?](texts/forum/2010/2010-10-16_2942_kak-umenshit-razmer-wma-fayla.md): 2010-10-16
+- [Занятие 19 октября 2010 г.](texts/forum/2010/2010-10-20_2948_zanyatie-19-oktyabrya-2010-g.md): 2010-10-20
+- [О режиссуре](texts/forum/2010/2010-10-21_2947_o-rezhissure.md): 2010-10-21
+- [Песня Веры Матвеевой использована в недавно вышедшем фильме](texts/forum/2010/2010-10-23_2914_pesnya-very-matveevoy-ispolzovana-v-nedavno-vyshedshem-filme.md): 2010-10-23
+- [Занятие 26 октября 2010 г.](texts/forum/2010/2010-10-26_2961_zanyatie-26-oktyabrya-2010-g.md): 2010-10-26
+- [Сергей Рубашкин: Театр и бардовская песня](texts/forum/2010/2010-11-01_2969_sergey-rubashkin-teatr-i-bardovskaya-pesnya.md): 2010-11-01
+- [Занятие 2 ноября 2010 г.](texts/forum/2010/2010-11-03_2971_zanyatie-2-noyabrya-2010-g.md): 2010-11-03
+- [Идея для вечера. Песни Анатолия Загота](texts/forum/2010/2010-11-07_2976_ideya-dlya-vechera-pesni-anatoliya-zagota.md): 2010-11-07
+- [Вечер "Споём вместе!" 6 ноября 2010 года](texts/forum/2010/2010-11-07_2977_vecher-spoem-vmeste-6-noyabrya-2010-goda.md): 2010-11-07
+- [Занятие 9 ноября 2010 г.](texts/forum/2010/2010-11-10_2982_zanyatie-9-noyabrya-2010-g.md): 2010-11-10
+- [День рождения Антона Трофимова](texts/forum/2010/2010-11-13_2984_den-rozhdeniya-antona-trofimova.md): 2010-11-13
+- [Умер Александр Васильевич Ткачёв...](texts/forum/2010/2010-11-13_2985_umer-aleksandr-vasilevich-tkachev.md): 2010-11-13
+- [14.11 Фестиваль КСП МИФИ "Нет дороге окончанья..."](texts/forum/2010/2010-11-16_2965_14-11-festival-ksp-mifi-net-doroge-okonchanya.md): 2010-11-16
+- [Школьные посиделки 19 ноября 2010 г.](texts/forum/2010/2010-11-16_2990_shkolnye-posidelki-19-noyabrya-2010-g.md): 2010-11-16
+- [Микрофонная практика 16 ноября 2010 г.](texts/forum/2010/2010-11-17_2992_mikrofonnaya-praktika-16-noyabrya-2010-g.md): 2010-11-17
+- [Юрий Визбор. Песня о песне (Пура-пу-пам...)](texts/forum/2010/2010-11-22_2998_yuriy-vizbor-pesnya-o-pesne-pura-pu-pam.md): 2010-11-22
+- [Городницкий, "Снег"](texts/forum/2010/2010-11-23_3001_gorodnitskiy-sneg.md): 2010-11-23
+- [Пройденные песни 2-го класса ГШ не скачиваются](texts/forum/2010/2010-11-23_3002_proydennye-pesni-2-go-klassa-gsh-ne-skachivayutsya.md): 2010-11-23
+- [Занятие 23 ноября 2010 г.](texts/forum/2010/2010-11-24_3004_zanyatie-23-noyabrya-2010-g.md): 2010-11-24
+- [Занятие 30 ноября 2010 г.](texts/forum/2010/2010-12-02_3014_zanyatie-30-noyabrya-2010-g.md): 2010-12-02
+- [Неполиткорректные вопросы](texts/forum/2010/2010-12-04_3016_nepolitkorrektnye-voprosy.md): 2010-12-04
+- [Вечер "Споём вместе!" 4 декабря 2010 года](texts/forum/2010/2010-12-05_3019_vecher-spoem-vmeste-4-dekabrya-2010-goda.md): 2010-12-05
+- [Галич, "Баллада о Фрези Грант"](texts/forum/2010/2010-12-09_3028_galich-ballada-o-frezi-grant.md): 2010-12-09
+- [Занятие 7 декабря 2010 г.](texts/forum/2010/2010-12-09_3029_zanyatie-7-dekabrya-2010-g.md): 2010-12-09
+- [Внимание! Перенос занятия!](texts/forum/2010/2010-12-09_3032_vnimanie-perenos-zanyatiya.md): 2010-12-09
+- [16 декабря 2010, ЦДРИ -- вечер памяти Александра Дулова](texts/forum/2010/2010-12-13_3039_16-dekabrya-2010-tsdri-vecher-pamyati-aleksandra-dulova.md): 2010-12-13
+- [Занятие 14 декабря 2010 г.](texts/forum/2010/2010-12-15_3044_zanyatie-14-dekabrya-2010-g.md): 2010-12-15
+- [Телепередача "Аукцион"](texts/forum/2010/2010-12-20_3046_teleperedacha-auktsion.md): 2010-12-20
+- [22 декабря 2010 г, ЦДРИ: концерт-акция "Друзья уходят&q](texts/forum/2010/2010-12-20_3050_22-dekabrya-2010-g-tsdri-kontsert-aktsiya-druzya-uhodyat-q.md): 2010-12-20
+- [Самая длинная ночь - 2008...](texts/forum/2010/2010-12-22_1814_samaya-dlinnaya-noch-2008.md): 2010-12-22
+- [Микрофонная практика 21 декабря 2010 г.](texts/forum/2010/2010-12-23_3055_mikrofonnaya-praktika-21-dekabrya-2010-g.md): 2010-12-23
+- [Занятие 28 декабря 2010 г.](texts/forum/2010/2010-12-29_3065_zanyatie-28-dekabrya-2010-g.md): 2010-12-29
+- [О феномене песни "Владимирский централ". И не толь](texts/forum/2011/2011-01-07_3063_o-fenomene-pesni-vladimirskiy-tsentral-i-ne-tol.md): 2011-01-07
+- [Вечер "Споём вместе!" 8 января 2011 г.](texts/forum/2011/2011-01-09_3076_vecher-spoem-vmeste-8-yanvarya-2011-g.md): 2011-01-09
+- [Занятие 11 января 2011 г.](texts/forum/2011/2011-01-12_3078_zanyatie-11-yanvarya-2011-g.md): 2011-01-12
+- [Фестиваль-смотр детско-юношеских коллективов «Многоголосье»](texts/forum/2011/2011-01-17_3084_festival-smotr-detsko-yunosheskih-kollektivov-mnogogolose.md): 2011-01-17
+- [Кризис бардоведения.](texts/forum/2011/2011-01-21_3088_krizis-bardovedeniya.md): 2011-01-21
+- ["вечер песен Ланцберга и Устинова"](texts/forum/2011/2011-01-22_3091_vecher-pesen-lantsberga-i-ustinova.md): 2011-01-22
+- [Почему?](texts/forum/2011/2011-01-26_3103_pochemu.md): 2011-01-26
+- [Занятие 25 января 2011 г.](texts/forum/2011/2011-01-26_3104_zanyatie-25-yanvarya-2011-g.md): 2011-01-26
+- [Микрофонная практика 1 февраля 2011 г.](texts/forum/2011/2011-02-02_3121_mikrofonnaya-praktika-1-fevralya-2011-g.md): 2011-02-02
+- [Зимородок - 2011](texts/forum/2011/2011-02-08_2996_zimorodok-2011.md): 2011-02-08
+- [Занятие 8 февраля 2011 г.](texts/forum/2011/2011-02-09_3130_zanyatie-8-fevralya-2011-g.md): 2011-02-09
+- [У Владимира Палта, 10 февраля День Рождения!](texts/forum/2011/2011-02-10_3131_u-vladimira-palta-10-fevralya-den-rozhdeniya.md): 2011-02-10
+- [Вечер "Споём вместе!" 12 февраля 2011 г.](texts/forum/2011/2011-02-13_3138_vecher-spoem-vmeste-12-fevralya-2011-g.md): 2011-02-13
+- [У Миши Гантмана день рожденья!!!](texts/forum/2011/2011-02-14_3140_u-mishi-gantmana-den-rozhdenya.md): 2011-02-14
+- [Занятие 15 февраля 2011 г.](texts/forum/2011/2011-02-16_3142_zanyatie-15-fevralya-2011-g.md): 2011-02-16
+- [У Виталия Басенка  18 февраля день рождения!](texts/forum/2011/2011-02-19_3147_u-vitaliya-basenka-18-fevralya-den-rozhdeniya.md): 2011-02-19
+- [ФСБ - прокуратура, товарищеский матч?](texts/forum/2011/2011-02-23_3152_fsb-prokuratura-tovarischeskiy-match.md): 2011-02-23
+- [военная тема и АП - развод или разлад?](texts/forum/2011/2011-02-23_3154_voennaya-tema-i-ap-razvod-ili-razlad.md): 2011-02-23
+- [Занятие 22 февраля 2011 г.](texts/forum/2011/2011-02-24_3156_zanyatie-22-fevralya-2011-g.md): 2011-02-24
+- [27 февраля день рождения Сергея Рубашкина](texts/forum/2011/2011-02-27_3164_27-fevralya-den-rozhdeniya-sergeya-rubashkina.md): 2011-02-27
+- [к вопросу о бывшей самой читающей стране](texts/forum/2011/2011-03-01_3081_k-voprosu-o-byvshey-samoy-chitayuschey-strane.md): 2011-03-01
+- [Занятие 1 марта 2011 г.](texts/forum/2011/2011-03-02_3174_zanyatie-1-marta-2011-g.md): 2011-03-02
+- [Вечер "Споём вместе!" 5 марта 2011 г.](texts/forum/2011/2011-03-07_3185_vecher-spoem-vmeste-5-marta-2011-g.md): 2011-03-07
+- [8 марта день рождения Дмитрия /Матюшина](texts/forum/2011/2011-03-09_3188_8-marta-den-rozhdeniya-dmitriya-matyushina.md): 2011-03-09
+- [Нельзя  ли меню поуже сделать?](texts/forum/2011/2011-03-10_3190_nelzya-li-menyu-pouzhe-sdelat.md): 2011-03-10
+- [Александру Иванову -- 60!](texts/forum/2011/2011-03-11_3191_aleksandru-ivanovu-60.md): 2011-03-11
+- [14-й Московский детско-юношеский фестиваль АП](texts/forum/2011/2011-03-13_3194_14-y-moskovskiy-detsko-yunosheskiy-festival-ap.md): 2011-03-13
+- [Микрофонная практика 15 марта 2011 г.](texts/forum/2011/2011-03-16_3199_mikrofonnaya-praktika-15-marta-2011-g.md): 2011-03-16
+- [17 марта -- день рождения Константина Сидорова](texts/forum/2011/2011-03-18_3203_17-marta-den-rozhdeniya-konstantina-sidorova.md): 2011-03-18
+- [20 марта день рождения Александра Городницкого](texts/forum/2011/2011-03-20_3207_20-marta-den-rozhdeniya-aleksandra-gorodnitskogo.md): 2011-03-20
+- [Александр Алабин о песне Е.Клячкина "Подарок"](texts/forum/2011/2011-03-21_3209_aleksandr-alabin-o-pesne-e-klyachkina-podarok.md): 2011-03-21
+- [Письмо Ирины Алексеевой](texts/forum/2011/2011-03-27_1407_pismo-iriny-alekseevoy.md): 2011-03-27
+- [Занятие 22 марта 2011 г.](texts/forum/2011/2011-03-29_3228_zanyatie-22-marta-2011-g.md): 2011-03-29
+- [«Публичный дом в центре Москвы замаскирован под бард-кафе!»](texts/forum/2011/2011-04-02_3168_publichnyy-dom-v-tsentre-moskvy-zamaskirovan-pod-bard-kafe.md): 2011-04-02
+- [Занятие 29 марта 2011 г.](texts/forum/2011/2011-04-02_3239_zanyatie-29-marta-2011-g.md): 2011-04-02
+- [23 апреля концерт-приглашение (Ю.Лорес, А.Иванов, Т.Дрыгина)](texts/forum/2011/2011-04-04_3241_23-aprelya-kontsert-priglashenie-yu-lores-a-ivanov-t-drygina.md): 2011-04-04
+- [Занятие 5 апреля 2011 г.](texts/forum/2011/2011-04-06_3245_zanyatie-5-aprelya-2011-g.md): 2011-04-06
+- [Вечер "Споём вместе!" 9 апреля 2011 г.](texts/forum/2011/2011-04-10_3253_vecher-spoem-vmeste-9-aprelya-2011-g.md): 2011-04-10
+- [Занятие 12 апреля 2011 г.](texts/forum/2011/2011-04-13_3262_zanyatie-12-aprelya-2011-g.md): 2011-04-13
+- [13 апреля -- день рождения Игоря Белого](texts/forum/2011/2011-04-13_3264_13-aprelya-den-rozhdeniya-igorya-belogo.md): 2011-04-13
+- [80-летие Александра Дулова на Суздальской земле](texts/forum/2011/2011-04-20_3275_80-letie-aleksandra-dulova-na-suzdalskoy-zemle.md): 2011-04-20
+- [Фото с "Автобиографии" Никитина](texts/forum/2011/2011-04-21_3276_foto-s-avtobiografii-nikitina.md): 2011-04-21
+- [29 апреля  -- посиделки Гитарной школы](texts/forum/2011/2011-04-26_3283_29-aprelya-posidelki-gitarnoy-shkoly.md): 2011-04-26
+- [Занятие 26 апреля 2011 г.](texts/forum/2011/2011-04-27_3284_zanyatie-26-aprelya-2011-g.md): 2011-04-27
+- [Елена Алексеева и Жан Селезнев в Москве](texts/forum/2011/2011-04-27_3285_elena-alekseeva-i-zhan-seleznev-v-moskve.md): 2011-04-27
+- ["Биография": Валентин Иванович Вихорев](texts/forum/2011/2011-04-27_3286_biografiya-valentin-ivanovich-vihorev.md): 2011-04-27
+- [Место проведения "Споём вместе" 7 мая специально н](texts/forum/2011/2011-04-30_3292_mesto-provedeniya-spoem-vmeste-7-maya-spetsialno-n.md): 2011-04-30
+- [НАВСТРЕЧУ ДВАДЦАТЬ ШЕСТОМУ МОСКОВСКОМУ КОНКУРСУ АП](texts/forum/2011/2011-05-01_3294_navstrechu-dvadtsat-shestomu-moskovskomu-konkursu-ap.md): 2011-05-01
+- [Юлий Ким. Пиратская ("По бушующим морям...")](texts/forum/2011/2011-05-02_3295_yuliy-kim-piratskaya-po-bushuyuschim-moryam.md): 2011-05-02
+- [Занятие 3 мая 2011 г](texts/forum/2011/2011-05-06_3300_zanyatie-3-maya-2011-g.md): 2011-05-06
+- [Вечер "Споём вместе!" 7 мая 2011 г.](texts/forum/2011/2011-05-09_3308_vecher-spoem-vmeste-7-maya-2011-g.md): 2011-05-09
+- [Фестиваль "Песня Булата" в Колонтаево](texts/forum/2011/2011-05-10_3115_festival-pesnya-bulata-v-kolontaevo.md): 2011-05-10
+- [Пой, май 2011. Где бы почитать о нём?](texts/forum/2011/2011-05-10_3312_poy-may-2011-gde-by-pochitat-o-nem.md): 2011-05-10
+- [ищу песню](texts/forum/2011/2011-05-11_3313_ischu-pesnyu.md): 2011-05-11
+- [Занятие 10 мая 2011 г.](texts/forum/2011/2011-05-17_3323_zanyatie-10-maya-2011-g.md): 2011-05-17
+- [Занятие 17 мая 2011 г.](texts/forum/2011/2011-05-19_3324_zanyatie-17-maya-2011-g.md): 2011-05-19
+- [СГШ 2011](texts/forum/2011/2011-05-22_3325_sgsh-2011.md): 2011-05-22
+- [Фестиваль «Арт-Перекрёсток Виктора Луферова»](texts/forum/2011/2011-05-26_3290_festival-art-perekrestok-viktora-luferova.md): 2011-05-26
+- ["Мультиформат": за и против](texts/forum/2011/2011-05-26_3334_multiformat-za-i-protiv.md): 2011-05-26
+- [Интервью Татьяны Маталиной.](texts/forum/2011/2011-06-06_3347_intervyu-tatyany-matalinoy.md): 2011-06-06
+- [10 межрегиональный фестиваль АП в Коломенском, 11-13 июня](texts/forum/2011/2011-06-11_3357_10-mezhregionalnyy-festival-ap-v-kolomenskom-11-13-iyunya.md): 2011-06-11
+- [Гимн Российского Олимпионика](texts/forum/2011/2011-06-11_3358_gimn-rossiyskogo-olimpionika.md): 2011-06-11
+- [Не о Чикиной или - хочу позитива](texts/forum/2011/2011-06-12_3356_ne-o-chikinoy-ili-hochu-pozitiva.md): 2011-06-12
+- [Грушинский фестиваль 2011](texts/forum/2011/2011-06-13_3258_grushinskiy-festival-2011.md): 2011-06-13
+- [Всего лишь кротко вопрошаю, из природного любопытства](texts/forum/2011/2011-06-13_3362_vsego-lish-krotko-voproshayu-iz-prirodnogo-lyubopytstva.md): 2011-06-13
+- [Уберите Phantomа с форума!](texts/forum/2011/2011-06-13_3364_uberite-phantoma-s-foruma.md): 2011-06-13
+- [Еще раз о троллинге](texts/forum/2011/2011-06-14_3375_esche-raz-o-trollinge.md): 2011-06-14
+- [Очень нужны аккорды!](texts/forum/2011/2011-06-17_3379_ochen-nuzhny-akkordy.md): 2011-06-17
+- [церковь и АП](texts/forum/2011/2011-06-19_3380_tserkov-i-ap.md): 2011-06-19
+- [О "вербализации чувств"](texts/forum/2011/2011-06-23_3381_o-verbalizatsii-chuvstv.md): 2011-06-23
+- [23 июня -- день рождения Алины Михайловской](texts/forum/2011/2011-06-23_3389_23-iyunya-den-rozhdeniya-aliny-mihaylovskoy.md): 2011-06-23
+- [Умер Юрий Кукин](texts/forum/2011/2011-07-07_3426_umer-yuriy-kukin.md): 2011-07-07
+- ["Почтовый дилижанс" -- это не Клячкин!](texts/forum/2011/2011-07-14_3433_pochtovyy-dilizhans-eto-ne-klyachkin.md): 2011-07-14
+- ["Через два года" в исполнении А. Костромина](texts/forum/2011/2011-07-18_3439_cherez-dva-goda-v-ispolnenii-a-kostromina.md): 2011-07-18
+- [Поздравляем Михаила Гантмана и Виталия Басенка с женитьбой](texts/forum/2011/2011-07-29_3464_pozdravlyaem-mihaila-gantmana-i-vitaliya-basenka-s-zhenitboy.md): 2011-07-29
+- [Золотое Правило Шлягерности](texts/forum/2011/2011-08-05_3468_zolotoe-pravilo-shlyagernosti.md): 2011-08-05
+- [Аккорды к песне К. Тарасова "Что из того..."](texts/forum/2011/2011-08-14_2686_akkordy-k-pesne-k-tarasova-chto-iz-togo.md): 2011-08-14
+- [Создаётся РОО "Союз деятелей авторской песни"](texts/forum/2011/2011-09-07_3511_sozdaetsya-roo-soyuz-deyateley-avtorskoy-pesni.md): 2011-09-07
+- [Вечеров в Политехническом больше не будет](texts/forum/2011/2011-09-07_3512_vecherov-v-politehnicheskom-bolshe-ne-budet.md): 2011-09-07
+- [Прошу завести раздел "На кухне ЦАПа"](texts/forum/2011/2011-09-11_3522_proshu-zavesti-razdel-na-kuhne-tsapa.md): 2011-09-11
+- [Клубный вечера или что-то взамен](texts/forum/2011/2011-09-11_3529_klubnyy-vechera-ili-chto-to-vzamen.md): 2011-09-11
+- [Александру Костромину - 60](texts/forum/2011/2011-09-13_3537_aleksandru-kostrominu-60.md): 2011-09-13
+- [Посиделки 2-ого сентября 2011г ЦАП](texts/forum/2011/2011-09-14_3521_posidelki-2-ogo-sentyabrya-2011g-tsap.md): 2011-09-14
+- [Давай помолчим.](texts/forum/2011/2011-09-15_3532_davay-pomolchim.md): 2011-09-15
+- [Умереть молодым (Как бы рок-манифест) – Стар](texts/forum/2011/2011-09-22_3486_umeret-molodym-kak-by-rok-manifest-star.md): 2011-09-22
+- [Фестивали с конкурсом.](texts/forum/2011/2011-09-26_3571_festivali-s-konkursom.md): 2011-09-26
+- [Детская память](texts/forum/2011/2011-09-27_3567_detskaya-pamyat.md): 2011-09-27
+- [ГШ в 2011](texts/forum/2011/2011-09-29_3578_gsh-v-2011.md): 2011-09-29
+- [Тент в музее Окуджавы снова успешно повешен](texts/forum/2011/2011-10-09_6227_tent-v-muzee-okudzhavy-snova-uspeshno-poveshen.md): 2011-10-09
+- [Фестиваль "Парад дуэтов и ансамблей" КЦ ДОМ 3 нояб](texts/forum/2011/2011-10-11_3547_festival-parad-duetov-i-ansambley-kts-dom-3-noyab.md): 2011-10-11
+- ["Споём вместе!" на новом месте](texts/forum/2011/2011-10-15_3617_spoem-vmeste-na-novom-meste.md): 2011-10-15
+- [требуется поговорить об авторской песне!](texts/forum/2011/2011-10-16_3494_trebuetsya-pogovorit-ob-avtorskoy-pesne.md): 2011-10-16
+- [3 повода для дискуссии](texts/forum/2011/2011-10-16_3619_3-povoda-dlya-diskussii.md): 2011-10-16
+- [Давайте поздравим Олю Хорошутину с Днем рожденья!](texts/forum/2011/2011-10-19_3623_davayte-pozdravim-olyu-horoshutinu-s-dnem-rozhdenya.md): 2011-10-19
+- [Занятие 18 октября 2011 г.](texts/forum/2011/2011-10-19_3626_zanyatie-18-oktyabrya-2011-g.md): 2011-10-19
+- [О голосовании](texts/forum/2011/2011-10-21_3614_o-golosovanii.md): 2011-10-21
+- [Размещение материалов Гитарной школы](texts/forum/2011/2011-10-22_3631_razmeschenie-materialov-gitarnoy-shkoly.md): 2011-10-22
+- [ссылке на сайте ЦАПа в разделе "теоретические чтения&qu](texts/forum/2011/2011-10-23_3271_ssylke-na-sayte-tsapa-v-razdele-teoreticheskie-chteniya-qu.md): 2011-10-23
+- [Занятие 25 октября 2011 г.](texts/forum/2011/2011-10-27_3642_zanyatie-25-oktyabrya-2011-g.md): 2011-10-27
+- [Поздравляем Юрия Лореса с юбилеем!](texts/forum/2011/2011-10-29_3644_pozdravlyaem-yuriya-loresa-s-yubileem.md): 2011-10-29
+- [Занятие 1 ноября 2011 г.](texts/forum/2011/2011-11-01_3648_zanyatie-1-noyabrya-2011-g.md): 2011-11-01
+- [Международный детско-юношеский фестиваль АП "Зелёная ка](texts/forum/2011/2011-11-05_3653_mezhdunarodnyy-detsko-yunosheskiy-festival-ap-zelenaya-ka.md): 2011-11-05
+- [Первый тур начинается](texts/forum/2011/2011-11-11_3664_pervyy-tur-nachinaetsya.md): 2011-11-11
+- [Давайте переименуем?](texts/forum/2011/2011-11-11_3666_davayte-pereimenuem.md): 2011-11-11
+- [Прослушивание первого тура 12.11.2011](texts/forum/2011/2011-11-13_3669_proslushivanie-pervogo-tura-12-11-2011.md): 2011-11-13
+- [Завтрак](texts/forum/2011/2011-11-14_3629_zavtrak.md): 2011-11-14
+- [Занятие 8 ноября 2011 г.](texts/forum/2011/2011-11-16_3674_zanyatie-8-noyabrya-2011-g.md): 2011-11-16
+- [Микрофонная практика 15 ноября 2011 г.](texts/forum/2011/2011-11-16_3675_mikrofonnaya-praktika-15-noyabrya-2011-g.md): 2011-11-16
+- ["Споём вместе!" 18 ноября 2011 г. в КЦ ВС РФ](texts/forum/2011/2011-11-16_3676_spoem-vmeste-18-noyabrya-2011-g-v-kts-vs-rf.md): 2011-11-16
+- [Прослушивание первого тура 19.11.2011](texts/forum/2011/2011-11-20_3681_proslushivanie-pervogo-tura-19-11-2011.md): 2011-11-20
+- [Занятие 22 ноября 2011 г](texts/forum/2011/2011-11-22_3688_zanyatie-22-noyabrya-2011-g.md): 2011-11-22
+- [Опубликовано Положение о 26-м Московском конкурсе АП](texts/forum/2011/2011-12-02_3706_opublikovano-polozhenie-o-26-m-moskovskom-konkurse-ap.md): 2011-12-02
+- [Поздравляем с днём рождения Бориса Жукова](texts/forum/2011/2011-12-07_3709_pozdravlyaem-s-dnem-rozhdeniya-borisa-zhukova.md): 2011-12-07
+- ["Споём вместе!" 9 декаьря 2011 г. в КЦ ВС РФ](texts/forum/2011/2011-12-10_3713_spoem-vmeste-9-dekarya-2011-g-v-kts-vs-rf.md): 2011-12-10
+- [Занятие 6 декабря 2011 г.](texts/forum/2011/2011-12-16_3725_zanyatie-6-dekabrya-2011-g.md): 2011-12-16
+- [Умер Валерий Миляев.](texts/forum/2011/2011-12-19_3727_umer-valeriy-milyaev.md): 2011-12-19
+- [22 декабря - ДЕНЬ БАРДОВСКОЙ ПЕСНИ.](texts/forum/2011/2011-12-22_3006_22-dekabrya-den-bardovskoy-pesni.md): 2011-12-22
+- [Почти  психиатрическая  пятиминутка.](texts/forum/2011/2011-12-24_3700_pochti-psihiatricheskaya-pyatiminutka.md): 2011-12-24
+- [Занятие 13 декабря 2011 г.](texts/forum/2011/2011-12-24_3738_zanyatie-13-dekabrya-2011-g.md): 2011-12-24
+- [Микрофонная практика 20 декабря 2011 г.](texts/forum/2011/2011-12-24_3739_mikrofonnaya-praktika-20-dekabrya-2011-g.md): 2011-12-24
+- [Занятие 27 декабря 2011 г.](texts/forum/2011/2011-12-27_3740_zanyatie-27-dekabrya-2011-g.md): 2011-12-27
+- [Начало занятий в Гитарной школе в январе](texts/forum/2012/2012-01-09_3751_nachalo-zanyatiy-v-gitarnoy-shkole-v-yanvare.md): 2012-01-09
+- ["Споём вместе!" 8 января 2012 г. в КЦ ВС РФ](texts/forum/2012/2012-01-09_3754_spoem-vmeste-8-yanvarya-2012-g-v-kts-vs-rf.md): 2012-01-09
+- [Занятие 10 января 2012 г.](texts/forum/2012/2012-01-11_3758_zanyatie-10-yanvarya-2012-g.md): 2012-01-11
+- [Ушел Виталий Калашников...](texts/forum/2012/2012-01-13_3759_ushel-vitaliy-kalashnikov.md): 2012-01-13
+- [Занятие 17 января 2012 г.](texts/forum/2012/2012-01-20_3777_zanyatie-17-yanvarya-2012-g.md): 2012-01-20
+- [Занятие 24 января 2012 г.](texts/forum/2012/2012-01-25_3784_zanyatie-24-yanvarya-2012-g.md): 2012-01-25
+- [День рожденья Наташи Пороховой](texts/forum/2012/2012-01-27_3786_den-rozhdenya-natashi-porohovoy.md): 2012-01-27
+- [4 февраля 2012](texts/forum/2012/2012-02-01_3791_4-fevralya-2012.md): 2012-02-01
+- [20 февраля -- Виталий Калашников: 40 дней](texts/forum/2012/2012-02-06_3802_20-fevralya-vitaliy-kalashnikov-40-dney.md): 2012-02-06
+- [Еще одно определение ЧТАП: Сергей Гринберг](texts/forum/2012/2012-02-09_3806_esche-odno-opredelenie-chtap-sergey-grinberg.md): 2012-02-09
+- ["Споём вместе!" 10 февраля 2012 в КЦ ВС РФ](texts/forum/2012/2012-02-11_3812_spoem-vmeste-10-fevralya-2012-v-kts-vs-rf.md): 2012-02-11
+- [Поздравляем с рождением сына!!!](texts/forum/2012/2012-02-14_3799_pozdravlyaem-s-rozhdeniem-syna.md): 2012-02-14
+- [Поздравляем с юбилеем Веллу Фемиасовну Щербакову](texts/forum/2012/2012-02-14_3816_pozdravlyaem-s-yubileem-vellu-femiasovnu-scherbakovu.md): 2012-02-14
+- [14 февраля День рождения Михаила Гантмана](texts/forum/2012/2012-02-14_3817_14-fevralya-den-rozhdeniya-mihaila-gantmana.md): 2012-02-14
+- [Видео АП](texts/forum/2012/2012-02-16_3742_video-ap.md): 2012-02-16
+- [Критика произведений Высоцкого](texts/forum/2012/2012-02-16_3815_kritika-proizvedeniy-vysotskogo.md): 2012-02-16
+- [Занятие 31 января 2012 г.](texts/forum/2012/2012-02-16_3819_zanyatie-31-yanvarya-2012-g.md): 2012-02-16
+- [Микрофонная практика 7 февраля 2012 г.](texts/forum/2012/2012-02-16_3820_mikrofonnaya-praktika-7-fevralya-2012-g.md): 2012-02-16
+- [Занятие 14 февраля 2012 г.](texts/forum/2012/2012-02-16_3821_zanyatie-14-fevralya-2012-g.md): 2012-02-16
+- [А что это мы главного админа не поздравляем?](texts/forum/2012/2012-02-20_3822_a-chto-eto-my-glavnogo-admina-ne-pozdravlyaem.md): 2012-02-20
+- [Занятие 21 февраля 2012 г.](texts/forum/2012/2012-02-23_3827_zanyatie-21-fevralya-2012-g.md): 2012-02-23
+- [26 февраля 2012 г. -- первый конкурсный концерт 2 тура в ЦАП](texts/forum/2012/2012-02-24_3830_26-fevralya-2012-g-pervyy-konkursnyy-kontsert-2-tura-v-tsap.md): 2012-02-24
+- [Отмена "концерта" Александра Костромина 5 апреля 2](texts/forum/2012/2012-03-01_3836_otmena-kontserta-aleksandra-kostromina-5-aprelya-2.md): 2012-03-01
+- [Владимир Фрумкин vs Лидия Чебоксарова](texts/forum/2012/2012-03-01_3837_vladimir-frumkin-vs-lidiya-cheboksarova.md): 2012-03-01
+- [2 марта 2012 г. -- второй конкурсный концерт 2 тура в ЦАПе](texts/forum/2012/2012-03-02_3839_2-marta-2012-g-vtoroy-konkursnyy-kontsert-2-tura-v-tsape.md): 2012-03-02
+- [Перенос микрофонной практики с 13 на 20 марта](texts/forum/2012/2012-03-13_3856_perenos-mikrofonnoy-praktiki-s-13-na-20-marta.md): 2012-03-13
+- [МДЮФАП-2012](texts/forum/2012/2012-03-17_3869_mdyufap-2012.md): 2012-03-17
+- [«Споём вместе!» 16 марта 2012 г. в КЦ "ДОМ"](texts/forum/2012/2012-03-18_3864_spoem-vmeste-16-marta-2012-g-v-kts-dom.md): 2012-03-18
+- [Был такой вопрос.](texts/forum/2012/2012-03-19_3862_byl-takoy-vopros.md): 2012-03-19
+- [3 концерт 2 тура, ЦАП, 18 марта 2012 г.](texts/forum/2012/2012-03-19_3865_3-kontsert-2-tura-tsap-18-marta-2012-g.md): 2012-03-19
+- [а вы в курсе?](texts/forum/2012/2012-03-20_3722_a-vy-v-kurse.md): 2012-03-20
+- [Микрофонная практика 20 марта 2012 г.](texts/forum/2012/2012-03-21_3872_mikrofonnaya-praktika-20-marta-2012-g.md): 2012-03-21
+- [Занятие 28 февраля 2012 г.](texts/forum/2012/2012-03-21_3873_zanyatie-28-fevralya-2012-g.md): 2012-03-21
+- [Занятие 6 марта 2012 г.](texts/forum/2012/2012-03-21_3874_zanyatie-6-marta-2012-g.md): 2012-03-21
+- [Игорь Каримов про Второй тур и не только](texts/forum/2012/2012-03-27_3881_igor-karimov-pro-vtoroy-tur-i-ne-tolko.md): 2012-03-27
+- [Ошибка в анонсе](texts/forum/2012/2012-03-27_3882_oshibka-v-anonse.md): 2012-03-27
+- [Опубликован Регламент работы жюри 26 конкурса](texts/forum/2012/2012-03-29_3886_opublikovan-reglament-raboty-zhyuri-26-konkursa.md): 2012-03-29
+- [Подведены итоги Второго тура на площадке ЦАП](texts/forum/2012/2012-03-30_3887_podvedeny-itogi-vtorogo-tura-na-ploschadke-tsap.md): 2012-03-30
+- [Отзывы о конкурсе](texts/forum/2012/2012-04-04_3892_otzyvy-o-konkurse.md): 2012-04-04
+- [Занятие 3 апреля 2012 г.](texts/forum/2012/2012-04-04_3897_zanyatie-3-aprelya-2012-g.md): 2012-04-04
+- [Опубликован список участников 3 тура](texts/forum/2012/2012-04-07_3899_opublikovan-spisok-uchastnikov-3-tura.md): 2012-04-07
+- [«СПОЁМ ВМЕСТЕ!» 6 апреля 2012 г., КЦ ДОМ](texts/forum/2012/2012-04-07_3900_spoem-vmeste-6-aprelya-2012-g-kts-dom.md): 2012-04-07
+- [2.5 тур на площадке "Второго канала"](texts/forum/2012/2012-04-08_3844_2-5-tur-na-ploschadke-vtorogo-kanala.md): 2012-04-08
+- [25 апреля концерт-фестиваль"Театр песни"в Гиперион](texts/forum/2012/2012-04-10_3902_25-aprelya-kontsert-festival-teatr-pesni-v-giperion.md): 2012-04-10
+- [Конкурсный концерт третьего тура XXVI конкурса](texts/forum/2012/2012-04-10_3903_konkursnyy-kontsert-tretego-tura-xxvi-konkursa.md): 2012-04-10
+- [27 апреля -- концерт Александра Барьюдина](texts/forum/2012/2012-04-11_3906_27-aprelya-kontsert-aleksandra-baryudina.md): 2012-04-11
+- [В Оргкомитет поступило заявление](texts/forum/2012/2012-04-12_3907_v-orgkomitet-postupilo-zayavlenie.md): 2012-04-12
+- [Вторая книга 'Гитара в авторской песне. Аранжировка'](texts/forum/2012/2012-04-14_3911_vtoraya-kniga-gitara-v-avtorskoy-pesne-aranzhirovka.md): 2012-04-14
+- [Итоги XXVI Московского конкурса АП](texts/forum/2012/2012-04-16_3915_itogi-xxvi-moskovskogo-konkursa-ap.md): 2012-04-16
+- [Опубликованы протоколы жюри и зрительских симпатий](texts/forum/2012/2012-04-19_3920_opublikovany-protokoly-zhyuri-i-zritelskih-simpatiy.md): 2012-04-19
+- [Все песни в тональности "ля" - ищу аккорды](texts/forum/2012/2012-04-22_3927_vse-pesni-v-tonalnosti-lya-ischu-akkordy.md): 2012-04-22
+- [28 апреля: пришла пора повесить тент в музее Окуджавы](texts/forum/2012/2012-04-25_3929_28-aprelya-prishla-pora-povesit-tent-v-muzee-okudzhavy.md): 2012-04-25
+- [Петербургский Аккорд-2012](texts/forum/2012/2012-04-26_3485_peterburgskiy-akkord-2012.md): 2012-04-26
+- [СГШ-2012](texts/forum/2012/2012-05-02_3934_sgsh-2012.md): 2012-05-02
+- [День рождения А.Дулова на Суздальсуой земле](texts/forum/2012/2012-05-10_3940_den-rozhdeniya-a-dulova-na-suzdalsuoy-zemle.md): 2012-05-10
+- [Микрофонная практика 15 мая 2012 г.](texts/forum/2012/2012-05-16_3945_mikrofonnaya-praktika-15-maya-2012-g.md): 2012-05-16
+- [Давно не говорили.](texts/forum/2012/2012-05-17_3937_davno-ne-govorili.md): 2012-05-17
+- [Тент в Переделкино: вторая попытка](texts/forum/2012/2012-05-17_3951_tent-v-peredelkino-vtoraya-popytka.md): 2012-05-17
+- [21мая 2012 Заключительный концерт 26 Московского конкурса АП](texts/forum/2012/2012-05-18_3954_21maya-2012-zaklyuchitelnyy-kontsert-26-moskovskogo-konkursa.md): 2012-05-18
+- [23 мая -- день рождения Галины Бургучёвой](texts/forum/2012/2012-05-23_3957_23-maya-den-rozhdeniya-galiny-burguchevoy.md): 2012-05-23
+- [Отчётный концерт третьего класса 30.05.2012](texts/forum/2012/2012-05-31_3961_otchetnyy-kontsert-tretego-klassa-30-05-2012.md): 2012-05-31
+- [7 июня 2012 презентация книги А.Бермана "Среди стихий&q](texts/forum/2012/2012-06-02_3963_7-iyunya-2012-prezentatsiya-knigi-a-bermana-sredi-stihiy-q.md): 2012-06-02
+- [Посиделки](texts/forum/2012/2012-06-15_3973_posidelki.md): 2012-06-15
+- [Посиделки в ЦАПе  14 сентября 2007г. (Абдул Гамид…)](texts/forum/2012/2012-06-19_3975_posidelki-v-tsape-14-sentyabrya-2007g-abdul-gamid.md): 2012-06-19
+- [23 июня 2012 -- Александр Городницкий в Музее Окуджавы](texts/forum/2012/2012-06-21_3977_23-iyunya-2012-aleksandr-gorodnitskiy-v-muzee-okudzhavy.md): 2012-06-21
+- [23 июня день рождения Алины Михайловской](texts/forum/2012/2012-06-23_3979_23-iyunya-den-rozhdeniya-aliny-mihaylovskoy.md): 2012-06-23
+- [26-й Московский: обсудим итоги](texts/forum/2012/2012-06-28_3983_26-y-moskovskiy-obsudim-itogi.md): 2012-06-28
+- [Грушинский фестиваль 2012](texts/forum/2012/2012-07-11_3990_grushinskiy-festival-2012.md): 2012-07-11
+- [Пожалйуста, переименуйте названия разделов](texts/forum/2012/2012-07-31_3997_pozhalyusta-pereimenuyte-nazvaniya-razdelov.md): 2012-07-31
+- [Результаты соц. опроса про АП от Димы Коломенского](texts/forum/2012/2012-08-20_3987_rezultaty-sots-oprosa-pro-ap-ot-dimy-kolomenskogo.md): 2012-08-20
+- [Гитарная школа объявляет набор учащихся на 2012--2013 г](texts/forum/2012/2012-08-29_4011_gitarnaya-shkola-obyavlyaet-nabor-uchaschihsya-na-2012-2013.md): 2012-08-29
+- [Посиделки 31 августа 2012](texts/forum/2012/2012-08-31_4013_posidelki-31-avgusta-2012.md): 2012-08-31
+- [Внезапный вопрос не совсем про МДЮФАП, но рядом](texts/forum/2012/2012-09-10_4028_vnezapnyy-vopros-ne-sovsem-pro-mdyufap-no-ryadom.md): 2012-09-10
+- [Форум переведен на новый движок](texts/forum/2012/2012-09-24_4032_forum-pereveden-na-novyy-dvizhok.md): 2012-09-24
+- [1 октября 2012 г. состоялось организационное собрание ГШ](texts/forum/2012/2012-10-02_4047_1-oktyabrya-2012-g-sostoyalos-organizatsionnoe-sobranie-gsh.md): 2012-10-02
+- [новая концертная политика](texts/forum/2012/2012-10-04_4044_novaya-kontsertnaya-politika.md): 2012-10-04
+- [А тент в Музее Окуджавы пора снимать](texts/forum/2012/2012-10-04_4051_a-tent-v-muzee-okudzhavy-pora-snimat.md): 2012-10-04
+- [Занятие 9 октября 2012 г.](texts/forum/2012/2012-10-12_4063_zanyatie-9-oktyabrya-2012-g.md): 2012-10-12
+- [Занятие 16 октября 2012 г.](texts/forum/2012/2012-10-18_4100_zanyatie-16-oktyabrya-2012-g.md): 2012-10-18
+- [Колебания струн, снятые ай-фоном](texts/forum/2012/2012-10-19_4106_kolebaniya-strun-snyatye-ay-fonom.md): 2012-10-19
+- [По селу бегут мальчишки](texts/forum/2012/2012-10-21_4107_po-selu-begut-malchishki.md): 2012-10-21
+- [«СПОЁМ ВМЕСТЕ!» №54 , 20 октября 2012 г., КЦ ДОМ](texts/forum/2012/2012-10-21_4109_spoem-vmeste-54-20-oktyabrya-2012-g-kts-dom.md): 2012-10-21
+- [Теоретические чтения 26 октября 2012 г.](texts/forum/2012/2012-10-21_4111_teoreticheskie-chteniya-26-oktyabrya-2012-g.md): 2012-10-21
+- [Из опыта предшественников: Hootenanny](texts/forum/2012/2012-10-28_4117_iz-opyta-predshestvennikov-hootenanny.md): 2012-10-28
+- ["История с контрабасом" - от Брусника Пикчерз:)](texts/forum/2012/2012-10-31_4121_istoriya-s-kontrabasom-ot-brusnika-pikcherz.md): 2012-10-31
+- [Занятие 23 октября 2012 г.](texts/forum/2012/2012-10-31_4122_zanyatie-23-oktyabrya-2012-g.md): 2012-10-31
+- [Занятие 30 октября 2012 г.](texts/forum/2012/2012-10-31_4123_zanyatie-30-oktyabrya-2012-g.md): 2012-10-31
+- [Видеообращение Сергея Никитина](texts/forum/2012/2012-11-03_4125_videoobraschenie-sergeya-nikitina.md): 2012-11-03
+- [28.10 в "Доме" И. Левинзон, П. Аксёнов, К. и Л. Кузнецовы.](texts/forum/2012/2012-11-04_4112_28-10-v-dome-i-levinzon-p-aksenov-k-i-l-kuznetsovy.md): 2012-11-04
+- [Юрий Визбор "Жак Лондрей"](texts/forum/2012/2012-11-04_4126_yuriy-vizbor-zhak-londrey.md): 2012-11-04
+- [III Международный детско-юношеский фестиваль "Зелёная карета](texts/forum/2012/2012-11-05_4129_iii-mezhdunarodnyy-detsko-yunosheskiy-festival-zelenaya-kare.md): 2012-11-05
+- [21 ноября в ЦДРИ концерт Бориса Щеглова](texts/forum/2012/2012-11-07_4133_21-noyabrya-v-tsdri-kontsert-borisa-scheglova.md): 2012-11-07
+- [Занятие 6 ноября 2012 г.](texts/forum/2012/2012-11-07_4135_zanyatie-6-noyabrya-2012-g.md): 2012-11-07
+- [8 декабря в ЦДРИ, проект "Биография": Виктор БЕРКОВСКИЙ](texts/forum/2012/2012-11-09_4134_8-dekabrya-v-tsdri-proekt-biografiya-viktor-berkovskiy.md): 2012-11-09
+- ["Споём вместе!" №55, 10 ноября 2012 г., КЦ ДОМ](texts/forum/2012/2012-11-11_4142_spoem-vmeste-55-10-noyabrya-2012-g-kts-dom.md): 2012-11-11
+- [А давайте поздравим Антона Трофимова!](texts/forum/2012/2012-11-12_4143_a-davayte-pozdravim-antona-trofimova.md): 2012-11-12
+- [Поздравляем Олега Городецкого!](texts/forum/2012/2012-11-13_4148_pozdravlyaem-olega-gorodetskogo.md): 2012-11-13
+- [Микрофонная практика 13 ноября 2012 г.](texts/forum/2012/2012-11-14_4152_mikrofonnaya-praktika-13-noyabrya-2012-g.md): 2012-11-14
+- [16.11 очень интересный  концерт муз.студии МИФИ](texts/forum/2012/2012-11-15_4153_16-11-ochen-interesnyy-kontsert-muz-studii-mifi.md): 2012-11-15
+- [Занятие 20 ноября 2012 г.](texts/forum/2012/2012-11-21_4164_zanyatie-20-noyabrya-2012-g.md): 2012-11-21
+- [7 декабря 2012 г. посиделки гитарной школы.](texts/forum/2012/2012-12-04_4174_7-dekabrya-2012-g-posidelki-gitarnoy-shkoly.md): 2012-12-04
+- [Занятие 27 ноября 2011 г](texts/forum/2012/2012-12-05_4175_zanyatie-27-noyabrya-2011-g.md): 2012-12-05
+- [Занятие 4 декабря 2012 г.](texts/forum/2012/2012-12-05_4176_zanyatie-4-dekabrya-2012-g.md): 2012-12-05
+- [Топос 2012](texts/forum/2012/2012-12-14_4172_topos-2012.md): 2012-12-14
+- [Что имел в виду Галич?](texts/forum/2012/2012-12-17_4189_chto-imel-v-vidu-galich.md): 2012-12-17
+- [«СПОЁМ ВМЕСТЕ!» №56, 15 декабря 2012 г., КЦ ДОМ](texts/forum/2012/2012-12-17_4190_spoem-vmeste-56-15-dekabrya-2012-g-kts-dom.md): 2012-12-17
+- [Микрофонная практика 18 декабря 2012 г.](texts/forum/2012/2012-12-17_4191_mikrofonnaya-praktika-18-dekabrya-2012-g.md): 2012-12-17
+- [Поздравляем Нину и Родика Игнатовых](texts/forum/2012/2012-12-18_4193_pozdravlyaem-ninu-i-rodika-ignatovyh.md): 2012-12-18
+- [Занятие 11 декабря 2012 г.](texts/forum/2012/2012-12-18_4194_zanyatie-11-dekabrya-2012-g.md): 2012-12-18
+- [Георгий Мантуров.Муравьиный царь](texts/forum/2012/2012-12-19_4187_georgiy-manturov-muravinyy-tsar.md): 2012-12-19
+- [Концерт Петра Термена 21 декабря](texts/forum/2012/2012-12-20_4198_kontsert-petra-termena-21-dekabrya.md): 2012-12-20
+- [С Днём бардовской песни!](texts/forum/2012/2012-12-21_4200_s-dnem-bardovskoy-pesni.md): 2012-12-21
+- [Теоретические чтения 21.12.2012: А.Мирзаян](texts/forum/2012/2012-12-23_4205_teoreticheskie-chteniya-21-12-2012-a-mirzayan.md): 2012-12-23
+- [Кухарёнка - с днём рождения!](texts/forum/2012/2012-12-26_4212_kuharenka-s-dnem-rozhdeniya.md): 2012-12-26
+- [Виктора Николаевича Кузнецова - с юбилеем!!!!](texts/forum/2013/2013-01-04_4219_viktora-nikolaevicha-kuznetsova-s-yubileem.md): 2013-01-04
+- [Предлагаю создать раздел «История Московского КСП»](texts/forum/2013/2013-01-08_4224_predlagayu-sozdat-razdel-istoriya-moskovskogo-ksp.md): 2013-01-08
+- [16 января "Двадцатка" - "ДЕНЬ ОТКРЫТИЯ АНТАРКТИДЫ"](texts/forum/2013/2013-01-09_4226_16-yanvarya-dvadtsatka-den-otkrytiya-antarktidy.md): 2013-01-09
+- [Прямая интернет-трансляция вечера памяти Виталия Калашникова](texts/forum/2013/2013-01-12_4228_pryamaya-internet-translyatsiya-vechera-pamyati-vitaliya-kal.md): 2013-01-12
+- [Что за секретный раздел появиля на форуме?](texts/forum/2013/2013-01-13_4230_chto-za-sekretnyy-razdel-poyavilya-na-forume.md): 2013-01-13
+- [«СПОЁМ ВМЕСТЕ!» №57, 12 января 2013 г., КЦ ДОМ](texts/forum/2013/2013-01-13_4231_spoem-vmeste-57-12-yanvarya-2013-g-kts-dom.md): 2013-01-13
+- [Открытое письмо Евгении Ланцберг](texts/forum/2013/2013-01-17_4235_otkrytoe-pismo-evgenii-lantsberg.md): 2013-01-17
+- [Нужен ли МДЮФАПу сайт?](texts/forum/2013/2013-01-20_4237_nuzhen-li-mdyufapu-sayt.md): 2013-01-20
+- [как нам улучшить МДЮФАП](texts/forum/2013/2013-01-20_4240_kak-nam-uluchshit-mdyufap.md): 2013-01-20
+- [Нужна помощь Н.Ф.Тихоновой-Визбор](texts/forum/2013/2013-01-20_4241_nuzhna-pomosch-n-f-tihonovoy-vizbor.md): 2013-01-20
+- [Совет МДЮФАП](texts/forum/2013/2013-01-21_4243_sovet-mdyufap.md): 2013-01-21
+- [Знает-ли кто-нть аккорды к песне Алмазова Рябиновый вальс?](texts/forum/2013/2013-01-28_4244_znaet-li-kto-nt-akkordy-k-pesne-almazova-ryabinovyy-vals.md): 2013-01-28
+- [Поговорим о XXVII-ом конкурсе?](texts/forum/2013/2013-01-28_4255_pogovorim-o-xxvii-om-konkurse.md): 2013-01-28
+- [Итоги этапа Мастерских 2013](texts/forum/2013/2013-01-30_4265_itogi-etapa-masterskih-2013.md): 2013-01-30
+- [Валерий Абрамкин в истории московского КСП](texts/forum/2013/2013-01-30_4267_valeriy-abramkin-v-istorii-moskovskogo-ksp.md): 2013-01-30
+- [Занятие 25 декабря 2012 г.](texts/forum/2013/2013-01-30_4268_zanyatie-25-dekabrya-2012-g.md): 2013-01-30
+- [Занятие 15 января 2013 г.](texts/forum/2013/2013-01-30_4269_zanyatie-15-yanvarya-2013-g.md): 2013-01-30
+- [А почему 1-й Московский детско-юношеский фестиваль - 1997?](texts/forum/2013/2013-02-04_4271_a-pochemu-1-y-moskovskiy-detsko-yunosheskiy-festival-1997.md): 2013-02-04
+- [Занятие 29 января 2013 г.](texts/forum/2013/2013-02-06_4274_zanyatie-29-yanvarya-2013-g.md): 2013-02-06
+- [Микрофонная практика 5 февраля 2013 г.](texts/forum/2013/2013-02-06_4275_mikrofonnaya-praktika-5-fevralya-2013-g.md): 2013-02-06
+- [МДЮФАП-2013](texts/forum/2013/2013-02-08_4156_mdyufap-2013.md): 2013-02-08
+- [Ещё один вариант.](texts/forum/2013/2013-02-08_4276_esche-odin-variant.md): 2013-02-08
+- [Уточнение аккордов к песне "Весёлая покойницкая" Высоцкого](texts/forum/2013/2013-02-14_4291_utochnenie-akkordov-k-pesne-veselaya-pokoynitskaya-vysotskog.md): 2013-02-14
+- [МДЮФАП: информация о работе над новым положением о фестивале](texts/forum/2013/2013-02-14_4292_mdyufap-informatsiya-o-rabote-nad-novym-polozheniem-o-festiv.md): 2013-02-14
+- [Песня, которую пел Вейцкин...](texts/forum/2013/2013-02-16_4294_pesnya-kotoruyu-pel-veytskin.md): 2013-02-16
+- [«СПОЁМ ВМЕСТЕ!» № 58, 13 февраля 2013 г., КЦ ДОМ](texts/forum/2013/2013-02-16_4295_spoem-vmeste-58-13-fevralya-2013-g-kts-dom.md): 2013-02-16
+- [Итоги 2 тура 16-17 февраля 2013](texts/forum/2013/2013-02-18_4300_itogi-2-tura-16-17-fevralya-2013.md): 2013-02-18
+- ["Атлантам" -- пятьдесят!](texts/forum/2013/2013-02-21_4302_atlantam-pyatdesyat.md): 2013-02-21
+- [3 тур МДЮФАП 3 марта 2013](texts/forum/2013/2013-03-03_4308_3-tur-mdyufap-3-marta-2013.md): 2013-03-03
+- ["Ваше величие вёсен..."](texts/forum/2013/2013-03-10_4303_vashe-velichie-vesen.md): 2013-03-10
+- ["СПОЁМ ВМЕ%СТЕ!" №59, 15 марта 2013, КЦ ДОМ](texts/forum/2013/2013-03-17_4328_spoem-vme-ste-59-15-marta-2013-kts-dom.md): 2013-03-17
+- [Заключительный концерт МДЮФАП: ДомЖур, 7 апреля 2013](texts/forum/2013/2013-03-18_4326_zaklyuchitelnyy-kontsert-mdyufap-domzhur-7-aprelya-2013.md): 2013-03-18
+- [Степ](texts/forum/2013/2013-03-29_4337_step.md): 2013-03-29
+- [Занятие 2 апреля 2013](texts/forum/2013/2013-04-03_4343_zanyatie-2-aprelya-2013.md): 2013-04-03
+- [Откуда в авторской песне появились Митяев и Розенбаум :-)](texts/forum/2013/2013-04-04_4346_otkuda-v-avtorskoy-pesne-poyavilis-mityaev-i-rozenbaum.md): 2013-04-04
+- [Про атрибутирование фотографий](texts/forum/2013/2013-04-08_4348_pro-atributirovanie-fotografiy.md): 2013-04-08
+- [Ноктюрн](texts/forum/2013/2013-04-12_4349_noktyurn.md): 2013-04-12
+- [Ждать и просить. Ответ Костромину](texts/forum/2013/2013-04-13_4352_zhdat-i-prosit-otvet-kostrominu.md): 2013-04-13
+- [Свидимся](texts/forum/2013/2013-04-15_4354_svidimsya.md): 2013-04-15
+- ["Методобъединение" по итогам прошедшего фестиваля.](texts/forum/2013/2013-04-18_4350_metodobedinenie-po-itogam-proshedshego-festivalya.md): 2013-04-18
+- [Теоретические чтения в ЦАПе 26.04.2013: АП против АП](texts/forum/2013/2013-04-18_4358_teoreticheskie-chteniya-v-tsape-26-04-2013-ap-protiv-ap.md): 2013-04-18
+- [Запоздалая песня](texts/forum/2013/2013-04-19_4344_zapozdalaya-pesnya.md): 2013-04-19
+- [ФЕСТОС-2013. ТРЕТИЙ ТУР в рамках ГАЛА-КОНЦЕРТА](texts/forum/2013/2013-04-21_4353_festos-2013-tretiy-tur-v-ramkah-gala-kontserta.md): 2013-04-21
+- ["СПОЁМ ВМЕСТЕ!" №60, 20 апреля 2013, Лекторий "1с"](texts/forum/2013/2013-04-21_4361_spoem-vmeste-60-20-aprelya-2013-lektoriy-1s.md): 2013-04-21
+- [Слёты московского КСП](texts/forum/2013/2013-04-21_4362_slety-moskovskogo-ksp.md): 2013-04-21
+- [Возвращаясь...](texts/forum/2013/2013-04-22_4335_vozvraschayas.md): 2013-04-22
+- [Неполадки на сайте 1 мая 2013 г.](texts/forum/2013/2013-05-01_4370_nepoladki-na-sayte-1-maya-2013-g.md): 2013-05-01
+- [Тент в Музее Окуджавы повешен](texts/forum/2013/2013-05-12_4378_tent-v-muzee-okudzhavy-poveshen.md): 2013-05-12
+- [Проект положения о фестивале 2014](texts/forum/2013/2013-05-13_4380_proekt-polozheniya-o-festivale-2014.md): 2013-05-13
+- [О присутствии и отсутствии официальных лиц на форуме](texts/forum/2013/2013-05-16_4385_o-prisutstvii-i-otsutstvii-ofitsialnyh-lits-na-forume.md): 2013-05-16
+- [Где в интернете можно разместить запись свей песни?](texts/forum/2013/2013-05-21_4393_gde-v-internete-mozhno-razmestit-zapis-svey-pesni.md): 2013-05-21
+- ["Переделкино" в Музее Окуджавы, 15 июня, 15:00](texts/forum/2013/2013-06-10_4412_peredelkino-v-muzee-okudzhavy-15-iyunya-15-00.md): 2013-06-10
+- ["Почему Анчаров?" Спецвыпуск журнала "Листва" Вологда 2013](texts/forum/2013/2013-06-19_4407_pochemu-ancharov-spetsvypusk-zhurnala-listva-vologda-2013.md): 2013-06-19
+- [С днём рождения Алину Михайловскую](texts/forum/2013/2013-06-23_4426_s-dnem-rozhdeniya-alinu-mihaylovskuyu.md): 2013-06-23
+- [Мастрюки-2013](texts/forum/2013/2013-07-14_4435_mastryuki-2013.md): 2013-07-14
+- [Будущее авторской песни](texts/forum/2013/2013-08-02_4451_buduschee-avtorskoy-pesni.md): 2013-08-02
+- [Международная конференция "АП: вчера, сегодня. Завтра?"](texts/forum/2013/2013-08-10_4458_mezhdunarodnaya-konferentsiya-ap-vchera-segodnya-zavtra.md): 2013-08-10
+- [XXXX Грушинский фестиваль](texts/forum/2013/2013-08-23_4453_xxxx-grushinskiy-festival.md): 2013-08-23
+- [Пирамида Грэма и общение на форуме](texts/forum/2013/2013-08-28_4472_piramida-grema-i-obschenie-na-forume.md): 2013-08-28
+- [День рожденья Александра Николаевича Костромина!](texts/forum/2013/2013-09-15_4480_den-rozhdenya-aleksandra-nikolaevicha-kostromina.md): 2013-09-15
+- ["С чего начинается авторская песня?"](texts/forum/2013/2013-09-15_4482_s-chego-nachinaetsya-avtorskaya-pesnya.md): 2013-09-15
+- [Круглый стол по проведению 27-го Московского конкурса АП](texts/forum/2013/2013-09-19_4489_kruglyy-stol-po-provedeniyu-27-go-moskovskogo-konkursa-ap.md): 2013-09-19
+- [Грушинский фестиваль в 2014г воссоединится на одной площадке](texts/forum/2013/2013-09-28_4484_grushinskiy-festival-v-2014g-vossoedinitsya-na-odnoy-ploscha.md): 2013-09-28
+- [Фестиваль «Луф-Парад» 11-13 октября 2013 г.](texts/forum/2013/2013-10-07_4506_festival-luf-parad-11-13-oktyabrya-2013-g.md): 2013-10-07
+- ["СПОЁМ ВМЕСТЕ!" №61: восьмой сезон открыт.](texts/forum/2013/2013-10-08_4514_spoem-vmeste-61-vosmoy-sezon-otkryt.md): 2013-10-08
+- [Ещё раз про Объединение грушинского и платформы](texts/forum/2013/2013-10-12_4535_esche-raz-pro-obedinenie-grushinskogo-i-platformy.md): 2013-10-12
+- [Занятие 1 октября 2013 г.](texts/forum/2013/2013-10-16_4525_zanyatie-1-oktyabrya-2013-g.md): 2013-10-16
+- [Занятие 15 октября 2013 г.](texts/forum/2013/2013-10-16_4526_zanyatie-15-oktyabrya-2013-g.md): 2013-10-16
+- [Занятие 22 октября 2013 г.](texts/forum/2013/2013-10-29_4538_zanyatie-22-oktyabrya-2013-g.md): 2013-10-29
+- [Микрофонная практика 29 октября 20113](texts/forum/2013/2013-10-31_4540_mikrofonnaya-praktika-29-oktyabrya-20113.md): 2013-10-31
+- ["Споём вместе!" №62](texts/forum/2013/2013-11-04_4547_spoem-vmeste-62.md): 2013-11-04
+- [Общероссийское движение "Русская культурная платформа"](texts/forum/2013/2013-11-07_4541_obscherossiyskoe-dvizhenie-russkaya-kulturnaya-platforma.md): 2013-11-07
+- [Фестиваль 2013-2014](texts/forum/2013/2013-11-07_4543_festival-2013-2014.md): 2013-11-07
+- [Занятие 5 ноября 2013 г.](texts/forum/2013/2013-11-08_4550_zanyatie-5-noyabrya-2013-g.md): 2013-11-08
+- [27-й Московский конкурс начинается](texts/forum/2013/2013-11-11_4555_27-y-moskovskiy-konkurs-nachinaetsya.md): 2013-11-11
+- [Поздравляю А.Костромина с 40-летием педагогич. деятельности](texts/forum/2013/2013-11-13_4560_pozdravlyayu-a-kostromina-s-40-letiem-pedagogich-deyatelnost.md): 2013-11-13
+- [17 ноября фестиваль КСП МИФИ](texts/forum/2013/2013-11-16_4563_17-noyabrya-festival-ksp-mifi.md): 2013-11-16
+- ["Бардопил" статья Игоря Грызлова](texts/forum/2013/2013-11-20_4568_bardopil-statya-igorya-gryzlova.md): 2013-11-20
+- [10 декабря 2013 г. поэтический вечер Татьяны Дрыгиной](texts/forum/2013/2013-11-25_4579_10-dekabrya-2013-g-poeticheskiy-vecher-tatyany-dryginoy.md): 2013-11-25
+- [Петербургский Аккорд-2014](texts/forum/2013/2013-12-02_4590_peterburgskiy-akkord-2014.md): 2013-12-02
+- [8 декабря 2013 г. концерт КСП "Надежда"](texts/forum/2013/2013-12-04_4595_8-dekabrya-2013-g-kontsert-ksp-nadezhda.md): 2013-12-04
+- [Первые туры в ЦАПе](texts/forum/2013/2013-12-05_4596_pervye-tury-v-tsape.md): 2013-12-05
+- ["Споём вместе!" №63](texts/forum/2013/2013-12-16_4619_spoem-vmeste-63.md): 2013-12-16
+- [Поздравляем Алексея Ушаровского с днём рождения!](texts/forum/2014/2014-01-23_4638_pozdravlyaem-alekseya-usharovskogo-s-dnem-rozhdeniya.md): 2014-01-23
+- [29 января  кинолекторий В. Акелькина - по Высоцкому!](texts/forum/2014/2014-01-31_4644_29-yanvarya-kinolektoriy-v-akelkina-po-vysotskomu.md): 2014-01-31
+- [Второй тур МДЮФАП-17: Мастерские](texts/forum/2014/2014-02-08_4657_vtoroy-tur-mdyufap-17-masterskie.md): 2014-02-08
+- ["Споём вместе!" №64](texts/forum/2014/2014-02-11_4662_spoem-vmeste-64.md): 2014-02-11
+- ["Споём вместе!" №65](texts/forum/2014/2014-02-11_4663_spoem-vmeste-65.md): 2014-02-11
+- [Гитара Ямаха С-40](texts/forum/2014/2014-02-15_4672_gitara-yamaha-s-40.md): 2014-02-15
+- [Вторые туры в ЦАПе](texts/forum/2014/2014-02-27_4685_vtorye-tury-v-tsape.md): 2014-02-27
+- [Третий тур 17 МДЮФАП](texts/forum/2014/2014-03-11_4695_tretiy-tur-17-mdyufap.md): 2014-03-11
+- [Второй тур XXVII конкурса на площадке 2канала](texts/forum/2014/2014-03-13_4676_vtoroy-tur-xxvii-konkursa-na-ploschadke-2kanala.md): 2014-03-13
+- [Заключительный тур фестивального конкурса"Синий перекресток"](texts/forum/2014/2014-03-20_4698_zaklyuchitelnyy-tur-festivalnogo-konkursa-siniy-perekrestok.md): 2014-03-20
+- ["Споём вместе!" №66](texts/forum/2014/2014-03-24_4709_spoem-vmeste-66.md): 2014-03-24
+- [Владимира Альтшуллера с 55-летием](texts/forum/2014/2014-03-24_4711_vladimira-altshullera-s-55-letiem.md): 2014-03-24
+- [Умерла Светлана Борисовна Богдасарова](texts/forum/2014/2014-04-04_4716_umerla-svetlana-borisovna-bogdasarova.md): 2014-04-04
+- [Опубликован список участников Третьего тура](texts/forum/2014/2014-04-09_4719_opublikovan-spisok-uchastnikov-tretego-tura.md): 2014-04-09
+- [Отзывы и мнения о XXVII Московском конкурсе](texts/forum/2014/2014-04-10_4717_otzyvy-i-mneniya-o-xxvii-moskovskom-konkurse.md): 2014-04-10
+- ["Споём вместе!" №67](texts/forum/2014/2014-04-16_4726_spoem-vmeste-67.md): 2014-04-16
+- [Итоги 27-го Московского конкурса](texts/forum/2014/2014-04-20_4730_itogi-27-go-moskovskogo-konkursa.md): 2014-04-20
+- [Заключительный гала-концерт 27-го Московского конкурса АП](texts/forum/2014/2014-04-21_4731_zaklyuchitelnyy-gala-kontsert-27-go-moskovskogo-konkursa-ap.md): 2014-04-21
+- [Об авторах новой волны](texts/forum/2014/2014-05-01_4738_ob-avtorah-novoy-volny.md): 2014-05-01
+- [Грушинский фестиваль 2014](texts/forum/2014/2014-05-21_4732_grushinskiy-festival-2014.md): 2014-05-21
+- [Умерла Велла Щербакова](texts/forum/2014/2014-05-27_4753_umerla-vella-scherbakova.md): 2014-05-27
+- ["Петербургский аккорд-2014" состоится в Новосибирске 2-5.10](texts/forum/2014/2014-05-27_4755_peterburgskiy-akkord-2014-sostoitsya-v-novosibirske-2-5-10.md): 2014-05-27
+- [Поздравляем с юбилеем Сергея Смирнова!](texts/forum/2014/2014-05-30_4756_pozdravlyaem-s-yubileem-sergeya-smirnova.md): 2014-05-30
+- [Фестиваль "Созвучие-2014" (Ярославль)](texts/forum/2014/2014-06-05_4762_festival-sozvuchie-2014-yaroslavl.md): 2014-06-05
+- [Международный фестиваль "Мир бардов"](texts/forum/2014/2014-06-07_2441_mezhdunarodnyy-festival-mir-bardov.md): 2014-06-07
+- [Прошу прибраться ;)](texts/forum/2014/2014-06-07_4727_proshu-pribratsya.md): 2014-06-07
+- [Соболезнования в связи с трагедией на Ильменском фестивале](texts/forum/2014/2014-06-14_4769_soboleznovaniya-v-svyazi-s-tragediey-na-ilmenskom-festivale.md): 2014-06-14
+- [С 80-летием Юрия Визбора!](texts/forum/2014/2014-06-20_4774_s-80-letiem-yuriya-vizbora.md): 2014-06-20
+- [МГТС нашла квартиру Юрия Визбора](texts/forum/2014/2014-06-23_4771_mgts-nashla-kvartiru-yuriya-vizbora.md): 2014-06-23
+- [Сбор средств на установку мемориальной доски Юрию Визбору](texts/forum/2014/2014-06-23_4776_sbor-sredstv-na-ustanovku-memorialnoy-doski-yuriyu-vizboru.md): 2014-06-23
+- [2 критерия — 4 жанра](texts/forum/2014/2014-06-26_4775_2-kriteriya-4-zhanra.md): 2014-06-26
+- [70 лет Игорю Каримову](texts/forum/2014/2014-08-08_4795_70-let-igoryu-karimovu.md): 2014-08-08
+- [И.Каримов и А.Костромин опять на "Эхе" у Н.Болтянской](texts/forum/2014/2014-08-14_4800_i-karimov-i-a-kostromin-opyat-na-ehe-u-n-boltyanskoy.md): 2014-08-14
+- [X Межрегиональный праздник АП  «Давайте услышим друг друга»](texts/forum/2014/2014-08-14_4801_x-mezhregionalnyy-prazdnik-ap-davayte-uslyshim-drug-druga.md): 2014-08-14
+- [Мюзикл"Штирлиц. Попытка к бегству"в Гиперионе 21и 22 ноября](texts/forum/2014/2014-08-17_4749_myuzikl-shtirlits-popytka-k-begstvu-v-giperione-21i-22-noyab.md): 2014-08-17
+- [Может ли АП существовать и развиваться, сейчас в России](texts/forum/2014/2014-08-17_4789_mozhet-li-ap-suschestvovat-i-razvivatsya-seychas-v-rossii.md): 2014-08-17
+- [Умер Паша Матвейко](texts/forum/2014/2014-08-18_4802_umer-pasha-matveyko.md): 2014-08-18
+- [Концерты Александра Ефремова в Москве](texts/forum/2014/2014-08-19_4804_kontserty-aleksandra-efremova-v-moskve.md): 2014-08-19
+- [Дарёные звезды. Мищуки](texts/forum/2014/2014-08-24_4805_darenye-zvezdy-mischuki.md): 2014-08-24
+- [Гитарная школа ЦАПа объявляет набор на 2014-2015 г.](texts/forum/2014/2014-09-02_4813_gitarnaya-shkola-tsapa-obyavlyaet-nabor-na-2014-2015-g.md): 2014-09-02
+- [Александру Костромину - ВИВАТ!](texts/forum/2014/2014-09-15_4816_aleksandru-kostrominu-vivat.md): 2014-09-15
+- [Роберт Бёрнс и авторская песня](texts/forum/2014/2014-09-17_4818_robert-berns-i-avtorskaya-pesnya.md): 2014-09-17
+- [Проект "Споём вместе!" открывает десятый сезон!](texts/forum/2014/2014-10-02_4822_proekt-spoem-vmeste-otkryvaet-desyatyy-sezon.md): 2014-10-02
+- ["Споём вместе!" №68](texts/forum/2014/2014-10-03_4824_spoem-vmeste-68.md): 2014-10-03
+- [Тент в Музее Окуджавы успешно снят на зиму](texts/forum/2014/2014-10-06_4827_tent-v-muzee-okudzhavy-uspeshno-snyat-na-zimu.md): 2014-10-06
+- [Автор музыки к "Солнечному зайчику"?](texts/forum/2014/2014-10-07_4828_avtor-muzyki-k-solnechnomu-zaychiku.md): 2014-10-07
+- [Занятие 7 октября 2014 г.](texts/forum/2014/2014-10-08_4831_zanyatie-7-oktyabrya-2014-g.md): 2014-10-08
+- [Вечер, посвящённый семидесятилетию Игоря Каримова (видео)](texts/forum/2014/2014-10-12_4836_vecher-posvyaschennyy-semidesyatiletiyu-igorya-karimova-vide.md): 2014-10-12
+- [Занятие 14 октября 2014 г.](texts/forum/2014/2014-10-15_4840_zanyatie-14-oktyabrya-2014-g.md): 2014-10-15
+- ["Опять уходит весна без нас" - кто автор?](texts/forum/2014/2014-10-22_4105_opyat-uhodit-vesna-bez-nas-kto-avtor.md): 2014-10-22
+- [Кто искал автора песни " Без нас уходит (колдует) весна..."](texts/forum/2014/2014-10-22_4847_kto-iskal-avtora-pesni-bez-nas-uhodit-kolduet-vesna.md): 2014-10-22
+- [www.chordsvault.com Интересный сайт с аккордами](texts/forum/2014/2014-10-27_4516_www-chordsvault-com-interesnyy-sayt-s-akkordami.md): 2014-10-27
+- [Занятие 21 октября 2014 г.](texts/forum/2014/2014-10-27_4850_zanyatie-21-oktyabrya-2014-g.md): 2014-10-27
+- [Сбой дат в Афише и Новостях](texts/forum/2014/2014-10-29_4853_sboy-dat-v-afishe-i-novostyah.md): 2014-10-29
+- [Спи, мой старший. Кто автор?](texts/forum/2014/2014-11-03_4852_spi-moy-starshiy-kto-avtor.md): 2014-11-03
+- ["Споём вместе!": 70-й юбилейный вечер (+видео!)](texts/forum/2014/2014-11-03_4856_spoem-vmeste-70-y-yubileynyy-vecher-video.md): 2014-11-03
+- [Юбилейный вечер Бориса Щеглова](texts/forum/2014/2014-11-07_4859_yubileynyy-vecher-borisa-scheglova.md): 2014-11-07
+- [Что слышно про МДЮФАП 2014/15?](texts/forum/2014/2014-11-21_4867_chto-slyshno-pro-mdyufap-2014-15.md): 2014-11-21
+- [Хоровая традиция в авторской песне.](texts/forum/2014/2014-11-21_4868_horovaya-traditsiya-v-avtorskoy-pesne.md): 2014-11-21
+- [28 ноября 2014 в ЦАПе концерт Виты Левинсон](texts/forum/2014/2014-11-21_4869_28-noyabrya-2014-v-tsape-kontsert-vity-levinson.md): 2014-11-21
+- [Киплинг/Агранович "Пыль-пыль-пыль-пыль от шагающих сапог"](texts/forum/2014/2014-12-01_4875_kipling-agranovich-pyl-pyl-pyl-pyl-ot-shagayuschih-sapog.md): 2014-12-01
+- [Занятие 25 ноября 2014 г.](texts/forum/2014/2014-12-01_4876_zanyatie-25-noyabrya-2014-g.md): 2014-12-01
+- [Занятие 2 декабря 2014 г.](texts/forum/2014/2014-12-03_4880_zanyatie-2-dekabrya-2014-g.md): 2014-12-03
+- [Занятие 9 декабря 2014 г.](texts/forum/2014/2014-12-10_4882_zanyatie-9-dekabrya-2014-g.md): 2014-12-10
+- ["Споём вместе!": 71-й вечер, поём с Городницким](texts/forum/2014/2014-12-15_4909_spoem-vmeste-71-y-vecher-poem-s-gorodnitskim.md): 2014-12-15
+- [СДН](texts/forum/2014/2014-12-18_4912_sdn.md): 2014-12-18
+- [О совмещении ролей участника обсуждения и администратора](texts/forum/2014/2014-12-20_4914_o-sovmeschenii-roley-uchastnika-obsuzhdeniya-i-administrator.md): 2014-12-20
+- [Полезные ссылки в разделе Стихи/Творческие мастерские](texts/forum/2014/2014-12-26_4920_poleznye-ssylki-v-razdele-stihi-tvorcheskie-masterskie.md): 2014-12-26
+- [С НОВЫМ 2015-м ГОДОМ!](texts/forum/2014/2014-12-31_4923_s-novym-2015-m-godom.md): 2014-12-31
+- [Занятие 13 января 2015](texts/forum/2015/2015-01-14_4931_zanyatie-13-yanvarya-2015.md): 2015-01-14
+- [Занятие 23 декабря 2014](texts/forum/2015/2015-01-14_4932_zanyatie-23-dekabrya-2014.md): 2015-01-14
+- [Микрофонная практика 16 декабря 2014](texts/forum/2015/2015-01-14_4933_mikrofonnaya-praktika-16-dekabrya-2014.md): 2015-01-14
+- [Занятие 30 декабря 2014](texts/forum/2015/2015-01-14_4934_zanyatie-30-dekabrya-2014.md): 2015-01-14
+- [Вечер старинного, современного и авторского романса22 января](texts/forum/2015/2015-01-15_4935_vecher-starinnogo-sovremennogo-i-avtorskogo-romansa22-yanvar.md): 2015-01-15
+- ["Споём вместе!" №72: поём вместе с Алексеем Иващенко](texts/forum/2015/2015-01-18_4937_spoem-vmeste-72-poem-vmeste-s-alekseem-ivaschenko.md): 2015-01-18
+- [МДЮФАП-18: Первый тур продолжается.](texts/forum/2015/2015-01-19_4938_mdyufap-18-pervyy-tur-prodolzhaetsya.md): 2015-01-19
+- [Исследование о популярности и простоте музыки](texts/forum/2015/2015-01-21_4930_issledovanie-o-populyarnosti-i-prostote-muzyki.md): 2015-01-21
+- [Занятие 20 января 2015](texts/forum/2015/2015-01-22_4941_zanyatie-20-yanvarya-2015.md): 2015-01-22
+- [Наташу Порохову -- с Днём рожденья!](texts/forum/2015/2015-01-27_4944_natashu-porohovu-s-dnem-rozhdenya.md): 2015-01-27
+- [Фестивали "Лефортово"](texts/forum/2015/2015-01-28_4455_festivali-lefortovo.md): 2015-01-28
+- [Творческий вечер Ирины Левинзон 31 января 2015](texts/forum/2015/2015-01-29_4946_tvorcheskiy-vecher-iriny-levinzon-31-yanvarya-2015.md): 2015-01-29
+- [2 февраля -- первая лекция цикла "Биография".](texts/forum/2015/2015-01-30_4947_2-fevralya-pervaya-lektsiya-tsikla-biografiya.md): 2015-01-30
+- [Половой вопрос. Гендерный аспект и исполнитель АП.](texts/forum/2015/2015-02-11_4955_polovoy-vopros-gendernyy-aspekt-i-ispolnitel-ap.md): 2015-02-11
+- ["Луферовские пения": 5 марта 2015, "Шоколадная фабрика"](texts/forum/2015/2015-02-20_4962_luferovskie-peniya-5-marta-2015-shokoladnaya-fabrika.md): 2015-02-20
+- ["Споём вместе!" №73: юбилеи песен 1965 года](texts/forum/2015/2015-02-23_4968_spoem-vmeste-73-yubilei-pesen-1965-goda.md): 2015-02-23
+- [Не стало автора самой первой песни МГУ (от Д.Сухарева)](texts/forum/2015/2015-03-01_4969_ne-stalo-avtora-samoy-pervoy-pesni-mgu-ot-d-suhareva.md): 2015-03-01
+- [Микрофонная практика 18-го МДЮФАП](texts/forum/2015/2015-03-02_4967_mikrofonnaya-praktika-18-go-mdyufap.md): 2015-03-02
+- [40 дней и один год со дня смерти Пита Сигера](texts/forum/2015/2015-03-08_4979_40-dney-i-odin-god-so-dnya-smerti-pita-sigera.md): 2015-03-08
+- ["Споём вместе!" №74](texts/forum/2015/2015-03-16_4981_spoem-vmeste-74.md): 2015-03-16
+- [Ансамбль "Скай" в ДК МГУ 17 апреля 2015](texts/forum/2015/2015-03-19_4982_ansambl-skay-v-dk-mgu-17-aprelya-2015.md): 2015-03-19
+- [Поздравляем Ирину Викторовну Алексееву с днём рождения!](texts/forum/2015/2015-03-19_4983_pozdravlyaem-irinu-viktorovnu-alekseevu-s-dnem-rozhdeniya.md): 2015-03-19
+- [Занятие 17 марта 2015](texts/forum/2015/2015-03-23_4988_zanyatie-17-marta-2015.md): 2015-03-23
+- ["Споём вместе!" №75: 50 лет КСП МИФИ](texts/forum/2015/2015-04-06_5001_spoem-vmeste-75-50-let-ksp-mifi.md): 2015-04-06
+- [В мае годовщина КСП "Надежда".](texts/forum/2015/2015-05-07_5020_v-mae-godovschina-ksp-nadezhda.md): 2015-05-07
+- [В Орле открыта мемориальная Доска Евгению Аграновичу](texts/forum/2015/2015-05-07_5023_v-orle-otkryta-memorialnaya-doska-evgeniyu-agranovichu.md): 2015-05-07
+- [Слёт памяти А. А. Дулова](texts/forum/2015/2015-05-09_5026_slet-pamyati-a-a-dulova.md): 2015-05-09
+- [Тент в Музее Окуджавы благополучно повешен](texts/forum/2015/2015-05-09_5027_tent-v-muzee-okudzhavy-blagopoluchno-poveshen.md): 2015-05-09
+- [соц. исследование "любит. не любит. к чёрту пошлёт."](texts/forum/2015/2015-05-10_4483_sots-issledovanie-lyubit-ne-lyubit-k-chertu-poshlet.md): 2015-05-10
+- [Не дадим Думе закрыть нам доступ в леса!](texts/forum/2015/2015-05-13_5028_ne-dadim-dume-zakryt-nam-dostup-v-lesa.md): 2015-05-13
+- [Таню Сас с днем рожденья!](texts/forum/2015/2015-05-27_5034_tanyu-sas-s-dnem-rozhdenya.md): 2015-05-27
+- [Золотой самородок до сих пор не нашёл](texts/forum/2015/2015-06-15_5042_zolotoy-samorodok-do-sih-por-ne-nashel.md): 2015-06-15
+- [Стихи под аккомпанемент](texts/forum/2015/2015-06-25_5044_stihi-pod-akkompanement.md): 2015-06-25
+- [Помогите найти информацию о песне -Мы видели Тенериф](texts/forum/2015/2015-08-05_5066_pomogite-nayti-informatsiyu-o-pesne-my-videli-tenerif.md): 2015-08-05
+- [Летняя Верхневолжская школа авторской песни 2015](texts/forum/2015/2015-08-06_5067_letnyaya-verhnevolzhskaya-shkola-avtorskoy-pesni-2015.md): 2015-08-06
+- [Фигуры Хладни на деке гитары](texts/forum/2015/2015-08-13_5071_figury-hladni-na-deke-gitary.md): 2015-08-13
+- [И.Каримов и А.Костромин на Радио Москвы 19.08 с 16 до 17](texts/forum/2015/2015-08-18_5072_i-karimov-i-a-kostromin-na-radio-moskvy-19-08-s-16-do-17.md): 2015-08-18
+- [Гитарная школа Кузнецовых открывает сезон](texts/forum/2015/2015-09-08_5080_gitarnaya-shkola-kuznetsovyh-otkryvaet-sezon.md): 2015-09-08
+- [Занятие 6 октября 2015](texts/forum/2015/2015-10-08_5095_zanyatie-6-oktyabrya-2015.md): 2015-10-08
+- [10 октября 2015 г. открыта мемориальная доска Ю.Визбору](texts/forum/2015/2015-10-11_5097_10-oktyabrya-2015-g-otkryta-memorialnaya-doska-yu-vizboru.md): 2015-10-11
+- ["Споём вместе!" №76: к открытию мемориальной доски Ю.Визбору](texts/forum/2015/2015-10-13_5100_spoem-vmeste-76-k-otkrytiyu-memorialnoy-doski-yu-vizboru.md): 2015-10-13
+- [Занятие 13 октября 2015 г.](texts/forum/2015/2015-10-14_5104_zanyatie-13-oktyabrya-2015-g.md): 2015-10-14
+- [Поделитесь странной информацией](texts/forum/2015/2015-10-31_5111_podelites-strannoy-informatsiey.md): 2015-10-31
+- [19-й МДЮФАП: первые туры начинаются](texts/forum/2015/2015-11-13_5120_19-y-mdyufap-pervye-tury-nachinayutsya.md): 2015-11-13
+- ["Споём вместе!" №77](texts/forum/2015/2015-11-16_5124_spoem-vmeste-77.md): 2015-11-16
+- [19-й МДЮФАП: Результаты Первых туров](texts/forum/2015/2015-12-14_5138_19-y-mdyufap-rezultaty-pervyh-turov.md): 2015-12-14
+- ["Споём вместе!" №78. Десять лет поём вместе.](texts/forum/2015/2015-12-14_5139_spoem-vmeste-78-desyat-let-poem-vmeste.md): 2015-12-14
+- [Вопрос Алексея Лисицына](texts/forum/2015/2015-12-18_5146_vopros-alekseya-lisitsyna.md): 2015-12-18
+- [Вопрос Павла Ардабьевского](texts/forum/2015/2015-12-24_5150_vopros-pavla-ardabevskogo.md): 2015-12-24
+- [Занятие 12 января 2016](texts/forum/2016/2016-01-12_5161_zanyatie-12-yanvarya-2016.md): 2016-01-12
+- ["Споём вместе!" №79. Поём вместе с Городницким](texts/forum/2016/2016-01-17_5164_spoem-vmeste-79-poem-vmeste-s-gorodnitskim.md): 2016-01-17
+- [28-й Московский конкурс начинается](texts/forum/2016/2016-01-22_5170_28-y-moskovskiy-konkurs-nachinaetsya.md): 2016-01-22
+- [Первый тур 28 Московского конкурса АП](texts/forum/2016/2016-01-30_5178_pervyy-tur-28-moskovskogo-konkursa-ap.md): 2016-01-30
+- [Безымянная песня. А.Костромин, М.Кривошеев. 16.01.2020](texts/forum/2016/2016-01-31_6373_bezymyannaya-pesnya-a-kostromin-m-krivosheev-16-01-2020.md): 2016-01-31
+- [7 февраля 2016 г. -- очередное прослушивание Первого тура](texts/forum/2016/2016-02-06_5186_7-fevralya-2016-g-ocherednoe-proslushivanie-pervogo-tura.md): 2016-02-06
+- [Вопрос по Положению](texts/forum/2016/2016-02-08_5175_vopros-po-polozheniyu.md): 2016-02-08
+- [12 февраля 2016 г. -- очередное прослушивание Первого тура](texts/forum/2016/2016-02-10_5189_12-fevralya-2016-g-ocherednoe-proslushivanie-pervogo-tura.md): 2016-02-10
+- ["Споём вместе!" №80: юбилеи песен 1946, 1956 и 1966 года](texts/forum/2016/2016-02-14_5190_spoem-vmeste-80-yubilei-pesen-1946-1956-i-1966-goda.md): 2016-02-14
+- ["Я люблю, я люблю, я люблю, я люблю..."](texts/forum/2016/2016-02-15_5191_ya-lyublyu-ya-lyublyu-ya-lyublyu-ya-lyublyu.md): 2016-02-15
+- [19-й МДЮФАП: Микрофонная практика](texts/forum/2016/2016-02-20_5196_19-y-mdyufap-mikrofonnaya-praktika.md): 2016-02-20
+- [21 февраля -- дополнительные мастерские](texts/forum/2016/2016-02-21_5197_21-fevralya-dopolnitelnye-masterskie.md): 2016-02-21
+- [Канадская дальнобойная(Из цикла "Дальнобойные")](texts/forum/2016/2016-02-23_5199_kanadskaya-dalnoboynaya-iz-tsikla-dalnoboynye.md): 2016-02-23
+- [< Луферов, его круг и Вера >: Альбом Анатолия Огнева](texts/forum/2016/2016-02-28_5206_luferov-ego-krug-i-vera-albom-anatoliya-ogneva.md): 2016-02-28
+- [Результаты Второго тура 19-го МДЮФАП](texts/forum/2016/2016-02-29_5207_rezultaty-vtorogo-tura-19-go-mdyufap.md): 2016-02-29
+- [лаборатория жанров](texts/forum/2016/2016-03-05_5213_laboratoriya-zhanrov.md): 2016-03-05
+- [Второй тур 28-го Московского конкурса АП](texts/forum/2016/2016-03-07_5214_vtoroy-tur-28-go-moskovskogo-konkursa-ap.md): 2016-03-07
+- [Третий тур XIX МДЮФАП](texts/forum/2016/2016-03-09_5215_tretiy-tur-xix-mdyufap.md): 2016-03-09
+- [Визбор, "Семейный диалог" ("Что за погода...")](texts/forum/2016/2016-03-14_5218_vizbor-semeynyy-dialog-chto-za-pogoda.md): 2016-03-14
+- ["Первопроходцы. О пяти Московских…" Альбом Анатолия  Огнева](texts/forum/2016/2016-03-17_5221_pervoprohodtsy-o-pyati-moskovskih-albom-anatoliya-ogneva.md): 2016-03-17
+- ["Споём вместе!" №81: день рождения Евгения Клячкина](texts/forum/2016/2016-03-28_5230_spoem-vmeste-81-den-rozhdeniya-evgeniya-klyachkina.md): 2016-03-28
+- [Третий тур 28 Московского конкурса АП](texts/forum/2016/2016-04-04_5232_tretiy-tur-28-moskovskogo-konkursa-ap.md): 2016-04-04
+- ["Споём вместе!" №82: песни Виктора Берковского](texts/forum/2016/2016-04-04_5233_spoem-vmeste-82-pesni-viktora-berkovskogo.md): 2016-04-04
+- [Обсуждение итогов 2го тура Московского конкурса 2016](texts/forum/2016/2016-04-05_5235_obsuzhdenie-itogov-2go-tura-moskovskogo-konkursa-2016.md): 2016-04-05
+- [24 апреля 2016 вечер памяти Сергея Стёркина](texts/forum/2016/2016-04-06_5238_24-aprelya-2016-vecher-pamyati-sergeya-sterkina.md): 2016-04-06
+- [Занятие 5 апреля 2016 г.: "Приручение страха"](texts/forum/2016/2016-04-06_5239_zanyatie-5-aprelya-2016-g-priruchenie-straha.md): 2016-04-06
+- [Итоги московского конкурса 2016](texts/forum/2016/2016-04-10_5243_itogi-moskovskogo-konkursa-2016.md): 2016-04-10
+- [ПОМОГИТЕ НАЙТИ ПЕСНЮ!](texts/forum/2016/2016-04-14_5242_pomogite-nayti-pesnyu.md): 2016-04-14
+- [Опечатка](texts/forum/2016/2016-04-14_5246_opechatka.md): 2016-04-14
+- [Директор Музея Окуджавы О.В.Окуджава уволена.](texts/forum/2016/2016-04-23_5250_direktor-muzeya-okudzhavy-o-v-okudzhava-uvolena.md): 2016-04-23
+- [Ищу сборник песен Александра Суханова!](texts/forum/2016/2016-05-01_5253_ischu-sbornik-pesen-aleksandra-suhanova.md): 2016-05-01
+- [Поздравляем Татьяну Сас с днём рождения!](texts/forum/2016/2016-05-27_5265_pozdravlyaem-tatyanu-sas-s-dnem-rozhdeniya.md): 2016-05-27
+- [Отчётный концерт гитарной школы ЦАП 25 мая 2016 г.](texts/forum/2016/2016-06-05_5272_otchetnyy-kontsert-gitarnoy-shkoly-tsap-25-maya-2016-g.md): 2016-06-05
+- [Слёт гитарных школ 2016 --30-й, юбилейный](texts/forum/2016/2016-06-05_5273_slet-gitarnyh-shkol-2016-30-y-yubileynyy.md): 2016-06-05
+- [В. Дашкевич "Ходят кони"](texts/forum/2016/2016-06-12_5275_v-dashkevich-hodyat-koni.md): 2016-06-12
+- [суд юрий устинов](texts/forum/2016/2016-06-28_5252_sud-yuriy-ustinov.md): 2016-06-28
+- [Поэтические мастер-классы Александра Щербины](texts/forum/2016/2016-07-24_5288_poeticheskie-master-klassy-aleksandra-scherbiny.md): 2016-07-24
+- [Палея -- с юбилеем!](texts/forum/2016/2016-07-26_5289_paleya-s-yubileem.md): 2016-07-26
+- [Умер Анатолий Азаров](texts/forum/2016/2016-07-28_5290_umer-anatoliy-azarov.md): 2016-07-28
+- [Игоря Каримова -- с днём рождения!](texts/forum/2016/2016-08-08_5294_igorya-karimova-s-dnem-rozhdeniya.md): 2016-08-08
+- [Романс "Белый задумчивый снег..."](texts/forum/2016/2016-08-14_5295_romans-belyy-zadumchivyy-sneg.md): 2016-08-14
+- [Еще одна горькая потеря... Новелла Матвеева...](texts/forum/2016/2016-09-06_5300_esche-odna-gorkaya-poterya-novella-matveeva.md): 2016-09-06
+- [Гитарная школа объявляет набор на 2016-2017 г.](texts/forum/2016/2016-09-07_5301_gitarnaya-shkola-obyavlyaet-nabor-na-2016-2017-g.md): 2016-09-07
+- [Анатолия Орышака с юбилеем!](texts/forum/2016/2016-09-24_5310_anatoliya-oryshaka-s-yubileem.md): 2016-09-24
+- ["Споём вместе!" №83: памяти Новеллы Матвеевой](texts/forum/2016/2016-10-16_5331_spoem-vmeste-83-pamyati-novelly-matveevoy.md): 2016-10-16
+- [Занятия в сезоне 2016-2017](texts/forum/2016/2016-10-23_5334_zanyatiya-v-sezone-2016-2017.md): 2016-10-23
+- [12 ноября 2016 г. -- 50 лет КСП МАИ](texts/forum/2016/2016-10-26_5337_12-noyabrya-2016-g-50-let-ksp-mai.md): 2016-10-26
+- ["Споём вместе!" №84](texts/forum/2016/2016-11-14_5348_spoem-vmeste-84.md): 2016-11-14
+- [20 ноября -- концерт Театра поэтической песни г.Запорожье](texts/forum/2016/2016-11-17_5350_20-noyabrya-kontsert-teatra-poeticheskoy-pesni-g-zaporozhe.md): 2016-11-17
+- [Кто автор песни "Портовых улочек дома старинные"?](texts/forum/2016/2016-11-25_5171_kto-avtor-pesni-portovyh-ulochek-doma-starinnye.md): 2016-11-25
+- [XX МДЮФАП, первые туры](texts/forum/2016/2016-12-02_5358_xx-mdyufap-pervye-tury.md): 2016-12-02
+- ["Споём вместе!" №85: 85 лет Александру Дулову](texts/forum/2016/2016-12-11_5363_spoem-vmeste-85-85-let-aleksandru-dulovu.md): 2016-12-11
+- [ОРТ: "Бардовская песня: прошлое и настоящее".](texts/forum/2016/2016-12-30_5373_ort-bardovskaya-pesnya-proshloe-i-nastoyaschee.md): 2016-12-30
+- [С Новым 2017-м годом!](texts/forum/2017/2017-01-01_5374_s-novym-2017-m-godom.md): 2017-01-01
+- [Умер Борис Полевода.](texts/forum/2017/2017-01-05_5414_umer-boris-polevoda.md): 2017-01-05
+- ["Споём вместе!" №86. "Старый Новый год" вместе с Городницким](texts/forum/2017/2017-01-15_5420_spoem-vmeste-86-staryy-novyy-god-vmeste-s-gorodnitskim.md): 2017-01-15
+- ["У  хороших людей зажигаются яркие ёлки..."](texts/forum/2017/2017-01-19_5431_u-horoshih-lyudey-zazhigayutsya-yarkie-elki.md): 2017-01-19
+- [Поздравляем Наташу Порохову с днём рождения!](texts/forum/2017/2017-01-27_5443_pozdravlyaem-natashu-porohovu-s-dnem-rozhdeniya.md): 2017-01-27
+- [Беззащитная душа...](texts/forum/2017/2017-01-29_5359_bezzaschitnaya-dusha.md): 2017-01-29
+- [10 февраля концерт Николая Гаврилова в кафе Публика](texts/forum/2017/2017-01-31_5448_10-fevralya-kontsert-nikolaya-gavrilova-v-kafe-publika.md): 2017-01-31
+- [МДЮФАП - 2017: календарь событий](texts/forum/2017/2017-02-06_5451_mdyufap-2017-kalendar-sobytiy.md): 2017-02-06
+- ["АП без границ": pro и contra](texts/forum/2017/2017-02-10_5455_ap-bez-granits-pro-i-contra.md): 2017-02-10
+- ["Споём вместе" №87: юбилеи песен 1937--1947--1957--1967](texts/forum/2017/2017-02-12_5457_spoem-vmeste-87-yubilei-pesen-1937-1947-1957-1967.md): 2017-02-12
+- ["Жара стоит/преферанс в колхозе" - Сережа](texts/forum/2017/2017-02-17_5437_zhara-stoit-preferans-v-kolhoze-serezha.md): 2017-02-17
+- [Определение и границы жанра (и авторской песни тоже, да-да!)](texts/forum/2017/2017-02-18_5461_opredelenie-i-granitsy-zhanra-i-avtorskoy-pesni-tozhe-da-da.md): 2017-02-18
+- ["Споём вместе" №88](texts/forum/2017/2017-03-13_5476_spoem-vmeste-88.md): 2017-03-13
+- [Ирину Викторовну Алексееву -- с юбилеем!](texts/forum/2017/2017-03-19_5480_irinu-viktorovnu-alekseevu-s-yubileem.md): 2017-03-19
+- ["Споём вместе" №89](texts/forum/2017/2017-04-04_5485_spoem-vmeste-89.md): 2017-04-04
+- [21 апреля 2017 "Парад дуэтов" в КЦ "ДОМ"](texts/forum/2017/2017-04-16_5494_21-aprelya-2017-parad-duetov-v-kts-dom.md): 2017-04-16
+- ["Споём вместе!" №90](texts/forum/2017/2017-05-25_5505_spoem-vmeste-90.md): 2017-05-25
+- [Отчётный концерт гитарной школы ЦАП 31 мая 201 г.](texts/forum/2017/2017-06-03_5515_otchetnyy-kontsert-gitarnoy-shkoly-tsap-31-maya-201-g.md): 2017-06-03
+- [О нотировке, вид снизу.](texts/forum/2017/2017-06-21_5517_o-notirovke-vid-snizu.md): 2017-06-21
+- [Умер Игорь Зимин](texts/forum/2017/2017-06-22_5526_umer-igor-zimin.md): 2017-06-22
+- ["Трещат кузнечики в саду, сегодня жаркий день..."](texts/forum/2017/2017-06-29_5585_treschat-kuznechiki-v-sadu-segodnya-zharkiy-den.md): 2017-06-29
+- [Занимательные ссылки на сайте ЦАПа](texts/forum/2017/2017-07-24_5595_zanimatelnye-ssylki-na-sayte-tsapa.md): 2017-07-24
+- [Умер Юрий Панюшкин](texts/forum/2017/2017-07-31_5597_umer-yuriy-panyushkin.md): 2017-07-31
+- [История Московского КСП на сайте ЦАПа](texts/forum/2017/2017-08-05_4253_istoriya-moskovskogo-ksp-na-sayte-tsapa.md): 2017-08-05
+- [Атрибуция фотографий городских слётов Московского КСП](texts/forum/2017/2017-08-05_5598_atributsiya-fotografiy-gorodskih-sletov-moskovskogo-ksp.md): 2017-08-05
+- [Умерла предполагаемый автор песни "Ой, мороз, мороз..."](texts/forum/2017/2017-08-06_5599_umerla-predpolagaemyy-avtor-pesni-oy-moroz-moroz.md): 2017-08-06
+- [Луф-парад №5 6--8 октября 2017 г., Башмет-центр](texts/forum/2017/2017-10-01_5610_luf-parad-5-6-8-oktyabrya-2017-g-bashmet-tsentr.md): 2017-10-01
+- ["Споём вместе!" №91: презентация книги Юрия Кукина](texts/forum/2017/2017-10-15_5749_spoem-vmeste-91-prezentatsiya-knigi-yuriya-kukina.md): 2017-10-15
+- [Занятия в сезоне 2017--2018](texts/forum/2017/2017-10-19_5750_zanyatiya-v-sezone-2017-2018.md): 2017-10-19
+- [29 октября 2017 г "Парад юбилеев"](texts/forum/2017/2017-10-30_5817_29-oktyabrya-2017-g-parad-yubileev.md): 2017-10-30
+- ["Споём вместе!" №92](texts/forum/2017/2017-11-12_5829_spoem-vmeste-92.md): 2017-11-12
+- [29-й Московский конкурс АП начинается](texts/forum/2017/2017-11-16_5833_29-y-moskovskiy-konkurs-ap-nachinaetsya.md): 2017-11-16
+- [МДЮФАП-2018?](texts/forum/2017/2017-11-18_5835_mdyufap-2018.md): 2017-11-18
+- [Учреждён спецприз исполнителям песен Сергея Труханова](texts/forum/2017/2017-11-25_5842_uchrezhden-spetspriz-ispolnitelyam-pesen-sergeya-truhanova.md): 2017-11-25
+- [Результаты Первого тура XXIX Московского конкурса АП](texts/forum/2017/2017-11-25_5843_rezultaty-pervogo-tura-xxix-moskovskogo-konkursa-ap.md): 2017-11-25
+- [9 декабря - традиционный фестиваль КСП МИФИ](texts/forum/2017/2017-12-04_5822_9-dekabrya-traditsionnyy-festival-ksp-mifi.md): 2017-12-04
+- ["Споём вместе!" №93](texts/forum/2017/2017-12-17_5856_spoem-vmeste-93.md): 2017-12-17
+- [Димитрия Павловича Соколова -- с юбилеем!](texts/forum/2017/2017-12-27_5862_dimitriya-pavlovicha-sokolova-s-yubileem.md): 2017-12-27
+- ["Споём вместе!" №94: Старый Новый год](texts/forum/2018/2018-01-15_5869_spoem-vmeste-94-staryy-novyy-god.md): 2018-01-15
+- [Умер Леонид Альтшулер](texts/forum/2018/2018-01-16_5870_umer-leonid-altshuler.md): 2018-01-16
+- [Второй тур 29 Московского конкурса АП](texts/forum/2018/2018-02-10_6008_vtoroy-tur-29-moskovskogo-konkursa-ap.md): 2018-02-10
+- ["Споём вместе!" №95: юбилеи песен 1958 и 1968 гг.](texts/forum/2018/2018-02-11_6009_spoem-vmeste-95-yubilei-pesen-1958-i-1968-gg.md): 2018-02-11
+- [Итоги Второго тура 25 февраля 2018 г.](texts/forum/2018/2018-02-26_6027_itogi-vtorogo-tura-25-fevralya-2018-g.md): 2018-02-26
+- [Третий тур Московского детско-юношеского фестиваля АП](texts/forum/2018/2018-02-26_6028_tretiy-tur-moskovskogo-detsko-yunosheskogo-festivalya-ap.md): 2018-02-26
+- [Третий тур Московского детско-юношеского фестиваля АП](texts/forum/2018/2018-02-26_6029_tretiy-tur-moskovskogo-detsko-yunosheskogo-festivalya-ap.md): 2018-02-26
+- [50 лет назад состоялся Новосибирский фестиваль](texts/forum/2018/2018-03-07_6034_50-let-nazad-sostoyalsya-novosibirskiy-festival.md): 2018-03-07
+- ["Споём вместе!" №96: День тишины](texts/forum/2018/2018-03-18_6037_spoem-vmeste-96-den-tishiny.md): 2018-03-18
+- [Итоги Второго тура 29-го Московского конкурса АП](texts/forum/2018/2018-03-26_6043_itogi-vtorogo-tura-29-go-moskovskogo-konkursa-ap.md): 2018-03-26
+- ["Споём вместе!" №97](texts/forum/2018/2018-04-08_6055_spoem-vmeste-97.md): 2018-04-08
+- [Третий тур 29 Московского конкурса АП](texts/forum/2018/2018-04-15_6059_tretiy-tur-29-moskovskogo-konkursa-ap.md): 2018-04-15
+- [ПОВОД ДЛЯ РАЗМЫШЛЕНИЙ (о концерте, посвящённом С. Труханову,](texts/forum/2018/2018-04-23_6061_povod-dlya-razmyshleniy-o-kontserte-posvyaschennom-s-truhano.md): 2018-04-23
+- [Итоги XXIX Московского конкурса авторской песни](texts/forum/2018/2018-04-23_6062_itogi-xxix-moskovskogo-konkursa-avtorskoy-pesni.md): 2018-04-23
+- [Обсуждение третьего тура 29 Московского конкурса АП](texts/forum/2018/2018-04-30_6060_obsuzhdenie-tretego-tura-29-moskovskogo-konkursa-ap.md): 2018-04-30
+- [Е. Абдуллаев "Остановите музыку"](texts/forum/2018/2018-04-30_6064_e-abdullaev-ostanovite-muzyku.md): 2018-04-30
+- ["Споём вместе!" №98: песни Булата Окуджава](texts/forum/2018/2018-05-11_6069_spoem-vmeste-98-pesni-bulata-okudzhava.md): 2018-05-11
+- [И снова -- тент в музее Окуджавы](texts/forum/2018/2018-05-13_6071_i-snova-tent-v-muzee-okudzhavy.md): 2018-05-13
+- [ГШ ЦАП на 32-м слёте гитарных школ](texts/forum/2018/2018-05-28_6078_gsh-tsap-na-32-m-slete-gitarnyh-shkol.md): 2018-05-28
+- [Концерты и тп. "Объединения N"](texts/forum/2018/2018-06-17_5521_kontserty-i-tp-obedineniya-n.md): 2018-06-17
+- [Набор в Гитарную школу, сезон 2018-2019](texts/forum/2018/2018-09-13_6099_nabor-v-gitarnuyu-shkolu-sezon-2018-2019.md): 2018-09-13
+- ["Споём вместе!" №99](texts/forum/2018/2018-10-07_6111_spoem-vmeste-99.md): 2018-10-07
+- [Занятия в сезоне 2018--2019](texts/forum/2018/2018-10-10_6114_zanyatiya-v-sezone-2018-2019.md): 2018-10-10
+- [100-летие Александра Галича](texts/forum/2018/2018-10-21_6124_100-letie-aleksandra-galicha.md): 2018-10-21
+- [Фестиваль "МОЛОДОСТЬ И ЮНОСТЬ РОССИИ"](texts/forum/2018/2018-11-03_6094_festival-molodost-i-yunost-rossii.md): 2018-11-03
+- ["Споём вместе!" №100: юбилейный вечер](texts/forum/2018/2018-11-11_6137_spoem-vmeste-100-yubileynyy-vecher.md): 2018-11-11
+- [Умер Борис Полоскин](texts/forum/2018/2018-11-19_6139_umer-boris-poloskin.md): 2018-11-19
+- [30 ноября 2018: клубный вечер. Светлана Сергиевская](texts/forum/2018/2018-11-23_6141_30-noyabrya-2018-klubnyy-vecher-svetlana-sergievskaya.md): 2018-11-23
+- [Александра Палея -- с рождением дочери!](texts/forum/2018/2018-11-27_6142_aleksandra-paleya-s-rozhdeniem-docheri.md): 2018-11-27
+- ["Споём вместе!" №101](texts/forum/2018/2018-12-16_6150_spoem-vmeste-101.md): 2018-12-16
+- [Картинки на страницах сайта](texts/forum/2018/2018-12-21_6154_kartinki-na-stranitsah-sayta.md): 2018-12-21
+- [Первое общее занятие](texts/forum/2018/2018-12-25_2222_pervoe-obschee-zanyatie.md): 2018-12-25
+- [20 лет назад. Видеолетопись.](texts/forum/2019/2019-01-08_5463_20-let-nazad-videoletopis.md): 2019-01-08
+- ["Споём вместе!" №102: Новый год с А.Городницким](texts/forum/2019/2019-01-13_6159_spoem-vmeste-102-novyy-god-s-a-gorodnitskim.md): 2019-01-13
+- [Очередная идея для вечера «Споём вместе»](texts/forum/2019/2019-01-24_6165_ocherednaya-ideya-dlya-vechera-spoem-vmeste.md): 2019-01-24
+- ["Споём вместе!" №103: юбилеи песен 1959 и 1969 годов](texts/forum/2019/2019-02-10_6170_spoem-vmeste-103-yubilei-pesen-1959-i-1969-godov.md): 2019-02-10
+- [Юбилейный концерт Максима Леви 7 марта 2019 в КЦ ДОМ](texts/forum/2019/2019-02-25_6176_yubileynyy-kontsert-maksima-levi-7-marta-2019-v-kts-dom.md): 2019-02-25
+- ["Споём вместе!" №104: к юбилею Сергея Никитина](texts/forum/2019/2019-03-17_6184_spoem-vmeste-104-k-yubileyu-sergeya-nikitina.md): 2019-03-17
+- [Умер Владимир Муравьёв](texts/forum/2019/2019-03-18_6185_umer-vladimir-muravev.md): 2019-03-18
+- [28 марта 2019 -- Валентин Вихорев и Валерий Чечет (СПб)](texts/forum/2019/2019-04-02_6190_28-marta-2019-valentin-vihorev-i-valeriy-chechet-spb.md): 2019-04-02
+- [31 января 2019 -- Михаил Кочетков](texts/forum/2019/2019-04-02_6191_31-yanvarya-2019-mihail-kochetkov.md): 2019-04-02
+- [10 марта 2019 -- юбилейный концерт Сергея Никитина](texts/forum/2019/2019-04-02_6192_10-marta-2019-yubileynyy-kontsert-sergeya-nikitina.md): 2019-04-02
+- [5 апреля 2019 -- Александр Мирзаян](texts/forum/2019/2019-04-07_6193_5-aprelya-2019-aleksandr-mirzayan.md): 2019-04-07
+- [1 марта 2019 г. -- вечер песен Сергея Труханова](texts/forum/2019/2019-04-07_6194_1-marta-2019-g-vecher-pesen-sergeya-truhanova.md): 2019-04-07
+- [29 марта 2019 -- Ольга Чикина](texts/forum/2019/2019-04-07_6195_29-marta-2019-olga-chikina.md): 2019-04-07
+- [13 сентября 2018 -- Александр Костромин](texts/forum/2019/2019-04-07_6196_13-sentyabrya-2018-aleksandr-kostromin.md): 2019-04-07
+- [20 сентября 2018 -- Владимир Капгер](texts/forum/2019/2019-04-07_6197_20-sentyabrya-2018-vladimir-kapger.md): 2019-04-07
+- [18 октября 2018 -- Пётр Кошелев (г. Энгельс)](texts/forum/2019/2019-04-07_6198_18-oktyabrya-2018-petr-koshelev-g-engels.md): 2019-04-07
+- [8 ноября 2018 -- Максим Кривошеев: "Песенки А.Галича и др."](texts/forum/2019/2019-04-07_6199_8-noyabrya-2018-maksim-krivosheev-pesenki-a-galicha-i-dr.md): 2019-04-07
+- [13 декабря 2018 -- Мария Махова (г. Иваново)](texts/forum/2019/2019-04-07_6200_13-dekabrya-2018-mariya-mahova-g-ivanovo.md): 2019-04-07
+- [10 января 2019 -- Сергей Шабуцкий](texts/forum/2019/2019-04-07_6201_10-yanvarya-2019-sergey-shabutskiy.md): 2019-04-07
+- [24 января 2019 -- день рождения Павла Аксёнова](texts/forum/2019/2019-04-07_6202_24-yanvarya-2019-den-rozhdeniya-pavla-aksenova.md): 2019-04-07
+- [14 февраля 2019 -- трио из Сарова](texts/forum/2019/2019-04-07_6203_14-fevralya-2019-trio-iz-sarova.md): 2019-04-07
+- [15 февраля 2019 -- Вита Левинсон (г. Дортмунд)](texts/forum/2019/2019-04-07_6204_15-fevralya-2019-vita-levinson-g-dortmund.md): 2019-04-07
+- [28 февраля 2019 -- трио "Свояси"](texts/forum/2019/2019-04-07_6205_28-fevralya-2019-trio-svoyasi.md): 2019-04-07
+- [7 февраля 2019 -- Сергей Смирнов](texts/forum/2019/2019-04-07_6206_7-fevralya-2019-sergey-smirnov.md): 2019-04-07
+- [21 ноября 2018 -- "Биография": Евгений Клячкин](texts/forum/2019/2019-04-08_6207_21-noyabrya-2018-biografiya-evgeniy-klyachkin.md): 2019-04-08
+- [17 октября 2018 -- "Биография": Юрий Кукин](texts/forum/2019/2019-04-08_6208_17-oktyabrya-2018-biografiya-yuriy-kukin.md): 2019-04-08
+- [Фотографии лауреатов и дипломантов 22 МДЮФАП](texts/forum/2019/2019-04-09_6209_fotografii-laureatov-i-diplomantov-22-mdyufap.md): 2019-04-09
+- [30 марта 2019 -- Анчаровские чтения](texts/forum/2019/2019-04-09_6210_30-marta-2019-ancharovskie-chteniya.md): 2019-04-09
+- ["Споём вместе!" №105](texts/forum/2019/2019-04-14_6214_spoem-vmeste-105.md): 2019-04-14
+- [Вопросы для будущих ответов Готовим конференцию "АП XXI век"](texts/forum/2019/2019-05-08_6226_voprosy-dlya-buduschih-otvetov-gotovim-konferentsiyu-ap-xxi.md): 2019-05-08
+- ["Споём вместе!" №106: 95 лет Булату Окуджаве](texts/forum/2019/2019-05-10_6229_spoem-vmeste-106-95-let-bulatu-okudzhave.md): 2019-05-10
+- [ГШ ЦАП на 33-м слёте гитарных школ](texts/forum/2019/2019-05-27_6234_gsh-tsap-na-33-m-slete-gitarnyh-shkol.md): 2019-05-27
+- [Поэзия Александра Городницкого: "Игра в бисер", ТК"Культура"](texts/forum/2019/2019-05-31_6235_poeziya-aleksandra-gorodnitskogo-igra-v-biser-tk-kultura.md): 2019-05-31
+- [Поэзия в АП как направление в поэзии](texts/forum/2019/2019-06-10_6231_poeziya-v-ap-kak-napravlenie-v-poezii.md): 2019-06-10
+- [Сергей Шабуцкий -- 28 сентября 2017](texts/forum/2019/2019-06-11_6279_sergey-shabutskiy-28-sentyabrya-2017.md): 2019-06-11
+- [Сбор средств на мемориальную доску Евгению Аграновичу](texts/forum/2019/2019-06-14_6295_sbor-sredstv-na-memorialnuyu-dosku-evgeniyu-agranovichu.md): 2019-06-14
+- [Концерт памяти Сергея Труханова -- 19 апреля 2018](texts/forum/2019/2019-06-15_6291_kontsert-pamyati-sergeya-truhanova-19-aprelya-2018.md): 2019-06-15
+- [30-летие ТО “Первый круг”  -- 5 декабря 2018](texts/forum/2019/2019-06-15_6292_30-letie-to-pervyy-krug-5-dekabrya-2018.md): 2019-06-15
+- [Веста Солянина, Юрий Рыков -- 26 апреля 2018](texts/forum/2019/2019-06-15_6296_vesta-solyanina-yuriy-rykov-26-aprelya-2018.md): 2019-06-15
+- [Максим Кривошеев -- 4 апреля 2019](texts/forum/2019/2019-06-15_6298_maksim-krivosheev-4-aprelya-2019.md): 2019-06-15
+- [Белый Игорь и Городецкий Олег -- 23 мая 2019](texts/forum/2019/2019-06-15_6299_belyy-igor-i-gorodetskiy-oleg-23-maya-2019.md): 2019-06-15
+- [22 июня 2019 в "Гнезде глухаря" Нариман Султанбеков](texts/forum/2019/2019-06-16_6300_22-iyunya-2019-v-gnezde-gluharya-nariman-sultanbekov.md): 2019-06-16
+- [Сергей Крылов, Александр Костромин -- 22 февраля 2018](texts/forum/2019/2019-06-17_6289_sergey-krylov-aleksandr-kostromin-22-fevralya-2018.md): 2019-06-17
+- [Умер Владимир Романович Цывкин](texts/forum/2019/2019-07-14_6303_umer-vladimir-romanovich-tsyvkin.md): 2019-07-14
+- [Игорю Каримову -- 75!](texts/forum/2019/2019-08-08_6307_igoryu-karimovu-75.md): 2019-08-08
+- [Занятия в сезоне 2019--2020](texts/forum/2019/2019-10-02_6322_zanyatiya-v-sezone-2019-2020.md): 2019-10-02
+- ["Споём вместе!" №107. Открываем 15-й сезон](texts/forum/2019/2019-10-06_6324_spoem-vmeste-107-otkryvaem-15-y-sezon.md): 2019-10-06
+- [О современных чешских поэтах](texts/forum/2019/2019-10-21_6334_o-sovremennyh-cheshskih-poetah.md): 2019-10-21
+- [26 октября 2019 -- Сергей Шабуцкий в "России молодой"](texts/forum/2019/2019-10-25_6335_26-oktyabrya-2019-sergey-shabutskiy-v-rossii-molodoy.md): 2019-10-25
+- [30 Московский конкурс АП начинается!](texts/forum/2019/2019-11-01_6339_30-moskovskiy-konkurs-ap-nachinaetsya.md): 2019-11-01
+- [Умер Лев Александрович Аннинский](texts/forum/2019/2019-11-07_6343_umer-lev-aleksandrovich-anninskiy.md): 2019-11-07
+- [Результаты Первого тура XXX Московского конкурса АП](texts/forum/2019/2019-11-09_6344_rezultaty-pervogo-tura-xxx-moskovskogo-konkursa-ap.md): 2019-11-09
+- ["Споём вместе!" №108: сказки](texts/forum/2019/2019-11-10_6345_spoem-vmeste-108-skazki.md): 2019-11-10
+- [Фестиваль 55 лет КСП МИФИ - 15 ноября](texts/forum/2019/2019-11-16_6332_festival-55-let-ksp-mifi-15-noyabrya.md): 2019-11-16
+- [9 декабря 2019 Александр Костромин в клубе "Восток", СПб](texts/forum/2019/2019-12-10_6355_9-dekabrya-2019-aleksandr-kostromin-v-klube-vostok-spb.md): 2019-12-10
+- [Умер Валерий Чечет](texts/forum/2019/2019-12-12_6356_umer-valeriy-chechet.md): 2019-12-12
+- ["Споём вместе!" №109: 80 лет Борису Щеглову, 55 лет КСП МИФИ](texts/forum/2019/2019-12-15_6359_spoem-vmeste-109-80-let-borisu-scheglovu-55-let-ksp-mifi.md): 2019-12-15
+- ["Споём вместе!" №110: новогодняя программа](texts/forum/2020/2020-01-12_6372_spoem-vmeste-110-novogodnyaya-programma.md): 2020-01-12
+- ["Споём вместе!" №111: Юлий Ким](texts/forum/2020/2020-02-09_6389_spoem-vmeste-111-yuliy-kim.md): 2020-02-09
+- [Второй тур ХХХ Московского конкурса АП](texts/forum/2020/2020-02-16_6391_vtoroy-tur-hhh-moskovskogo-konkursa-ap.md): 2020-02-16
+- [Фестиваль "Ленинские Горы, д.1" 19-22 февраля](texts/forum/2020/2020-02-24_6375_festival-leninskie-gory-d-1-19-22-fevralya.md): 2020-02-24
+- [Раздел ремонта гитар](texts/forum/2020/2020-03-07_6405_razdel-remonta-gitar.md): 2020-03-07
+- ["Споём вместе!" №112: 8 марта](texts/forum/2020/2020-03-08_6406_spoem-vmeste-112-8-marta.md): 2020-03-08
+- [9 июня Брусничная поляна-86 "От Пушкина  до Окуджавы"](texts/forum/2020/2020-03-16_6367_9-iyunya-brusnichnaya-polyana-86-ot-pushkina-do-okudzhavy.md): 2020-03-16
+- [Об организации занятий в ГШ в условиях карантина](texts/forum/2020/2020-03-27_6411_ob-organizatsii-zanyatiy-v-gsh-v-usloviyah-karantina.md): 2020-03-27
+- [Расшифрованы некоторые песни Козьмы Пруткова!](texts/forum/2020/2020-04-02_6417_rasshifrovany-nekotorye-pesni-kozmy-prutkova.md): 2020-04-02
+- [О переносе МДЮФАП-2020](texts/forum/2020/2020-04-07_6418_o-perenose-mdyufap-2020.md): 2020-04-07
+- [Закрытие Лектория "1С"](texts/forum/2020/2020-04-07_6419_zakrytie-lektoriya-1s.md): 2020-04-07
+- [Умерла Евгения Уралова](texts/forum/2020/2020-04-17_6424_umerla-evgeniya-uralova.md): 2020-04-17
+- [О доступе к новому разделу](texts/forum/2020/2020-04-20_6426_o-dostupe-k-novomu-razdelu.md): 2020-04-20
+- [Александр Городницкий в zoom 26 апреля 2020](texts/forum/2020/2020-04-26_6428_aleksandr-gorodnitskiy-v-zoom-26-aprelya-2020.md): 2020-04-26
+- [Программа "Авторская песня год за годом" Год 1971.](texts/forum/2020/2020-04-27_6429_programma-avtorskaya-pesnya-god-za-godom-god-1971.md): 2020-04-27
+- [Третий тур 23 Московского детско-юношеского фестиваля АП](texts/forum/2020/2020-05-03_6434_tretiy-tur-23-moskovskogo-detsko-yunosheskogo-festivalya-ap.md): 2020-05-03
+- [Александр Городницкий. "Пока звенит струна", 3 мая 2020](texts/forum/2020/2020-05-04_6438_aleksandr-gorodnitskiy-poka-zvenit-struna-3-maya-2020.md): 2020-05-04
+- [XVI Дуловский слёт: 18-21 мая 2023](texts/forum/2020/2020-05-07_6439_xvi-dulovskiy-slet-18-21-maya-2023.md): 2020-05-07
+- [Заключительный гала-концерт 23 Московского детско-юношеского](texts/forum/2020/2020-05-12_6435_zaklyuchitelnyy-gala-kontsert-23-moskovskogo-detsko-yunoshes.md): 2020-05-12
+- ["Песни нашего века" на карантине](texts/forum/2020/2020-05-13_6441_pesni-nashego-veka-na-karantine.md): 2020-05-13
+- [Отчётный концерт третьего класса ГШ](texts/forum/2020/2020-05-21_6442_otchetnyy-kontsert-tretego-klassa-gsh.md): 2020-05-21
+- [Помогите восстановить все слова в песне!](texts/forum/2020/2020-05-27_6445_pomogite-vosstanovit-vse-slova-v-pesne.md): 2020-05-27
+- [День рождения КСП "Надежда"](texts/forum/2020/2020-05-31_6447_den-rozhdeniya-ksp-nadezhda.md): 2020-05-31
+- [Серебряный век в поэтике Окуджавы](texts/forum/2020/2020-06-01_6444_serebryanyy-vek-v-poetike-okudzhavy.md): 2020-06-01
+- [4 июня (четверг) 2020 г. -- Сергей Крылов он-лайн](texts/forum/2020/2020-06-01_6449_4-iyunya-chetverg-2020-g-sergey-krylov-on-layn.md): 2020-06-01
+- [Юрий Визбор "Манеж"](texts/forum/2020/2020-07-06_6463_yuriy-vizbor-manezh.md): 2020-07-06
+- [Планы ЦАПа на новый сезон?](texts/forum/2020/2020-08-25_6477_plany-tsapa-na-novyy-sezon.md): 2020-08-25
+- [Мемориальная доска Евгению Даниловичу Аграновичу открыта!](texts/forum/2020/2020-08-30_6478_memorialnaya-doska-evgeniyu-danilovichu-agranovichu-otkryta.md): 2020-08-30
+- [Набор в гитарную школу, сезон 2020--2021](texts/forum/2020/2020-09-08_6484_nabor-v-gitarnuyu-shkolu-sezon-2020-2021.md): 2020-09-08
+- [Занятия в сезоне 2020--2021](texts/forum/2020/2020-10-07_6491_zanyatiya-v-sezone-2020-2021.md): 2020-10-07
+- ["Споём вместе!" №113: юбилеи песен 1970 года](texts/forum/2020/2020-10-11_6493_spoem-vmeste-113-yubilei-pesen-1970-goda.md): 2020-10-11
+- [1 канал ТВ -- о "бардовской песне". Эфир 24 октября 2020](texts/forum/2020/2020-10-25_6495_1-kanal-tv-o-bardovskoy-pesne-efir-24-oktyabrya-2020.md): 2020-10-25
+- [О дублях](texts/forum/2020/2020-10-26_6496_o-dublyah.md): 2020-10-26
+- [КСП и СССР: пост Юрия Рыкова](texts/forum/2020/2020-10-30_6482_ksp-i-sssr-post-yuriya-rykova.md): 2020-10-30
+- [Выезд Гитарной школы в лес 31.10--01.11](texts/forum/2020/2020-11-04_6498_vyezd-gitarnoy-shkoly-v-les-31-10-01-11.md): 2020-11-04
+- [Валерий Чечет -- 11 ноября 2015](texts/forum/2020/2020-11-09_6248_valeriy-chechet-11-noyabrya-2015.md): 2020-11-09
+- [Результаты Второго тура ХХХ Московского конкурса АП](texts/forum/2020/2020-11-14_6500_rezultaty-vtorogo-tura-hhh-moskovskogo-konkursa-ap.md): 2020-11-14
+- [Умер Лев Сандлер](texts/forum/2020/2020-11-15_6501_umer-lev-sandler.md): 2020-11-15
+- [Обсуждение Второго тура XXX конкурса](texts/forum/2020/2020-11-16_6502_obsuzhdenie-vtorogo-tura-xxx-konkursa.md): 2020-11-16
+- [Умерла Людмила Шмалько](texts/forum/2020/2020-11-20_6504_umerla-lyudmila-shmalko.md): 2020-11-20
+- ["Споём вместе!" №114: морские песни](texts/forum/2020/2020-11-22_6506_spoem-vmeste-114-morskie-pesni.md): 2020-11-22
+- [Третий тур ХХХ Московского конкурса АП](texts/forum/2020/2020-12-01_6508_tretiy-tur-hhh-moskovskogo-konkursa-ap.md): 2020-12-01
+- [Приглашаем слушателей проголосовать за кокурсантов III тура](texts/forum/2020/2020-12-03_6509_priglashaem-slushateley-progolosovat-za-kokursantov-iii-tura.md): 2020-12-03
+- [Результаты Третьего тура XXX Московского конкурса АП](texts/forum/2020/2020-12-03_6510_rezultaty-tretego-tura-xxx-moskovskogo-konkursa-ap.md): 2020-12-03
+- ["Споём вместе!" №115: песни Александра Дулова](texts/forum/2020/2020-12-13_6516_spoem-vmeste-115-pesni-aleksandra-dulova.md): 2020-12-13
+- [Обсуждение итогов XXX конкурса](texts/forum/2020/2020-12-20_6511_obsuzhdenie-itogov-xxx-konkursa.md): 2020-12-20
+- [Ищу аудиозапись: Ю. Ким "Недоросль", пролог "Ты скажи, хоз..](texts/forum/2021/2021-01-09_6525_ischu-audiozapis-yu-kim-nedorosl-prolog-ty-skazhi-hoz.md): 2021-01-09
+- ["Споём вместе!" №116: новогодняя программа](texts/forum/2021/2021-01-09_6527_spoem-vmeste-116-novogodnyaya-programma.md): 2021-01-09
+- [Поздравляем с Днём рождения Альку Коленбет](texts/forum/2021/2021-01-16_6529_pozdravlyaem-s-dnem-rozhdeniya-alku-kolenbet.md): 2021-01-16
+- [Новое определение Авторской Песни (от Капгера и Варенцовой)](texts/forum/2021/2021-01-25_6531_novoe-opredelenie-avtorskoy-pesni-ot-kapgera-i-varentsovoy.md): 2021-01-25
+- ["Споём вместе!" №117: юбилеи песен 1961 и 1971 годов.](texts/forum/2021/2021-02-07_6533_spoem-vmeste-117-yubilei-pesen-1961-i-1971-godov.md): 2021-02-07
+- [Пожалуйста, уберите лишние сообщения](texts/forum/2021/2021-02-13_6543_pozhaluysta-uberite-lishnie-soobscheniya.md): 2021-02-13
+- [Сколько в Москве клубов АП?](texts/forum/2021/2021-03-11_6536_skolko-v-moskve-klubov-ap.md): 2021-03-11
+- ["Сетка аккорда" онлайн](texts/forum/2021/2021-03-11_6545_setka-akkorda-onlayn.md): 2021-03-11
+- ["Споём вместе!" №118: 8 марта, переходящее в Масленицу](texts/forum/2021/2021-03-14_6549_spoem-vmeste-118-8-marta-perehodyaschee-v-maslenitsu.md): 2021-03-14
+- ["Споём вместе!" №119](texts/forum/2021/2021-04-18_6559_spoem-vmeste-119.md): 2021-04-18
+- [Документальный фильм "За песней вслед"](texts/forum/2021/2021-04-26_6563_dokumentalnyy-film-za-pesney-vsled.md): 2021-04-26
+- ["Споём вместе!" №120: песни Булата Окуджавы](texts/forum/2021/2021-05-09_6565_spoem-vmeste-120-pesni-bulata-okudzhavy.md): 2021-05-09
+- [Друзья нужен ваш фидбек](texts/forum/2021/2021-05-18_6569_druzya-nuzhen-vash-fidbek.md): 2021-05-18
+- [Троя](texts/forum/2021/2021-06-02_6573_troya.md): 2021-06-02
+- [Народная дипломатия:)](texts/forum/2021/2021-06-16_6576_narodnaya-diplomatiya.md): 2021-06-16
+- [Местечко Сегельфосс](texts/forum/2021/2021-06-21_6577_mestechko-segelfoss.md): 2021-06-21
+- [А.Костромин: Разминка-распевка 2005](texts/forum/2021/2021-08-03_6587_a-kostromin-razminka-raspevka-2005.md): 2021-08-03
+- [70 лет А.Н. Костромину](texts/forum/2021/2021-09-17_6591_70-let-a-n-kostrominu.md): 2021-09-17
+- ["Споём вместе!" №121](texts/forum/2021/2021-10-17_6602_spoem-vmeste-121.md): 2021-10-17
+- [Занятия в сезоне 2021-2022](texts/forum/2021/2021-10-25_6604_zanyatiya-v-sezone-2021-2022.md): 2021-10-25
+- [Видео Бориса Дружинина и Бориса Круглова 1969-77 годов](texts/forum/2021/2021-10-31_6620_video-borisa-druzhinina-i-borisa-kruglova-1969-77-godov.md): 2021-10-31
+- [Занятия в сезоне 2021-2022: возобновляем очные занятия](texts/forum/2021/2021-11-06_6621_zanyatiya-v-sezone-2021-2022-vozobnovlyaem-ochnye-zanyatiya.md): 2021-11-06
+- [Занятия в Зуме: плюсы и минусы](texts/forum/2021/2021-11-06_6622_zanyatiya-v-zume-plyusy-i-minusy.md): 2021-11-06
+- [Фестиваль на Филфаке: пятилетие и архивация!](texts/forum/2021/2021-11-07_6025_festival-na-filfake-pyatiletie-i-arhivatsiya.md): 2021-11-07
+- [Лауреатом какого конкурса авторской песни был Костромин?](texts/forum/2021/2021-11-11_6623_laureatom-kakogo-konkursa-avtorskoy-pesni-byl-kostromin.md): 2021-11-11
+- ["Споём вместе!" №122. Песни Сергея Крылова и "трубачи"](texts/forum/2021/2021-12-19_6636_spoem-vmeste-122-pesni-sergeya-krylova-i-trubachi.md): 2021-12-19
+- [С Новым 2022-м годом!](texts/forum/2022/2022-01-01_6640_s-novym-2022-m-godom.md): 2022-01-01
+- ["Споём вместе!" 123: Новогодняя программа](texts/forum/2022/2022-01-09_6641_spoem-vmeste-123-novogodnyaya-programma.md): 2022-01-09
+- ["Споём вместе!" №124: поём вместе с Сергеем Никитиным](texts/forum/2022/2022-02-20_6652_spoem-vmeste-124-poem-vmeste-s-sergeem-nikitinym.md): 2022-02-20
+- ["Споём вместе!" 125: 8 марта и как бы 23 февраля...](texts/forum/2022/2022-03-08_6655_spoem-vmeste-125-8-marta-i-kak-by-23-fevralya.md): 2022-03-08
+- [12 марта в "Эльдар-центре" -- "Из архива авторской песни"](texts/forum/2022/2022-03-10_6656_12-marta-v-eldar-tsentre-iz-arhiva-avtorskoy-pesni.md): 2022-03-10
+- [75 лет И.В.Алексеевой](texts/forum/2022/2022-03-19_6658_75-let-i-v-alekseevoy.md): 2022-03-19
+- [Памяти Юза Алешковского](texts/forum/2022/2022-03-26_6660_pamyati-yuza-aleshkovskogo.md): 2022-03-26
+- ["Посиделочный" концерт песен Михаила Щербакова](texts/forum/2022/2022-04-03_6661_posidelochnyy-kontsert-pesen-mihaila-scherbakova.md): 2022-04-03
+- ["Споём вместе!" №126: песни про ночь](texts/forum/2022/2022-04-10_6662_spoem-vmeste-126-pesni-pro-noch.md): 2022-04-10
+- [24 апреля 2022 г. «ПОД МУЗЫКУ БЕРКОВСКОГО» в «Эльдаре»](texts/forum/2022/2022-04-13_6663_24-aprelya-2022-g-pod-muzyku-berkovskogo-v-eldare.md): 2022-04-13
+- [IV фестиваль "День открытых дверей": 19-21 апреля](texts/forum/2022/2022-04-14_6561_iv-festival-den-otkrytyh-dverey-19-21-aprelya.md): 2022-04-14
+- [На деревне больше песен не поют.](texts/forum/2022/2022-04-24_6648_na-derevne-bolshe-pesen-ne-poyut.md): 2022-04-24
+- [3-й слёт Межвузовского КСП и 43-й слёт КСП МИРЭА 2022 г.](texts/forum/2022/2022-04-30_6664_3-y-slet-mezhvuzovskogo-ksp-i-43-y-slet-ksp-mirea-2022-g.md): 2022-04-30
+- [Споём вместе! №127: 75 лет Вадиму Егорову, и Окуджава](texts/forum/2022/2022-05-08_6665_spoem-vmeste-127-75-let-vadimu-egorovu-i-okudzhava.md): 2022-05-08
+- [Будет ли в этом году СГШ?](texts/forum/2022/2022-05-11_6666_budet-li-v-etom-godu-sgsh.md): 2022-05-11
+- [21 мая -- "Из архива авторской песни", вечер 2](texts/forum/2022/2022-05-11_6667_21-maya-iz-arhiva-avtorskoy-pesni-vecher-2.md): 2022-05-11
+- [12 мая 2022 в "Гиперионе" концерт ансамбля "Камертон", Омск](texts/forum/2022/2022-06-08_6672_12-maya-2022-v-giperione-kontsert-ansamblya-kamerton-omsk.md): 2022-06-08
+- [Дневной кукушки счёт горчащий](texts/forum/2022/2022-06-30_6675_dnevnoy-kukushki-schet-gorchaschiy.md): 2022-06-30
+- [За Туманом - авторство музыки](texts/forum/2022/2022-07-29_6677_za-tumanom-avtorstvo-muzyki.md): 2022-07-29
+- [А. Хвостенко "Прощание со степью"](texts/forum/2022/2022-07-30_6414_a-hvostenko-proschanie-so-stepyu.md): 2022-07-30
+- [Поиск текста песни](texts/forum/2022/2022-08-19_6680_poisk-teksta-pesni.md): 2022-08-19
+- [Состоялся первый детско-юношеский Грушинский фестиваль.](texts/forum/2022/2022-08-25_6682_sostoyalsya-pervyy-detsko-yunosheskiy-grushinskiy-festival.md): 2022-08-25
+- [29 сентября 2022 в "Эльдаре" -- "По следам "Бригантины"](texts/forum/2022/2022-09-12_6684_29-sentyabrya-2022-v-eldare-po-sledam-brigantiny.md): 2022-09-12
+- [31-й Московский конкурс АП начинается!](texts/forum/2022/2022-10-01_6685_31-y-moskovskiy-konkurs-ap-nachinaetsya.md): 2022-10-01
+- [Занятия в сезоне 2022-2023](texts/forum/2022/2022-10-07_6687_zanyatiya-v-sezone-2022-2023.md): 2022-10-07
+- [Результаты Первого тура XXXI Московского конкурса АП](texts/forum/2022/2022-10-15_6692_rezultaty-pervogo-tura-xxxi-moskovskogo-konkursa-ap.md): 2022-10-15
+- ["Споём вместе!" №128: С.Флейшман, Ю.Кукин, В.Берковский](texts/forum/2022/2022-10-16_6693_spoem-vmeste-128-s-fleyshman-yu-kukin-v-berkovskiy.md): 2022-10-16
+- [Авторство русской версии песни "За пивОм"](texts/forum/2022/2022-10-17_6694_avtorstvo-russkoy-versii-pesni-za-pivom.md): 2022-10-17
+- [Валентин Лившиц: Тихо дремлет сад заброшенный и др.](texts/forum/2022/2022-10-18_6695_valentin-livshits-tiho-dremlet-sad-zabroshennyy-i-dr.md): 2022-10-18
+- [30 октября в "Эльдаре" -- 90-летие Юрия Кукина](texts/forum/2022/2022-10-23_6698_30-oktyabrya-v-eldare-90-letie-yuriya-kukina.md): 2022-10-23
+- ["Споём вместе!" №129: Николай Рубцов и осень](texts/forum/2022/2022-11-13_6704_spoem-vmeste-129-nikolay-rubtsov-i-osen.md): 2022-11-13
+- [Лекция А.Костромина 21 ноября 2022: исполнительство](texts/forum/2022/2022-11-22_6709_lektsiya-a-kostromina-21-noyabrya-2022-ispolnitelstvo.md): 2022-11-22
+- [Как готовиться к конкурсам авторской песни?](texts/forum/2022/2022-12-01_6711_kak-gotovitsya-k-konkursam-avtorskoy-pesni.md): 2022-12-01
+- [Детско-юношеская группа приглашает учеников](texts/forum/2022/2022-12-04_6713_detsko-yunosheskaya-gruppa-priglashaet-uchenikov.md): 2022-12-04
+- ["Споём вместе!" №130: юбилеи песен 1972 года](texts/forum/2022/2022-12-18_6731_spoem-vmeste-130-yubilei-pesen-1972-goda.md): 2022-12-18
+- [Новый диск Бориса Гребенщикова: песни бардов](texts/forum/2022/2022-12-31_6735_novyy-disk-borisa-grebenschikova-pesni-bardov.md): 2022-12-31
+- ["Споём вместе!" №131: Старый Новый год](texts/forum/2023/2023-01-15_6744_spoem-vmeste-131-staryy-novyy-god.md): 2023-01-15
+- [27 января 2023 -- творческая мастерская Первого тура](texts/forum/2023/2023-01-21_6748_27-yanvarya-2023-tvorcheskaya-masterskaya-pervogo-tura.md): 2023-01-21
+- [11 февраля 2023 в "Эльдаре" -- "По следам "Бригантины"-2"](texts/forum/2023/2023-02-01_6753_11-fevralya-2023-v-eldare-po-sledam-brigantiny-2.md): 2023-02-01
+- ["Споём вместе!" №132 18 февраля 2023: юбилеи песен 1973](texts/forum/2023/2023-02-19_6761_spoem-vmeste-132-18-fevralya-2023-yubilei-pesen-1973.md): 2023-02-19
+- [Второй тур 31 Московского конкурса](texts/forum/2023/2023-02-26_6762_vtoroy-tur-31-moskovskogo-konkursa.md): 2023-02-26
+- ["Споём вместе!"№133 11 марта 2023: Восьмое марта](texts/forum/2023/2023-03-12_6767_spoem-vmeste-133-11-marta-2023-vosmoe-marta.md): 2023-03-12
+- [О переименовании форума "Болтовня"](texts/forum/2023/2023-03-17_6771_o-pereimenovanii-foruma-boltovnya.md): 2023-03-17
+- [Поздравляем Александра Моисеевича Городницкого с 90-летием!](texts/forum/2023/2023-03-20_6772_pozdravlyaem-aleksandra-moiseevicha-gorodnitskogo-s-90-letie.md): 2023-03-20
+- [Моя позиция](texts/forum/2023/2023-03-21_6773_moya-pozitsiya.md): 2023-03-21
+- [СПИСОК УЧАСТНИКОВ ТРЕТЬЕГО ТУРА XXXI МОСКОВСКОГО КОНКУРСА АП](texts/forum/2023/2023-03-30_6778_spisok-uchastnikov-tretego-tura-xxxi-moskovskogo-konkursa-ap.md): 2023-03-30
+- ["Споём вместе!" №134 1 апреля 2023: День дурака](texts/forum/2023/2023-04-02_6781_spoem-vmeste-134-1-aprelya-2023-den-duraka.md): 2023-04-02
+- [РЕЗУЛЬТАТЫ ТРЕТЬЕГО ТУРА XXXI МОСКОВСКОГО КОНКУРСА АВТОРСКОЙ](texts/forum/2023/2023-04-09_6783_rezultaty-tretego-tura-xxxi-moskovskogo-konkursa-avtorskoy.md): 2023-04-09
+- [Третий тур XXXI Московского конкурса АП](texts/forum/2023/2023-04-12_6784_tretiy-tur-xxxi-moskovskogo-konkursa-ap.md): 2023-04-12
+- [Весеннее танго.](texts/forum/2023/2023-04-27_6786_vesennee-tango.md): 2023-04-27
+- ["Споём вместе!" №135 9 мая 2023: День рождения Б. Окуджавы](texts/forum/2023/2023-05-11_6789_spoem-vmeste-135-9-maya-2023-den-rozhdeniya-b-okudzhavy.md): 2023-05-11
+- [Inversion (лат) - переворачивание.](texts/forum/2023/2023-08-15_6790_inversion-lat-perevorachivanie.md): 2023-08-15
+- [Интервью А.Костромина в "Вечерней Москве"](texts/forum/2023/2023-08-27_6798_intervyu-a-kostromina-v-vecherney-moskve.md): 2023-08-27
+- [Учебное пособие "Колёса": наконец-то инструкция](texts/forum/2023/2023-09-13_6800_uchebnoe-posobie-kolesa-nakonets-to-instruktsiya.md): 2023-09-13
+- ["Споём вместе!" 30 сентября 2023: снова осень](texts/forum/2023/2023-10-02_6804_spoem-vmeste-30-sentyabrya-2023-snova-osen.md): 2023-10-02
+- [Установлен день рождения "Бригантины"](texts/forum/2023/2023-10-02_6805_ustanovlen-den-rozhdeniya-brigantiny.md): 2023-10-02
+- [Организационное собрание ГШ 2 октября 2023 г.](texts/forum/2023/2023-10-02_6806_organizatsionnoe-sobranie-gsh-2-oktyabrya-2023-g.md): 2023-10-02
+- [Занятия в сезоне 2023-2024](texts/forum/2023/2023-10-09_6809_zanyatiya-v-sezone-2023-2024.md): 2023-10-09
+- [проблема с отображением видео с ютуб.](texts/forum/2023/2023-10-23_6812_problema-s-otobrazheniem-video-s-yutub.md): 2023-10-23
+- ["Споём вместе!" №137 28 октября 2023: юбилей В.Шабанова](texts/forum/2023/2023-10-29_6816_spoem-vmeste-137-28-oktyabrya-2023-yubiley-v-shabanova.md): 2023-10-29
+- [Зачем нужны узкие грифы?](texts/forum/2023/2023-11-02_6817_zachem-nuzhny-uzkie-grify.md): 2023-11-02
+- [16 февраля 2024 года в "Эльдаре" -- «Ах, юбилей!»](texts/forum/2023/2023-11-09_6820_16-fevralya-2024-goda-v-eldare-ah-yubiley.md): 2023-11-09
+- [Это этап](texts/forum/2023/2023-11-14_6821_eto-etap.md): 2023-11-14
+- [Компьюторный глюк](texts/forum/2023/2023-11-17_6822_kompyutornyy-glyuk.md): 2023-11-17
+- ["Споём вместе!" №138 25 ноября 2023 г.: поют тридцатилетние](texts/forum/2023/2023-11-26_6825_spoem-vmeste-138-25-noyabrya-2023-g-poyut-tridtsatiletnie.md): 2023-11-26
+- [По следам "Бригантины"-3 -- 8 декабря 2023 в Гиперионе](texts/forum/2023/2023-12-13_6826_po-sledam-brigantiny-3-8-dekabrya-2023-v-giperione.md): 2023-12-13
+- [14 декабря 2023 -- "Песня начиналась здесь"](texts/forum/2023/2023-12-13_6827_14-dekabrya-2023-pesnya-nachinalas-zdes.md): 2023-12-13
+- ["Споём вместе!" 16 декабря 2023: 84 года Б. Щеглову и зима](texts/forum/2023/2023-12-17_6828_spoem-vmeste-16-dekabrya-2023-84-goda-b-scheglovu-i-zima.md): 2023-12-17
+- [Постковидное](texts/forum/2023/2023-12-18_6829_postkovidnoe.md): 2023-12-18
+- [Что такое авторская песня? Лекция 25 марта 2019 г](texts/forum/2024/2024-01-02_6833_chto-takoe-avtorskaya-pesnya-lektsiya-25-marta-2019-g.md): 2024-01-02
+- ["Споём вместе!" №140 13 января 2024 г.: Старый Новый год](texts/forum/2024/2024-01-14_6836_spoem-vmeste-140-13-yanvarya-2024-g-staryy-novyy-god.md): 2024-01-14
+- [Опечатка в разделе "Новости"](texts/forum/2024/2024-01-21_6839_opechatka-v-razdele-novosti.md): 2024-01-21
+- [«Он - адмирал и родина его - Марсель». Датировка. Исправлено](texts/forum/2024/2024-01-31_6842_on-admiral-i-rodina-ego-marsel-datirovka-ispravleno.md): 2024-01-31
+- ["Споём вместе!" №141 10 февраля 2024: юбилеи песен 1974 года](texts/forum/2024/2024-02-11_6848_spoem-vmeste-141-10-fevralya-2024-yubilei-pesen-1974-goda.md): 2024-02-11
+- [16 марта 2024 в киноклубе "Эльдар" -- 80 лет С.Никитину](texts/forum/2024/2024-02-29_6854_16-marta-2024-v-kinoklube-eldar-80-let-s-nikitinu.md): 2024-02-29
+- ["Споём вместе!" №142 9 марта 2024: 80 лет Сергею Никитину](texts/forum/2024/2024-03-10_6860_spoem-vmeste-142-9-marta-2024-80-let-sergeyu-nikitinu.md): 2024-03-10
+- [Умер Вадим Самойлович](texts/forum/2024/2024-03-11_6863_umer-vadim-samoylovich.md): 2024-03-11
+- ["Споём вместе!" №143 6 апреля 2024](texts/forum/2024/2024-04-07_6868_spoem-vmeste-143-6-aprelya-2024.md): 2024-04-07
+- [100 лет Булату Окуджаве](texts/forum/2024/2024-05-10_6876_100-let-bulatu-okudzhave.md): 2024-05-10
+- ["Споём вместе!" №144 12 мая 2024: 100 лет Б. Окуджаве](texts/forum/2024/2024-05-13_6879_spoem-vmeste-144-12-maya-2024-100-let-b-okudzhave.md): 2024-05-13
+- [А. Костромин на радио "Маяк".](texts/forum/2024/2024-08-03_6892_a-kostromin-na-radio-mayak.md): 2024-08-03
+- [Поздравляем Игоря Михайловича Каримова с 80-летием!](texts/forum/2024/2024-08-08_6894_pozdravlyaem-igorya-mihaylovicha-karimova-s-80-letiem.md): 2024-08-08
+- [В г.Орле открыли бюст поэту-фронтовику Евгению Аграновичу](texts/forum/2024/2024-08-13_6895_v-g-orle-otkryli-byust-poetu-frontoviku-evgeniyu-agranovichu.md): 2024-08-13
+- [А.Костромин на ТВ "Вечерняя Москва"](texts/forum/2024/2024-08-30_6896_a-kostromin-na-tv-vechernyaya-moskva.md): 2024-08-30
+- [Игоряка - Счастье закончилось...](texts/forum/2024/2024-09-28_6904_igoryaka-schaste-zakonchilos.md): 2024-09-28
+- [Игоряка - Я потерял тебя](texts/forum/2024/2024-09-28_6905_igoryaka-ya-poteryal-tebya.md): 2024-09-28
+- [Занятия в сезоне 2024--2025](texts/forum/2024/2024-10-04_6908_zanyatiya-v-sezone-2024-2025.md): 2024-10-04
+- ["Споём вместе!" №145 5 октября 2024: 90 лет Н. Матвеевой](texts/forum/2024/2024-10-06_6909_spoem-vmeste-145-5-oktyabrya-2024-90-let-n-matveevoy.md): 2024-10-06
+- [32-Й МОСКОВСКИЙ КОНКУРС НАЧИНАЕТСЯ](texts/forum/2024/2024-10-28_6912_32-y-moskovskiy-konkurs-nachinaetsya.md): 2024-10-28
+- [Результаты Первого тура XXXII Московского конкурса АП](texts/forum/2024/2024-11-09_6917_rezultaty-pervogo-tura-xxxii-moskovskogo-konkursa-ap.md): 2024-11-09
+- ["Споём вместе!" №146 9 ноября 2024](texts/forum/2024/2024-11-10_6919_spoem-vmeste-146-9-noyabrya-2024.md): 2024-11-10
+- [Поздравляем КСП с 60-летием!](texts/forum/2024/2024-11-18_6922_pozdravlyaem-ksp-s-60-letiem.md): 2024-11-18
+- ["Споём вместе!" №147: 19 лет проекту](texts/forum/2024/2024-12-08_6928_spoem-vmeste-147-19-let-proektu.md): 2024-12-08
+- ["Заезжий музыкант" -- "вторая мелодия"](texts/forum/2024/2024-12-15_6929_zaezzhiy-muzykant-vtoraya-melodiya.md): 2024-12-15
+- ["Споём вместе!" №148 11 января 2025](texts/forum/2025/2025-01-12_6933_spoem-vmeste-148-11-yanvarya-2025.md): 2025-01-12
+- ["Споём вместе!" №149 8 февраля 2025](texts/forum/2025/2025-02-09_6939_spoem-vmeste-149-8-fevralya-2025.md): 2025-02-09
+- [Второй тур XXXII Московского конкурса АП](texts/forum/2025/2025-02-16_6941_vtoroy-tur-xxxii-moskovskogo-konkursa-ap.md): 2025-02-16
+- [Технический вопрос по видео](texts/forum/2025/2025-02-24_6943_tehnicheskiy-vopros-po-video.md): 2025-02-24
+- ["Споём вместе!" №150 8 марта 2025](texts/forum/2025/2025-03-10_6945_spoem-vmeste-150-8-marta-2025.md): 2025-03-10
+- [27 февраля 1997. Юбилейный концерт Владимира Бережкова](texts/forum/2025/2025-03-14_6946_27-fevralya-1997-yubileynyy-kontsert-vladimira-berezhkova.md): 2025-03-14
+- [Сайт dulov.ru заброшен?](texts/forum/2025/2025-04-01_6947_sayt-dulov-ru-zabroshen.md): 2025-04-01
+- [Результаты 2 тура 32 Московского конкурса АП](texts/forum/2025/2025-04-03_6949_rezultaty-2-tura-32-moskovskogo-konkursa-ap.md): 2025-04-03
+- ["Споём вместе!" №151 12 апреля 2025](texts/forum/2025/2025-04-14_6951_spoem-vmeste-151-12-aprelya-2025.md): 2025-04-14
+- [Третий тур 32 Московского конкурса АП](texts/forum/2025/2025-04-21_6953_tretiy-tur-32-moskovskogo-konkursa-ap.md): 2025-04-21
+- [РЕЗУЛЬТАТЫ ТРЕТЬЕГО ТУРА XXXII МОСКОВСКОГО КОНКУРСА АП](texts/forum/2025/2025-04-28_6955_rezultaty-tretego-tura-xxxii-moskovskogo-konkursa-ap.md): 2025-04-28
+- [Споём вместе!" №152 10 мая 2025](texts/forum/2025/2025-05-11_6959_spoem-vmeste-152-10-maya-2025.md): 2025-05-11
+- [38-й Слёт гитарных школ: видео](texts/forum/2025/2025-06-12_6963_38-y-slet-gitarnyh-shkol-video.md): 2025-06-12
+- ["Споём вместе!" №153 4 октября 2025](texts/forum/2025/2025-10-05_6972_spoem-vmeste-153-4-oktyabrya-2025.md): 2025-10-05
+- ["Стена Визбора"](texts/forum/2025/2025-10-05_6973_stena-vizbora.md): 2025-10-05
+- ["Споём вместе!" №154 8 ноября 2025](texts/forum/2025/2025-11-16_6977_spoem-vmeste-154-8-noyabrya-2025.md): 2025-11-16
+- [Перевод АП на другие языки](texts/forum/2025/2025-11-24_6978_perevod-ap-na-drugie-yazyki.md): 2025-11-24
+- [50 лет Беляевской гитарной школе](texts/forum/2025/2025-11-24_6979_50-let-belyaevskoy-gitarnoy-shkole.md): 2025-11-24
+- ["Споём вместе!" 6 декабря 2025](texts/forum/2025/2025-12-07_6982_spoem-vmeste-6-dekabrya-2025.md): 2025-12-07
+- [Ноты Путеводной звезда. Никитина-Мориц](texts/forum/2025/2025-12-22_6983_noty-putevodnoy-zvezda-nikitina-morits.md): 2025-12-22
+- ["Споём вместе!" №156 10 января 2026](texts/forum/2026/2026-01-11_6985_spoem-vmeste-156-10-yanvarya-2026.md): 2026-01-11
+- ["Споём вместе!" №157 7 февраля 2026](texts/forum/2026/2026-02-09_6987_spoem-vmeste-157-7-fevralya-2026.md): 2026-02-09
+- ["Споём вместе!" №158 7 марта 2026](texts/forum/2026/2026-03-08_6992_spoem-vmeste-158-7-marta-2026.md): 2026-03-08
+- ["Споём вместе!" №159 11 апреля 2026](texts/forum/2026/2026-04-12_6997_spoem-vmeste-159-11-aprelya-2026.md): 2026-04-12
+- ["Споём вместе!" №160 9 мая 2026: Песни Булата Окуджавы](texts/forum/2026/2026-05-09_7002_spoem-vmeste-160-9-maya-2026-pesni-bulata-okudzhavy.md): 2026-05-09
