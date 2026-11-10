@@ -114,6 +114,7 @@
 - [Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.](texts/talks/2025-06-26_sxllI7SYkk0_aleksandr-kostromin-kontsert-v-moskovskom-gorodskom-tsentre.md): 2025-06-26
 - [Александр Костромин, Наталья Быстрова - Закрытие сезона 2025-26 в ЦАП, часть 1 (из 2)](texts/talks/2026-06-24_5rTAumXBRQg_aleksandr-kostromin-natalya-bystrova-zakrytie-sezona-2025-26.md): 2026-06-24
 - [Александр Костромин, Наталья Быстрова - Закрытие сезона 2025-26 в ЦАП, часть 2 (из 2)](texts/talks/2026-06-24_GHTNOTvSH2I_aleksandr-kostromin-natalya-bystrova-zakrytie-sezona-2025-26.md): 2026-06-24
+- [Памяти Александра Костромина (1951 - 03.10.2026)](texts/talks/2026-10-03_gAZl6GzmKTs_pamyati-aleksandra-kostromina-1951-03-10-2026.md): 2026-10-03
 
 ## Говорят о нём
 - [ktirf (ЖЖ): запись «Синяя лодка» в ЖЖ — о конкурсе «Первый снег» на физфаке МГУ, 1998](texts/about/2003-11-25_ktirf-zhzh_ktirf-lj-2003-11-25.md): 2003-11-25
