@@ -5,6 +5,7 @@
 ## Портрет и инструкция
 - [Инструкция собеседнику](persona/system_prompt.md)
 - [Портрет: биография, манера, взгляды](persona/portrait.md)
+- [Песни в его исполнении](texts/repertoire.md)
 
 ## Статьи и доклады
 - [Статьи Александра Костромина — gorodnit2.pdf](texts/articles/gorodnit2_stati-aleksandra-kostromina-gorodnit2-pdf.md)
@@ -84,22 +85,48 @@
 - [Второй класс. Теория. — vizbor.pdf](texts/teaching/vizbor_vtoroy-klass-teoriya-vizbor-pdf.md)
 - [Второй класс. Теория. — yakusheva.pdf](texts/teaching/yakusheva_vtoroy-klass-teoriya-yakusheva-pdf.md)
 
+## Интервью
+- [Пойте душой: Александр Костромин — об авторской песне и бардовском движении](texts/interviews/2024-10-09_vm-2024-10-09.md): 2024-10-09
+
 ## Расшифровки лекций и концертов
 - ["Солнечный зайчик-2009" в передаче "Нефальшивою струною". Гость - Александр Костромин. Запорожье.](texts/talks/2009-12-20_uTJa6pA8s94_solnechnyy-zaychik-2009-v-peredache-nefalshivoyu-strunoyu-go.md): 2009-12-20
 - [Александр Костромин - концерт в ЦАП (14.10.2010)](texts/talks/2010-10-14_z2jJuGogZkQ_aleksandr-kostromin-kontsert-v-tsap-14-10-2010.md): 2010-10-14
 - [Александр Костромин на Теоретических чтениях в ЦАП 23.11.12](texts/talks/2012-11-23_ikRY6g4I8no_aleksandr-kostromin-na-teoreticheskih-chteniyah-v-tsap-23-11.md): 2012-11-23
+- [Зимородок-2015. Миниконцерт Александра Костромина](texts/talks/2015-02-07_W-9D_mYdRJw_zimorodok-2015-minikontsert-aleksandra-kostromina.md): 2015-02-07
 - [Вита Левинсон, Александр Костромин. 02.06.2016. Гиперион. 2-е отделение](texts/talks/2016-06-02_eB9PZ0D7KFQ_vita-levinson-aleksandr-kostromin-02-06-2016-giperion-2-e-ot.md): 2016-06-02
 - [Вита Левинсон, Александр Костромин. 02.06.2016. Гиперион. 1-е отделение](texts/talks/2016-06-02_wNktT0VRm8s_vita-levinson-aleksandr-kostromin-02-06-2016-giperion-1-e-ot.md): 2016-06-02
+- [XXX Зимородок-2018. Александр Костромин](texts/talks/2018-02-02_ZUY3pJ8kvi0_xxx-zimorodok-2018-aleksandr-kostromin.md): 2018-02-02
+- [XXX Зимородок-2018. Микрофонная практика](texts/talks/2018-02-03_CWabpPQ45DA_xxx-zimorodok-2018-mikrofonnaya-praktika.md): 2018-02-03
 - [Александр Костромин. Что Такое Авторская Песня? Лекция, прочитанная в 1,5 классе ГШ 25 марта 2019 г.](texts/talks/2019-03-25_WTYXCo0qgRg_aleksandr-kostromin-chto-takoe-avtorskaya-pesnya-lektsiya-pr.md): 2019-03-25
+- [РЕКА-2019. Мини-концерт Костромина и Матюшина.](texts/talks/2019-10-07_TeaUblKBa-I_reka-2019-mini-kontsert-kostromina-i-matyushina.md): 2019-10-07
+- [Концерт Александра Костромина 27 мая 2021 г](texts/talks/2021-05-27_vUSPbfzhxdo_kontsert-aleksandra-kostromina-27-maya-2021-g.md): 2021-05-27
+- [Александр Костромин – «Юбилей (70) в кругу друзей»](texts/talks/2021-09-17_z9-BZAaYsAg_aleksandr-kostromin-yubiley-70-v-krugu-druzey.md): 2021-09-17
+- [Концерт Натальи Быстровой и Александра Костромина 26 мая 2022г](texts/talks/2022-05-26_T7j4F-xneqQ_kontsert-natali-bystrovoy-i-aleksandra-kostromina-26-maya-20.md): 2022-05-26
+- [Концерт Александра Костромина 15 сентября 2022г](texts/talks/2022-09-15_E1xSi9MCqZA_kontsert-aleksandra-kostromina-15-sentyabrya-2022g.md): 2022-09-15
 - [Концерт Александра Костромина 22 июня 2023 г](texts/talks/2023-06-22_CoXXPiDk-yo_kontsert-aleksandra-kostromina-22-iyunya-2023-g.md): 2023-06-22
 - [Концерт Александра Костромина 14 сентября 2023г](texts/talks/2023-09-14_ebvrquh1PDk_kontsert-aleksandra-kostromina-14-sentyabrya-2023g.md): 2023-09-14
 - [Разминки, распевки  Мастерская Александра Костромина 1](texts/talks/2024-01-02_l6-iL8KHOzU_razminki-raspevki-masterskaya-aleksandra-kostromina-1.md): 2024-01-02
+- [Александр и Наталья Костромины](texts/talks/2024-02-04_rLosK7pomr0_aleksandr-i-natalya-kostrominy.md): 2024-02-04
+- [Александр Костромин и Максим Кривошеев "Безымянная авторская песня", 15.02.2024, часть 2 (из 2)](texts/talks/2024-02-15_378V-xw10_U_aleksandr-kostromin-i-maksim-krivosheev-bezymyannaya-avtorsk.md): 2024-02-15
+- [Александр Костромин и Максим Кривошеев "Безымянная авторская песня", 15.02.2024, часть 1 (из 2)](texts/talks/2024-02-15_8F739WG0VX8_aleksandr-kostromin-i-maksim-krivosheev-bezymyannaya-avtorsk.md): 2024-02-15
 - [Александр Костромин, ЦАП, 27.06.2024,  2 отделение](texts/talks/2024-06-27_XkTbqzrP-Xg_aleksandr-kostromin-tsap-27-06-2024-2-otdelenie.md): 2024-06-27
 - [Александр Костромин. Лекция о Ю.Визборе, 27.06.2024, ЦАП](texts/talks/2024-06-27_qhVCVi2AeWo_aleksandr-kostromin-lektsiya-o-yu-vizbore-27-06-2024-tsap.md): 2024-06-27
 - [Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).](texts/talks/2024-09-13_GMebvaF1hJM_aleksandr-kostromin-otkrytie-sezona-v-gorodskom-tsentre-avto.md): 2024-09-13
 - [Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.](texts/talks/2025-06-26_sxllI7SYkk0_aleksandr-kostromin-kontsert-v-moskovskom-gorodskom-tsentre.md): 2025-06-26
 - [Александр Костромин, Наталья Быстрова - Закрытие сезона 2025-26 в ЦАП, часть 1 (из 2)](texts/talks/2026-06-24_5rTAumXBRQg_aleksandr-kostromin-natalya-bystrova-zakrytie-sezona-2025-26.md): 2026-06-24
 - [Александр Костромин, Наталья Быстрова - Закрытие сезона 2025-26 в ЦАП, часть 2 (из 2)](texts/talks/2026-06-24_GHTNOTvSH2I_aleksandr-kostromin-natalya-bystrova-zakrytie-sezona-2025-26.md): 2026-06-24
+
+## Говорят о нём
+- [Владимир Тиунов: интервью, сайт КСП «Поиск» (Саров): Владимир Тиунов: С песней – бардовской – по жизни!](texts/about/0000-00-00_vladimir-tiunov_tiunov-473.md)
+- [Владимир Тиунов: интервью, сайт КСП «Поиск» (Саров): Владимир Тиунов: «Благодаря бардовской песне и туризму я приобрел самых лучших друзей»](texts/about/0000-00-00_vladimir-tiunov_tiunov-474.md)
+- [ktirf (ЖЖ): запись «Синяя лодка» в ЖЖ — о конкурсе «Первый снег» на физфаке МГУ, 1998](texts/about/2003-11-25_ktirf-zhzh_ktirf-lj-2003-11-25.md): 2003-11-25
+- [Доктор: форум КСП «Поиск» (веб-архив), тема «Зимородок 2016. Семинар по концертной звукорежиссуре»](texts/about/2016-02-11_doktor_poisk-forum-4665.md): 2016-02-11
+- [Илья Бургасов: форум КСП «Поиск» (веб-архив), тема «Зимородок 2016. Семинар по концертной звукорежиссуре»](texts/about/2016-02-12_ilya-burgasov_poisk-forum-4684.md): 2016-02-12
+- [Вита Левинсон: концерт в книжном клубе «Гиперион», Москва (автоматическая расшифровка видео)](texts/about/2016-06-02_vita-levinson_vita-levinson-2016-06-02.md): 2016-06-02
+- [Nemo: форум КСП «Поиск» (веб-архив), тема «Зимородок–2017. Откуда берутся дети?...»](texts/about/2017-02-07_nemo_poisk-forum-4770.md): 2017-02-07
+- [Tatka: форум КСП «Поиск» (веб-архив), тема «Зимородок - 2018 Итоги»](texts/about/2018-02-09_tatka_poisk-forum-4909.md): 2018-02-09
+- [Boris Felikson: форум ЦАП, ветка «В мире АП и культуры невосполнимая потеря»](texts/about/2026-10-07_boris-felikson_cap-forum-46668.md): 2026-10-07
+- [Максим 10-12: форум ЦАП, ветка «В мире АП и культуры невосполнимая потеря»](texts/about/2026-10-08_maksim-10-12_cap-forum-46674.md): 2026-10-08
 
 ## Форум ЦАП
 - [Концерт 11 ноября в Казематах](texts/forum/2006/2006-11-15_511_kontsert-11-noyabrya-v-kazematah.md): 2006-11-15
