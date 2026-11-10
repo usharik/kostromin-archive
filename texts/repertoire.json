@@ -722,7 +722,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1151.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=AhWmczX5YS0&t=5794s",
+     "time": "1:36:34",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №133",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-12-07",
@@ -734,12 +740,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1243.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=zBM5hFBRjSM&t=2173s",
+     "time": "36:13",
+     "title": "\"ПО СТАРИННОЙ ПО ПРИВЫЧКЕ...\"- \"СПОЁМ ВМЕСТЕ!\" №147,  Большой зал Центра авторской песни , 7/12/24",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 11,
   "accompanied": 5,
-  "recorded": 3
+  "recorded": 5
  },
  {
   "title": "Другие города",
@@ -1196,7 +1208,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_904.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=K3MhS4BtTuo&t=0s",
+     "time": "0:00",
+     "title": "\"Синие сугробы\" ст. и муз.А.Якушевой. Исп.Т.Визбор, А.Евстигнеев, А.Костромин, Д.Матюшин",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2016-09-03",
@@ -1280,7 +1298,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1130.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=7WxSVepd2LI&t=6433s",
+     "time": "1:47:13",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №123. \"А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-03-11",
@@ -1291,7 +1315,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1151.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=AhWmczX5YS0&t=5502s",
+     "time": "1:31:42",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №133",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2025-03-08",
@@ -1307,7 +1337,7 @@
   ],
   "sang": 16,
   "accompanied": 4,
-  "recorded": 5
+  "recorded": 8
  },
  {
   "title": "Сумерки",
@@ -1777,7 +1807,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1103.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=BN5nbT6ffgU&t=6099s",
+     "time": "1:41:39",
+     "title": "Споем вместе! №116",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2022-01-08",
@@ -1789,7 +1825,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1130.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=7WxSVepd2LI&t=6844s",
+     "time": "1:54:04",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №123. \"А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-01-13",
@@ -1803,12 +1845,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1189.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=qsI9_PEV268&t=4492s",
+     "time": "1:14:52",
+     "title": "Концерт АП (КСП) \"Споём вместе №140 Часть 2\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 3
  },
  {
   "title": "Когда у вас нет собаки",
@@ -2329,11 +2377,25 @@
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_548.html",
     "recording": null
+   },
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2722s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2722s",
+     "time": "45:22",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
    }
   ],
-  "sang": 1,
+  "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Опыт ностальгии",
@@ -2875,12 +2937,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1191.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=kZSm26awbN8&t=575s",
+     "time": "9:35",
+     "title": "Концерт «Споём вместе №141» («Просто песенку пою!..») Первое отделение. Ведущий концерт А.Костромин",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Атлантида",
@@ -3061,7 +3129,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_944.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=aBbDPKNUAwY&t=3868s",
+     "time": "1:04:28",
+     "title": "\"Споём вместе №87\" Часть 2",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2019-01-12",
@@ -3086,7 +3160,7 @@
   ],
   "sang": 10,
   "accompanied": 1,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Ах, не ревнуй",
@@ -3997,7 +4071,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1191.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=HO6vuZ9vS0o&t=94s",
+     "time": "1:34",
+     "title": "Концерт «Споём вместе №141» («Просто песенку пою!..») Второе отделение. Ведущий концерт А.Костромин",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-06-27",
@@ -4016,7 +4096,7 @@
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Давайте верить в чудеса",
@@ -4776,6 +4856,48 @@
   "recorded": 0
  },
  {
+  "title": "ЗВОНКИЙ КОЛОКОЛЬЧИК Вольный",
+  "first_line": "В середине дня запрягу коня",
+  "music": [
+   "Джеймс Пьерпонт"
+  ],
+  "lyrics": [
+   "Александр Городницкий"
+  ],
+  "authors_source": "источник",
+  "note": "перевод с английского, 1857",
+  "performances": [
+   {
+    "date": "2022-01-08",
+    "event": "«Споём вместе!» №123 «А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ…»",
+    "role": "пел",
+    "with": [
+     "Александр Евстигнеев",
+     "Дмитрий Матюшин"
+    ],
+    "source": "программа «Споём вместе!»",
+    "url": "https://www.ksp-msk.ru/page_1130.html",
+    "recording": null
+   },
+   {
+    "date": "2023-01-14",
+    "event": "«Споём вместе!» №131 «СТАРЫЙ НОВЫЙ ГОД»",
+    "role": "пел",
+    "with": [
+     "Дмитрий Матюшин",
+     "участники концерта",
+     "победители викторины"
+    ],
+    "source": "программа «Споём вместе!»",
+    "url": "https://www.ksp-msk.ru/page_1147.html",
+    "recording": null
+   }
+  ],
+  "sang": 2,
+  "accompanied": 0,
+  "recorded": 0
+ },
+ {
   "title": "Золотые петушки",
   "first_line": "Тёмной ночи вопреки что-то мне не спится",
   "music": [
@@ -4827,11 +4949,25 @@
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_473.html",
     "recording": null
+   },
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=619s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=619s",
+     "time": "10:19",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
    }
   ],
-  "sang": 1,
+  "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Канарские острова",
@@ -4910,12 +5046,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1146.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=kdZo5UGdKqQ&t=10551s",
+     "time": "2:55:51",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №130  \"А во дворе идёт снежок...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Любите родину",
@@ -5249,12 +5391,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1146.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=kdZo5UGdKqQ&t=11182s",
+     "time": "3:06:22",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №130  \"А во дворе идёт снежок...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "На материк",
@@ -5692,7 +5840,13 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43532#p43532",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=Ky8bXkiJ7IU&t=1649s",
+     "time": "27:29",
+     "title": "Александр Костромин. 30.05.2019. ЦАП 1 отделение",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "07",
     "duration": "06:12"
    },
@@ -5713,7 +5867,7 @@
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Новогодняя",
@@ -6696,12 +6850,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1128.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=E30EoM7M7Pk&t=8007s",
+     "time": "2:13:27",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №122. \"...БЫЛ НАСТОЯЩИМ ТРУБАЧОМ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Песня полярных лётчиков",
@@ -7863,12 +8023,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1243.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=zBM5hFBRjSM&t=1701s",
+     "time": "28:21",
+     "title": "\"ПО СТАРИННОЙ ПО ПРИВЫЧКЕ...\"- \"СПОЁМ ВМЕСТЕ!\" №147,  Большой зал Центра авторской песни , 7/12/24",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 18,
   "accompanied": 6,
-  "recorded": 9
+  "recorded": 10
  },
  {
   "title": "Собачья площадка",
@@ -8954,11 +9120,25 @@
     "recording": null,
     "track": "09",
     "duration": "04:43"
+   },
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1127s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1127s",
+     "time": "18:47",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
    }
   ],
-  "sang": 3,
+  "sang": 4,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "ДВЕ ТЫСЯЧИ МЕТРОВ По стихам Семёна Флейшмана",
@@ -9743,14 +9923,20 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43513#p43513",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=0pYH6-XjjCQ&t=3890s",
+     "time": "1:04:50",
+     "title": "Александр Костромин (ЦАП, 31.05.2018) - отделение 2",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "29",
     "duration": "03:29"
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Трамвай",
@@ -10279,12 +10465,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1130.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=7WxSVepd2LI&t=11183s",
+     "time": "3:06:23",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №123. \"А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Абдул Гамид",
@@ -10584,12 +10776,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1179.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=i_YppWx58ZY&t=9976s",
+     "time": "2:46:16",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №137: \"НАМ ОСТАЁТСЯ, ДРУГ МОЙ, ТОЛЬКО ПЕСНЯ...\" (к 75-летию Виктора Шабанова)",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Царь Николашка правил на Руси…",
@@ -10912,12 +11110,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1147.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=IU9N5idhPik&t=6203s",
+     "time": "1:43:23",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №131:  \"Старый Новый год\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Кто не спрятался, я не виноват",
@@ -11623,12 +11827,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_937.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=yPrD6Rv5av4&t=525s",
+     "time": "8:45",
+     "title": "Споём вместе 84 12 ноября 2016 Часть 1",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Вот и лето прошло",
@@ -12108,12 +12318,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1125.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rQzeixziCzY&t=1227s",
+     "time": "20:27",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №121: \"ОСЕННИЙ ЛИСТОПАД МОСКВУ ЗАВОРОШИЛ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Пиратская",
@@ -12473,12 +12689,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1245.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=abt6CejFcdg&t=1646s",
+     "time": "27:26",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №148 в Большом зале Центра авторской песни (КЦ ДОМ) 11 января 2025 г.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 4,
   "accompanied": 1,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "ЖАЖДА По стихам Натальи Кончаловской",
@@ -12547,7 +12769,7 @@
    "Борис Полоскин"
   ],
   "authors_source": "источник",
-  "note": "перевод с французского Бориса Полоскина",
+  "note": "перевод с французского",
   "performances": [
    {
     "date": "2006-02-11",
@@ -12588,11 +12810,27 @@
      "title": "Александр Костромин и Наталья Быстрова. «Гиперион», 07.06.24",
      "approx": false
     }
+   },
+   {
+    "date": "2025-06-26",
+    "event": "Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.",
+    "role": "пел",
+    "with": [
+     "ДРУГОЙ"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=sxllI7SYkk0&t=10371s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=sxllI7SYkk0&t=10371s",
+     "time": "2:52:51",
+     "title": "Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.",
+     "approx": false
+    }
    }
   ],
-  "sang": 3,
+  "sang": 4,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Помнишь дождь",
@@ -12805,12 +13043,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1155.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=Q4LNmcrfp2E&t=3359s",
+     "time": "55:59",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №134 \"Какое небо голубое!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Арбатский романс",
@@ -12875,12 +13119,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1191.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=HO6vuZ9vS0o&t=1159s",
+     "time": "19:19",
+     "title": "Концерт «Споём вместе №141» («Просто песенку пою!..») Второе отделение. Ведущий концерт А.Костромин",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "» ах, война, она не год ещё протянет",
@@ -14334,12 +14584,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1135.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=IkxBERZqWhs&t=7367s",
+     "time": "2:02:47",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №125 «…И ЖЕНЩИНЫ ГЛЯДЯТ ИЗ-ПОД РУКИ…»",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 6,
   "accompanied": 1,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Дорожная песня",
@@ -14548,7 +14804,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1121.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=n-VFRbs23Pw&t=8996s",
+     "time": "2:29:56",
+     "title": "СПОЁМ ВМЕСТЕ! №120   \"А МЫ С НАДЕЖДОЙ В БУДУЩЕЕ — СВЕТ!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2022-05-07",
@@ -14570,12 +14832,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1155.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=Q4LNmcrfp2E&t=7050s",
+     "time": "1:57:30",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №134 \"Какое небо голубое!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 8,
   "accompanied": 0,
-  "recorded": 2
+  "recorded": 4
  },
  {
   "title": "Ещё один романс",
@@ -14647,12 +14915,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1115.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=T4xg0pcSSHc&t=10140s",
+     "time": "2:49:00",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №118  \"ЗНАЧИТ, ПРИШЛА ВЕСНА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 3,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Живописцы",
@@ -14787,7 +15061,13 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1128.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=E30EoM7M7Pk&t=8278s",
+     "time": "2:17:58",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №122. \"...БЫЛ НАСТОЯЩИМ ТРУБАЧОМ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-05-09",
@@ -14808,7 +15088,7 @@
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Здравствуйте, слоны",
@@ -14994,12 +15274,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1137.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=JY7CenzDpUc&t=7766s",
+     "time": "2:09:26",
+     "title": "СПОЁМ ВМЕСТЕ!\" №127: Я ВАС ЛЮБЛЮ, МОИ ДОЖДИ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 4,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Море чёрное",
@@ -15546,12 +15832,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1121.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=n-VFRbs23Pw&t=4302s",
+     "time": "1:11:42",
+     "title": "СПОЁМ ВМЕСТЕ! №120   \"А МЫ С НАДЕЖДОЙ В БУДУЩЕЕ — СВЕТ!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Песенка весёлого солдата",
@@ -15696,7 +15988,13 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1121.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=n-VFRbs23Pw&t=7794s",
+     "time": "2:09:54",
+     "title": "СПОЁМ ВМЕСТЕ! №120   \"А МЫ С НАДЕЖДОЙ В БУДУЩЕЕ — СВЕТ!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-10-28",
@@ -15705,12 +16003,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1179.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=i_YppWx58ZY&t=8049s",
+     "time": "2:14:09",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №137: \"НАМ ОСТАЁТСЯ, ДРУГ МОЙ, ТОЛЬКО ПЕСНЯ...\" (к 75-летию Виктора Шабанова)",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 2
  },
  {
   "title": "Песенка Мальвины",
@@ -15995,12 +16299,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1155.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=Q4LNmcrfp2E&t=3566s",
+     "time": "59:26",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №134 \"Какое небо голубое!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Песенка о лёньке королёве",
@@ -16213,12 +16523,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1115.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=T4xg0pcSSHc&t=10543s",
+     "time": "2:55:43",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №118  \"ЗНАЧИТ, ПРИШЛА ВЕСНА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 4,
   "accompanied": 2,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Песенка о моцарте",
@@ -17419,7 +17735,13 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1188.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=VDgPDIQNsyU&t=11070s",
+     "time": "3:04:30",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №139: \"ЗИМА ОСТОРОЖНО ПОДКРАЛАСЬ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2025-01-11",
@@ -17435,7 +17757,7 @@
   ],
   "sang": 6,
   "accompanied": 6,
-  "recorded": 3
+  "recorded": 4
  },
  {
   "title": "Песенка тортиллы",
@@ -17610,7 +17932,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_944.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=aBbDPKNUAwY&t=4700s",
+     "time": "1:18:20",
+     "title": "\"Споём вместе №87\" Часть 2",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2018-05-09",
@@ -17667,7 +17995,7 @@
   ],
   "sang": 7,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "ПЕСНЯ ВЕРЕЩАГИНА из кинофильма «Ваше благородие госпожа разлука…»",
@@ -17860,12 +18188,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1121.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=n-VFRbs23Pw&t=4192s",
+     "time": "1:09:52",
+     "title": "СПОЁМ ВМЕСТЕ! №120   \"А МЫ С НАДЕЖДОЙ В БУДУЩЕЕ — СВЕТ!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "ПЕСНЯ ПРОТЕСТА БУРАТИНО к телефильму «Приключения Буратино»",
@@ -18283,7 +18617,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_508.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=5bU_GWLQODE&t=3602s",
+     "time": "1:00:02",
+     "title": "Споём вместе №6 с уч. Александра Васина и Евгения Аграновича. 13.05.2006  Политехнический",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2008-05-10",
@@ -18404,7 +18744,7 @@
   ],
   "sang": 10,
   "accompanied": 0,
-  "recorded": 3
+  "recorded": 4
  },
  {
   "title": "Приезжая семья фотографируется на фоне памятника пушкину",
@@ -19476,7 +19816,13 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1120.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4DYVTzxelYs&t=9537s",
+     "time": "2:38:57",
+     "title": "СПОЁМ ВМЕСТЕ! №119  \"АХ, КАКАЯ ЗА ОКНОМ КРАСОТА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2022-05-07",
@@ -19492,7 +19838,7 @@
   ],
   "sang": 2,
   "accompanied": 2,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Черешневый кларнет",
@@ -19806,7 +20152,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_937.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=yPrD6Rv5av4&t=4407s",
+     "time": "1:13:27",
+     "title": "Споём вместе 84 12 ноября 2016 Часть 1",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2017-05-24",
@@ -19866,7 +20218,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1142.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W8gpbY8f_l0&t=10691s",
+     "time": "2:58:11",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №129 \" ...И ШУМ ПОРЫВИСТЫХ БЕРЁЗ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-09-30",
@@ -19879,7 +20237,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1178.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=nLoIslkDdvs&t=3942s",
+     "time": "1:05:42",
+     "title": "Концерт \"Споём вместе №136\"  Второе отделение 30 сентября 2023г.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-11-09",
@@ -19898,7 +20262,7 @@
   ],
   "sang": 9,
   "accompanied": 1,
-  "recorded": 3
+  "recorded": 6
  },
  {
   "title": "Друзья уходят",
@@ -21661,12 +22025,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1147.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=IU9N5idhPik&t=466s",
+     "time": "7:46",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №131:  \"Старый Новый год\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "ШАЛАНДЫ. Из к/ф «Два бойца...»",
@@ -21806,12 +22176,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1186.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4ux1b7Bt54M&t=6024s",
+     "time": "1:40:24",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №138\": ТРИДЦАТЬ ЛЕТ - ЭТО ВРЕМЯ СВЕРШЕНИЙ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Четырнадцать минут до старта",
@@ -21835,7 +22211,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1120.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4DYVTzxelYs&t=777s",
+     "time": "12:57",
+     "title": "СПОЁМ ВМЕСТЕ! №119  \"АХ, КАКАЯ ЗА ОКНОМ КРАСОТА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2025-04-12",
@@ -21852,7 +22234,7 @@
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Бал-маскарад",
@@ -21951,12 +22333,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1188.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=VDgPDIQNsyU&t=10773s",
+     "time": "2:59:33",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №139: \"ЗИМА ОСТОРОЖНО ПОДКРАЛАСЬ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Вершина",
@@ -22244,12 +22632,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1151.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=AhWmczX5YS0&t=8481s",
+     "time": "2:21:21",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №133",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 9,
   "accompanied": 1,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Лукоморья больше нет",
@@ -23243,7 +23637,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_937.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=yPrD6Rv5av4&t=3879s",
+     "time": "1:04:39",
+     "title": "Споём вместе 84 12 ноября 2016 Часть 1",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2018-02-22",
@@ -23272,7 +23672,7 @@
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Из Нью Йорка в Лиссабон…",
@@ -23800,7 +24200,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_507.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=9S-1a1wHN2E&t=5139s",
+     "time": "1:25:39",
+     "title": "Споём вместе №5 с Туриянским, Сухановым, Колесниковым 08.04.2006 Политехнический",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2010-10-02",
@@ -23860,7 +24266,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_871.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=YW6lY6KWGEI&t=4474s",
+     "time": "1:14:34",
+     "title": "Споём вместе 70. 01.11.2014. Лекторий 1С.  2-е отделение",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2018-10-06",
@@ -23967,7 +24379,7 @@
   ],
   "sang": 15,
   "accompanied": 0,
-  "recorded": 7
+  "recorded": 9
  },
  {
   "title": "Прощальная ковбойская",
@@ -24589,14 +25001,20 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43636#p43636",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=20kcEMjWxPE&t=463s",
+     "time": "7:43",
+     "title": "А. Костромин - Творческий вечер накануне Дня Рождения (ЦАП, 12.09.2019) - 1 отделение",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "02",
     "duration": "03:28"
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Снежный вальс",
@@ -25510,46 +25928,6 @@
     "recording": null,
     "track": "04",
     "duration": "00:52"
-   }
-  ],
-  "sang": 2,
-  "accompanied": 0,
-  "recorded": 0
- },
- {
-  "title": "ЗВОНКИЙ КОЛОКОЛЬЧИК Вольный",
-  "first_line": "В середине дня запрягу коня",
-  "music": [
-   "Джеймс Пьерпонт"
-  ],
-  "lyrics": [],
-  "authors_source": "источник",
-  "note": "перевод с английского Александра Городницкого, 1857",
-  "performances": [
-   {
-    "date": "2022-01-08",
-    "event": "«Споём вместе!» №123 «А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ…»",
-    "role": "пел",
-    "with": [
-     "Александр Евстигнеев",
-     "Дмитрий Матюшин"
-    ],
-    "source": "программа «Споём вместе!»",
-    "url": "https://www.ksp-msk.ru/page_1130.html",
-    "recording": null
-   },
-   {
-    "date": "2023-01-14",
-    "event": "«Споём вместе!» №131 «СТАРЫЙ НОВЫЙ ГОД»",
-    "role": "пел",
-    "with": [
-     "Дмитрий Матюшин",
-     "участники концерта",
-     "победители викторины"
-    ],
-    "source": "программа «Споём вместе!»",
-    "url": "https://www.ksp-msk.ru/page_1147.html",
-    "recording": null
    }
   ],
   "sang": 2,
@@ -26519,12 +26897,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1243.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=zBM5hFBRjSM&t=7513s",
+     "time": "2:05:13",
+     "title": "\"ПО СТАРИННОЙ ПО ПРИВЫЧКЕ...\"- \"СПОЁМ ВМЕСТЕ!\" №147,  Большой зал Центра авторской песни , 7/12/24",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Листопад",
@@ -27040,12 +27424,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1243.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=zBM5hFBRjSM&t=9539s",
+     "time": "2:38:59",
+     "title": "\"ПО СТАРИННОЙ ПО ПРИВЫЧКЕ...\"- \"СПОЁМ ВМЕСТЕ!\" №147,  Большой зал Центра авторской песни , 7/12/24",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Приглашение к ершалаимским похождениям а.дулова",
@@ -27659,14 +28049,20 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43532#p43532",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=UVOHKBy9Zq4&t=1728s",
+     "time": "28:48",
+     "title": "Александр Костромин. 30.05.2019. ЦАП 2 отделение",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "20",
     "duration": "02:59"
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "От героев былых времён…",
@@ -27881,12 +28277,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1039.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=8bT6Hx93xE8&t=2875s",
+     "time": "47:55",
+     "title": "Споём вместе 108. Приходят к нам из сказок чудеса. 09.11.2019 Лекторий 1С 2 отделение.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Я в весеннем лесу",
@@ -28089,7 +28491,13 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1120.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4DYVTzxelYs&t=9767s",
+     "time": "2:42:47",
+     "title": "СПОЁМ ВМЕСТЕ! №119  \"АХ, КАКАЯ ЗА ОКНОМ КРАСОТА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-04-06",
@@ -28123,7 +28531,7 @@
   ],
   "sang": 11,
   "accompanied": 5,
-  "recorded": 8
+  "recorded": 9
  },
  {
   "title": "Я В ВЕСЕННЕМ ЛЕСУ из кинофильма",
@@ -28362,14 +28770,20 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43857#p43857",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=6QJUP00aqfQ&t=455s",
+     "time": "7:35",
+     "title": "Безымянная авторская песня. Александр Костромин, Максим Кривошеев. 16.01.2020 ЦАП 2 отд",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "14",
     "duration": "05:24"
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "А СНЕГ ИДЁТ… из кинофильма «Карьера Димы Горина»",
@@ -28483,6 +28897,20 @@
   "note": "",
   "performances": [
    {
+    "date": "2017-05-25",
+    "event": "Александр Костромин. 25.05.2017 ЦАП. 1-е отделение",
+    "role": "пел",
+    "with": [],
+    "source": "видео на YouTube (разметка в описании)",
+    "url": "https://www.youtube.com/watch?v=LGGMMMmjl-E&t=2605s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=LGGMMMmjl-E&t=2605s",
+     "time": "43:25",
+     "title": "Александр Костромин. 25.05.2017 ЦАП. 1-е отделение",
+     "approx": true
+    }
+   },
+   {
     "date": "2018-05-31",
     "event": "Александр Костромин -- 31 мая 2018",
     "role": "пел",
@@ -28494,9 +28922,9 @@
     "duration": "03:25"
    }
   ],
-  "sang": 1,
+  "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Со мною вот что происходит",
@@ -28519,12 +28947,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1130.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=7WxSVepd2LI&t=6979s",
+     "time": "1:56:19",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №123. \"А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Песня о вреде пьянства на воде",
@@ -28711,12 +29145,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1186.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4ux1b7Bt54M&t=9854s",
+     "time": "2:44:14",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №138\": ТРИДЦАТЬ ЛЕТ - ЭТО ВРЕМЯ СВЕРШЕНИЙ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Мокрый вальс",
@@ -30284,7 +30724,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1115.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=T4xg0pcSSHc&t=1113s",
+     "time": "18:33",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №118  \"ЗНАЧИТ, ПРИШЛА ВЕСНА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-01-14",
@@ -30309,12 +30755,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1188.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=VDgPDIQNsyU&t=11946s",
+     "time": "3:19:06",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №139: \"ЗИМА ОСТОРОЖНО ПОДКРАЛАСЬ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 6,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 3
  },
  {
   "title": "Моя звезда",
@@ -30639,12 +31091,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1188.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=VDgPDIQNsyU&t=11307s",
+     "time": "3:08:27",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №139: \"ЗИМА ОСТОРОЖНО ПОДКРАЛАСЬ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 6,
   "accompanied": 0,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Астры",
@@ -31524,7 +31982,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1189.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=qsI9_PEV268&t=4262s",
+     "time": "1:11:02",
+     "title": "Концерт АП (КСП) \"Споём вместе №140 Часть 2\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2025-01-11",
@@ -31535,12 +31999,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1245.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=abt6CejFcdg&t=1858s",
+     "time": "30:58",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №148 в Большом зале Центра авторской песни (КЦ ДОМ) 11 января 2025 г.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 13,
   "accompanied": 2,
-  "recorded": 3
+  "recorded": 5
  },
  {
   "title": "ТРИ БЕЛЫХ КОНЯ из кинофильма «Чародеи»",
@@ -31854,7 +32324,13 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43513#p43513",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=a92-M67pYmo&t=925s",
+     "time": "15:25",
+     "title": "Александр Костромин (ЦАП, 31.05.2018) - отделение 1",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "06",
     "duration": "02:46"
    },
@@ -31875,7 +32351,7 @@
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Олива",
@@ -32640,22 +33116,6 @@
     "recording": null
    },
    {
-    "date": "2022-05-26",
-    "event": "Концерт Натальи Быстровой и Александра Костромина 26 мая 2022г",
-    "role": "пел",
-    "with": [
-     "Наталья Быстрова"
-    ],
-    "source": "запись выступления",
-    "url": "https://www.youtube.com/watch?v=T7j4F-xneqQ&t=262s",
-    "recording": {
-     "url": "https://www.youtube.com/watch?v=T7j4F-xneqQ&t=262s",
-     "time": "4:22",
-     "title": "Концерт Натальи Быстровой и Александра Костромина 26 мая 2022г",
-     "approx": false
-    }
-   },
-   {
     "date": "2024-06-07",
     "event": "Александр Костромин и Наталья Быстрова. «Гиперион», 07.06.24",
     "role": "пел",
@@ -32672,9 +33132,9 @@
     }
    }
   ],
-  "sang": 6,
+  "sang": 5,
   "accompanied": 0,
-  "recorded": 3
+  "recorded": 2
  },
  {
   "title": "Наш разговор",
@@ -33709,7 +34169,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1128.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=E30EoM7M7Pk&t=11545s",
+     "time": "3:12:25",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №122. \"...БЫЛ НАСТОЯЩИМ ТРУБАЧОМ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2022-03-07",
@@ -33726,7 +34192,7 @@
   ],
   "sang": 4,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Хромой король",
@@ -33987,18 +34453,35 @@
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43857#p43857",
     "recording": {
-     "url": "https://www.youtube.com/watch?v=6QJUP00aqfQ&t=2023s",
-     "time": "33:43",
+     "url": "https://www.youtube.com/watch?v=6QJUP00aqfQ&t=2004s",
+     "time": "33:24",
      "title": "Безымянная авторская песня. Александр Костромин, Максим Кривошеев. 16.01.2020 ЦАП 2 отд",
-     "approx": true
+     "approx": true,
+     "by": "автосубтитры"
     },
     "track": "20",
     "duration": "02:48"
+   },
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [
+     "Александр"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=301s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=301s",
+     "time": "5:01",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
    }
   ],
-  "sang": 4,
+  "sang": 5,
   "accompanied": 0,
-  "recorded": 3
+  "recorded": 4
  },
  {
   "title": "Спляшем, пегги, спляшем",
@@ -34790,12 +35273,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1142.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W8gpbY8f_l0&t=5351s",
+     "time": "1:29:11",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №129 \" ...И ШУМ ПОРЫВИСТЫХ БЕРЁЗ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Элегия",
@@ -34810,20 +35299,6 @@
   "note": "",
   "performances": [
    {
-    "date": null,
-    "event": "Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).",
-    "role": "пел",
-    "with": [],
-    "source": "запись выступления",
-    "url": "https://www.youtube.com/watch?v=GMebvaF1hJM&t=7980s",
-    "recording": {
-     "url": "https://www.youtube.com/watch?v=GMebvaF1hJM&t=7980s",
-     "time": "2:13:00",
-     "title": "Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).",
-     "approx": false
-    }
-   },
-   {
     "date": "2022-11-12",
     "event": "«Споём вместе!» №129 «…И ШУМ ПОРЫВИСТЫХ БЕРЁЗ…»",
     "role": "пел",
@@ -34835,9 +35310,9 @@
     "recording": null
    }
   ],
-  "sang": 2,
+  "sang": 1,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 0
  },
  {
   "title": "Волчонок",
@@ -36054,7 +36529,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1039.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=8bT6Hx93xE8&t=3379s",
+     "time": "56:19",
+     "title": "Споём вместе 108. Приходят к нам из сказок чудеса. 09.11.2019 Лекторий 1С 2 отделение.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-04-06",
@@ -36091,7 +36572,7 @@
   ],
   "sang": 11,
   "accompanied": 0,
-  "recorded": 4
+  "recorded": 5
  },
  {
   "title": "За полярным кругом",
@@ -36833,7 +37314,7 @@
    "А. Дулов"
   ],
   "lyrics": [
-   "Р. Сефа"
+   "Р. Сеф"
   ],
   "authors_source": "модель",
   "note": "",
@@ -37594,12 +38075,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1179.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=i_YppWx58ZY&t=7349s",
+     "time": "2:02:29",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №137: \"НАМ ОСТАЁТСЯ, ДРУГ МОЙ, ТОЛЬКО ПЕСНЯ...\" (к 75-летию Виктора Шабанова)",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 5,
   "accompanied": 0,
-  "recorded": 3
+  "recorded": 4
  },
  {
   "title": "Песня о песне",
@@ -37790,14 +38277,20 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43857#p43857",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=6QJUP00aqfQ&t=3369s",
+     "time": "56:09",
+     "title": "Безымянная авторская песня. Александр Костромин, Максим Кривошеев. 16.01.2020 ЦАП 2 отд",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "25",
     "duration": "03:42"
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Отелло",
@@ -37824,6 +38317,37 @@
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_827.html",
     "recording": null
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 0
+ },
+ {
+  "title": "А у нас в деревне",
+  "first_line": "А у нас в деревне да нету свету",
+  "music": [
+   "Сергей Крылов"
+  ],
+  "lyrics": [
+   "Сергей Крылов"
+  ],
+  "authors_source": "источник",
+  "note": "",
+  "performances": [
+   {
+    "date": "2018-02-22",
+    "event": "Сергей Крылов, Александр Костромин -- 22 февраля 2018",
+    "role": "пел",
+    "with": [
+     "Сергей Крылов"
+    ],
+    "source": "треклист концерта (форум ЦАП)",
+    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43517#p43517",
+    "recording": null,
+    "track": "26",
+    "duration": "02:37",
+    "remark": "забыл слова и не допел"
    }
   ],
   "sang": 1,
@@ -37986,6 +38510,42 @@
   "sang": 1,
   "accompanied": 0,
   "recorded": 0
+ },
+ {
+  "title": "В ожидании чуда",
+  "first_line": "Как, почему, непонятно откуда",
+  "music": [
+   "Сергей Крылов"
+  ],
+  "lyrics": [
+   "Сергей Крылов"
+  ],
+  "authors_source": "источник",
+  "note": "",
+  "performances": [
+   {
+    "date": "2018-02-22",
+    "event": "Сергей Крылов, Александр Костромин -- 22 февраля 2018",
+    "role": "пел",
+    "with": [
+     "Сергей Крылов"
+    ],
+    "source": "треклист концерта (форум ЦАП)",
+    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43517#p43517",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=br3F9Ygm5Yw&t=5140s",
+     "time": "1:25:40",
+     "title": "Сергей Крылов, Александр Костромин.22.02.2018  ЦАП",
+     "approx": false
+    },
+    "track": "30",
+    "duration": "02:40",
+    "remark": "исполнил часть песни"
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
  },
  {
   "title": "Воробей",
@@ -38551,7 +39111,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1128.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=E30EoM7M7Pk&t=11680s",
+     "time": "3:14:40",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №122. \"...БЫЛ НАСТОЯЩИМ ТРУБАЧОМ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-11-25",
@@ -38565,7 +39131,7 @@
   ],
   "sang": 19,
   "accompanied": 2,
-  "recorded": 6
+  "recorded": 7
  },
  {
   "title": "Картина",
@@ -38726,12 +39292,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1128.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=E30EoM7M7Pk&t=1091s",
+     "time": "18:11",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №122. \"...БЫЛ НАСТОЯЩИМ ТРУБАЧОМ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 6,
   "accompanied": 2,
-  "recorded": 4
+  "recorded": 5
  },
  {
   "title": "На пристани",
@@ -38882,7 +39454,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_937.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=D00rApkhKkk&t=462s",
+     "time": "7:42",
+     "title": "Споём вместе 84 12 ноября 2016 Часть 2",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2018-02-22",
@@ -38948,7 +39526,7 @@
   ],
   "sang": 7,
   "accompanied": 2,
-  "recorded": 4
+  "recorded": 5
  },
  {
   "title": "Первый день зимы",
@@ -39324,8 +39902,9 @@
      "title": "Сергей Крылов, Александр Костромин.22.02.2018  ЦАП",
      "approx": true
     },
-    "track": "14",
-    "duration": "03:03"
+    "track": "40",
+    "duration": "04:01",
+    "remark": "на бис"
    }
   ],
   "sang": 2,
@@ -39569,6 +40148,37 @@
   "recorded": 0
  },
  {
+  "title": "Частушки",
+  "first_line": "Если ехать на коне по родной стране",
+  "music": [
+   "народная"
+  ],
+  "lyrics": [
+   "Сергей Крылов"
+  ],
+  "authors_source": "источник",
+  "note": "",
+  "performances": [
+   {
+    "date": "2018-02-22",
+    "event": "Сергей Крылов, Александр Костромин -- 22 февраля 2018",
+    "role": "пел",
+    "with": [
+     "Сергей Крылов"
+    ],
+    "source": "треклист концерта (форум ЦАП)",
+    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43517#p43517",
+    "recording": null,
+    "track": "28",
+    "duration": "01:42",
+    "remark": "исполнил только одну частушку"
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 0
+ },
+ {
   "title": "Паровоз",
   "first_line": "Пошёл от перрона паровоз",
   "music": [
@@ -39770,7 +40380,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_937.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=yPrD6Rv5av4&t=263s",
+     "time": "4:23",
+     "title": "Споём вместе 84 12 ноября 2016 Часть 1",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2021-10-16",
@@ -39782,7 +40398,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1125.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rQzeixziCzY&t=778s",
+     "time": "12:58",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №121: \"ОСЕННИЙ ЛИСТОПАД МОСКВУ ЗАВОРОШИЛ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2022-11-12",
@@ -39821,7 +40443,7 @@
   ],
   "sang": 9,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 3
  },
  {
   "title": "По стихам Юрия Полухина",
@@ -39876,12 +40498,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1155.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=Q4LNmcrfp2E&t=1472s",
+     "time": "24:32",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №134 \"Какое небо голубое!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Марш иностранного легиона",
@@ -39934,12 +40562,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_583.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=e-_dlVD3aW0&t=322s",
+     "time": "5:22",
+     "title": "Сергей Шабуцкий. Выступление на проекте Споем Вместе",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 0,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Наташка",
@@ -39963,12 +40597,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_583.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=e-_dlVD3aW0&t=818s",
+     "time": "13:38",
+     "title": "Сергей Шабуцкий. Выступление на проекте Споем Вместе",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 0,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Счастья нет",
@@ -40006,12 +40646,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_583.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=e-_dlVD3aW0&t=455s",
+     "time": "7:35",
+     "title": "Сергей Шабуцкий. Выступление на проекте Споем Вместе",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 1,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Счастья нет-нет-нет, и монет нет-нет-нет",
@@ -41081,12 +41727,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1128.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=E30EoM7M7Pk&t=7402s",
+     "time": "2:03:22",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №122. \"...БЫЛ НАСТОЯЩИМ ТРУБАЧОМ\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Губы окаянные",
@@ -41979,12 +42631,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1179.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=i_YppWx58ZY&t=7563s",
+     "time": "2:06:03",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №137: \"НАМ ОСТАЁТСЯ, ДРУГ МОЙ, ТОЛЬКО ПЕСНЯ...\" (к 75-летию Виктора Шабанова)",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Ополченцы",
@@ -43035,7 +43693,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1130.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=7WxSVepd2LI&t=7653s",
+     "time": "2:07:33",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №123. \"А НОВЫЙ ГОД И ЕЛЬ ЗЕЛЁНАЯ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-01-14",
@@ -43044,12 +43708,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1147.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=IU9N5idhPik&t=9730s",
+     "time": "2:42:10",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №131:  \"Старый Новый год\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 2,
-  "recorded": 0
+  "recorded": 2
  },
  {
   "title": "Карнавал",
@@ -43192,7 +43862,7 @@
  },
  {
   "title": "Сказка",
-  "first_line": "Только я пришёл из бани",
+  "first_line": "Только я пришел из бани...",
   "music": [
    "Юрий Аделунг"
   ],
@@ -43437,12 +44107,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1178.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=nLoIslkDdvs&t=24s",
+     "time": "0:24",
+     "title": "Концерт \"Споём вместе №136\"  Второе отделение 30 сентября 2023г.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 3,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Азиатская песня",
@@ -43541,12 +44217,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1120.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4DYVTzxelYs&t=6557s",
+     "time": "1:49:17",
+     "title": "СПОЁМ ВМЕСТЕ! №119  \"АХ, КАКАЯ ЗА ОКНОМ КРАСОТА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 4,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Ботик",
@@ -43601,14 +44283,20 @@
     "with": [],
     "source": "треклист концерта (форум ЦАП)",
     "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43532#p43532",
-    "recording": null,
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=UVOHKBy9Zq4&t=2784s",
+     "time": "46:24",
+     "title": "Александр Костромин. 30.05.2019. ЦАП 2 отделение",
+     "approx": true,
+     "by": "автосубтитры"
+    },
     "track": "24",
     "duration": "04:27"
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "В ялте ноябрь",
@@ -43884,7 +44572,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1115.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=T4xg0pcSSHc&t=4180s",
+     "time": "1:09:40",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №118  \"ЗНАЧИТ, ПРИШЛА ВЕСНА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-06-07",
@@ -43905,7 +44599,7 @@
   ],
   "sang": 5,
   "accompanied": 0,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "До свиданья, дорогие",
@@ -44556,12 +45250,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1188.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=VDgPDIQNsyU&t=7727s",
+     "time": "2:08:47",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №139: \"ЗИМА ОСТОРОЖНО ПОДКРАЛАСЬ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Карельский вальс",
@@ -44711,7 +45411,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1120.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4DYVTzxelYs&t=9983s",
+     "time": "2:46:23",
+     "title": "СПОЁМ ВМЕСТЕ! №119  \"АХ, КАКАЯ ЗА ОКНОМ КРАСОТА!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2023-11-25",
@@ -44725,7 +45431,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1186.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4ux1b7Bt54M&t=9521s",
+     "time": "2:38:41",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №138\": ТРИДЦАТЬ ЛЕТ - ЭТО ВРЕМЯ СВЕРШЕНИЙ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2025-04-12",
@@ -44744,7 +45456,7 @@
   ],
   "sang": 4,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 2
  },
  {
   "title": "Когда придёт мой пароход",
@@ -45421,7 +46133,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1136.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=NUCeBCXteSo&t=2592s",
+     "time": "43:12",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №126 \"В час, далёкий от рассвета...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2022-10-15",
@@ -45439,7 +46157,7 @@
   ],
   "sang": 14,
   "accompanied": 0,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Ночная дорога",
@@ -45798,7 +46516,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1179.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=i_YppWx58ZY&t=7812s",
+     "time": "2:10:12",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №137: \"НАМ ОСТАЁТСЯ, ДРУГ МОЙ, ТОЛЬКО ПЕСНЯ...\" (к 75-летию Виктора Шабанова)",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-06-07",
@@ -45840,12 +46564,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1243.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=zBM5hFBRjSM&t=5420s",
+     "time": "1:30:20",
+     "title": "\"ПО СТАРИННОЙ ПО ПРИВЫЧКЕ...\"- \"СПОЁМ ВМЕСТЕ!\" №147,  Большой зал Центра авторской песни , 7/12/24",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 8,
   "accompanied": 0,
-  "recorded": 4
+  "recorded": 6
  },
  {
   "title": "Песня о подводниках",
@@ -45875,6 +46605,37 @@
   "sang": 1,
   "accompanied": 0,
   "recorded": 0
+ },
+ {
+  "title": "Песня технолога Петухова",
+  "first_line": "...как-то с африканцем...",
+  "music": [
+   "Юрий Визбор"
+  ],
+  "lyrics": [
+   "Юрий Визбор"
+  ],
+  "authors_source": "модель",
+  "note": "",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2400s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2400s",
+     "time": "40:00",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
  },
  {
   "title": "Погода",
@@ -46110,7 +46871,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1178.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rGv8Cb4Ceqg&t=6938s",
+     "time": "1:55:38",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №136: \"ЭТО ОСЕНЬ, МОЙ ДРУГ!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-06-27",
@@ -46141,7 +46908,7 @@
   ],
   "sang": 10,
   "accompanied": 0,
-  "recorded": 3
+  "recorded": 4
  },
  {
   "title": "Подмосковная зима",
@@ -46317,7 +47084,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1186.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=4ux1b7Bt54M&t=4162s",
+     "time": "1:09:22",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №138\": ТРИДЦАТЬ ЛЕТ - ЭТО ВРЕМЯ СВЕРШЕНИЙ...\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2024-06-07",
@@ -46338,7 +47111,7 @@
   ],
   "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Посёлок турист",
@@ -47116,12 +47889,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1189.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=LtdGHN6R2GU&t=3797s",
+     "time": "1:03:17",
+     "title": "Концерт АП (КСП)\"Споём вместе №140 Часть 1\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 8,
   "accompanied": 1,
-  "recorded": 2
+  "recorded": 3
  },
  {
   "title": "Сорокалетье",
@@ -48440,12 +49219,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1155.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=Q4LNmcrfp2E&t=874s",
+     "time": "14:34",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №134 \"Какое небо голубое!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 0,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "А всё-таки жаль, что кончилось лето",
@@ -48536,12 +49321,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1178.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rGv8Cb4Ceqg&t=10050s",
+     "time": "2:47:30",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №136: \"ЭТО ОСЕНЬ, МОЙ ДРУГ!\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 6,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "А всё-таки жаль, что кончилось лето",
@@ -50287,12 +51078,18 @@
     "with": [],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1039.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=8bT6Hx93xE8&t=2060s",
+     "time": "34:20",
+     "title": "Споём вместе 108. Приходят к нам из сказок чудеса. 09.11.2019 Лекторий 1С 2 отделение.",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 1,
   "accompanied": 1,
-  "recorded": 0
+  "recorded": 1
  },
  {
   "title": "Сумерки",
@@ -50691,7 +51488,13 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1103.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=BN5nbT6ffgU&t=397s",
+     "time": "6:37",
+     "title": "Споем вместе! №116",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    },
    {
     "date": "2021-07-07",
@@ -50718,12 +51521,18 @@
     ],
     "source": "программа «Споём вместе!»",
     "url": "https://www.ksp-msk.ru/page_1147.html",
-    "recording": null
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=IU9N5idhPik&t=10685s",
+     "time": "2:58:05",
+     "title": "\"СПОЁМ ВМЕСТЕ!\" №131:  \"Старый Новый год\"",
+     "approx": true,
+     "by": "автосубтитры"
+    }
    }
   ],
   "sang": 7,
   "accompanied": 2,
-  "recorded": 2
+  "recorded": 4
  },
  {
   "title": "За летом листопад, а следом снегопад…» ПОСЛЕДНИЙ ТЕПЛОХОД",
@@ -51201,6 +52010,33 @@
   "recorded": 0
  },
  {
+  "title": "Mama Cabo Oye",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": null,
+    "event": "Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=GMebvaF1hJM&t=5419s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=GMebvaF1hJM&t=5419s",
+     "time": "1:30:19",
+     "title": "Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "On vient de marier le dernier / А наши годы всё скользят",
   "first_line": "",
   "music": [],
@@ -51257,7 +52093,7 @@
   "recorded": 1
  },
  {
-  "title": "А всё кончается, кончается, кончается...",
+  "title": "«А всё кончается, кончается, кончается...»",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -51303,7 +52139,7 @@
  },
  {
   "title": "А и Б",
-  "first_line": "«...ворят, что так себе»",
+  "first_line": "...ворят, что так себе",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -51540,8 +52376,8 @@
   "recorded": 0
  },
  {
-  "title": "«Антимещанская»",
-  "first_line": "«Однажды я пел на высокой эстраде...»",
+  "title": "Антимещанская",
+  "first_line": "Однажды я пел на высокой эстраде...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -51961,6 +52797,35 @@
   "recorded": 1
  },
  {
+  "title": "Будто пьют чью-то душу...",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [
+     "Александр"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=558s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=558s",
+     "time": "9:18",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "Будьте проще",
   "first_line": "Я сказал одному прохожему...",
   "music": [],
@@ -52199,7 +53064,7 @@
   "recorded": 1
  },
  {
-  "title": "В холодной мгле летим мы все...",
+  "title": "«В холодной мгле летим мы все...»",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -52327,6 +53192,83 @@
   "recorded": 2
  },
  {
+  "title": "Ветер в голове",
+  "first_line": "Хорошо, когда пустая голова...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=433s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=433s",
+     "time": "7:13",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
+  "title": "Ветерок",
+  "first_line": "Я хочу вам рассказать...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "Авторство не установлено",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1971s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1971s",
+     "time": "32:51",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   },
+   {
+    "date": "2015-03-14",
+    "event": "«Споём вместе!» №74 «МИЛАЯ МОЯ»",
+    "role": "пел",
+    "with": [],
+    "source": "программа «Споём вместе!»",
+    "url": "https://www.ksp-msk.ru/page_891.html",
+    "recording": null
+   },
+   {
+    "date": "2018-02-02",
+    "event": "XXX Зимородок-2018. Александр Костромин",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=856s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=856s",
+     "time": "14:16",
+     "title": "XXX Зимородок-2018. Александр Костромин",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 3,
+  "accompanied": 0,
+  "recorded": 2
+ },
+ {
   "title": "Вечер бродит по лесным дорожкам",
   "first_line": "",
   "music": [],
@@ -52437,6 +53379,33 @@
   "recorded": 1
  },
  {
+  "title": "Возвышенье, униженье",
+  "first_line": "...он грозится: „Я возвышу...“",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=600s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=600s",
+     "time": "10:00",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "Вольным вольная воля",
   "first_line": "Остаётся во фляге невеликий запас...",
   "music": [],
@@ -52491,32 +53460,6 @@
   "recorded": 1
  },
  {
-  "title": "[Воспоминания о новосибирском слёте 1968 г.]",
-  "first_line": "",
-  "music": [],
-  "lyrics": [],
-  "authors_source": "не установлены",
-  "note": "",
-  "performances": [
-   {
-    "date": "2018-02-22",
-    "event": "Сергей Крылов, Александр Костромин -- 22 февраля 2018",
-    "role": "пел",
-    "with": [
-     "Сергей Крылов"
-    ],
-    "source": "треклист концерта (форум ЦАП)",
-    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43517#p43517",
-    "recording": null,
-    "track": "38",
-    "duration": "03:32"
-   }
-  ],
-  "sang": 1,
-  "accompanied": 0,
-  "recorded": 0
- },
- {
   "title": "Вот как будто бы сначала",
   "first_line": "",
   "music": [],
@@ -52545,7 +53488,7 @@
  },
  {
   "title": "Вот улетишь",
-  "first_line": "«Парус наладишь...»",
+  "first_line": "Парус наладишь...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -52730,6 +53673,33 @@
   "recorded": 0
  },
  {
+  "title": "Где бесследно исчезают алкоголики",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1800s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1800s",
+     "time": "30:00",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "Гек Финн",
   "first_line": "Я бездомным марктвеновским Геком",
   "music": [],
@@ -52808,7 +53778,7 @@
   "recorded": 1
  },
  {
-  "title": "«Глянь, — полночь...»",
+  "title": "Глянь, — полночь...",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -53246,6 +54216,35 @@
   "recorded": 1
  },
  {
+  "title": "Двенадцатая ночь",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [
+     "Александр"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1346s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1346s",
+     "time": "22:26",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "Девушка из Нагасаки",
   "first_line": "",
   "music": [],
@@ -53382,7 +54381,7 @@
   "recorded": 1
  },
  {
-  "title": "До Щукинской платформы...",
+  "title": "«До Щукинской платформы...»",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -53409,7 +54408,7 @@
   "recorded": 1
  },
  {
-  "title": "«Донской монастырь» (продолжение)",
+  "title": "Донской монастырь (продолжение)",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -53544,42 +54543,6 @@
   "recorded": 1
  },
  {
-  "title": "Дует, дует ветерок",
-  "first_line": "Я хочу вам рассказать",
-  "music": [],
-  "lyrics": [],
-  "authors_source": "не установлены",
-  "note": "Авторство не установлено",
-  "performances": [
-   {
-    "date": "2015-03-14",
-    "event": "«Споём вместе!» №74 «МИЛАЯ МОЯ»",
-    "role": "пел",
-    "with": [],
-    "source": "программа «Споём вместе!»",
-    "url": "https://www.ksp-msk.ru/page_891.html",
-    "recording": null
-   },
-   {
-    "date": "2018-02-02",
-    "event": "XXX Зимородок-2018. Александр Костромин",
-    "role": "пел",
-    "with": [],
-    "source": "запись выступления",
-    "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=856s",
-    "recording": {
-     "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=856s",
-     "time": "14:16",
-     "title": "XXX Зимородок-2018. Александр Костромин",
-     "approx": false
-    }
-   }
-  ],
-  "sang": 2,
-  "accompanied": 0,
-  "recorded": 1
- },
- {
   "title": "Дым унесло наших костров",
   "first_line": "",
   "music": [],
@@ -53690,6 +54653,33 @@
   "sang": 1,
   "accompanied": 0,
   "recorded": 0
+ },
+ {
+  "title": "Еще темны леса",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=908s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=908s",
+     "time": "15:08",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
  },
  {
   "title": "Жена",
@@ -54160,6 +55150,35 @@
   "recorded": 1
  },
  {
+  "title": "И ни о чем наш разговор",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [
+     "Александр"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=723s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=723s",
+     "time": "12:03",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "«И Рим сожгли, и Карфаген уделали дотла...»",
   "first_line": "",
   "music": [],
@@ -54187,7 +55206,7 @@
   "recorded": 1
  },
  {
-  "title": "«...И скворцы заголосят»",
+  "title": "...И скворцы заголосят",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -54205,6 +55224,35 @@
      "url": "https://www.youtube.com/watch?v=vUSPbfzhxdo&t=1200s",
      "time": "20:00",
      "title": "Концерт Александра Костромина 27 мая 2021 г",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
+  "title": "И стояли люди в безмолвии",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [
+     "Александр"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1200s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1200s",
+     "time": "20:00",
+     "title": "Александр и Наталья Костромины",
      "approx": false
     }
    }
@@ -54290,7 +55338,7 @@
   "recorded": 0
  },
  {
-  "title": "...из пальцев не стала больше течь...",
+  "title": "«...из пальцев не стала больше течь...»",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -54669,6 +55717,33 @@
   "recorded": 0
  },
  {
+  "title": "Кепочка",
+  "first_line": "Голова поседела — не скорби...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2275s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2275s",
+     "time": "37:55",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "Киса Мурочка",
   "first_line": "",
   "music": [],
@@ -54723,8 +55798,8 @@
   "recorded": 1
  },
  {
-  "title": "«Ковровые санки»",
-  "first_line": "«...скидывал перчатки Пушкин...»",
+  "title": "Ковровые санки",
+  "first_line": "...скидывал перчатки Пушкин...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -54872,7 +55947,7 @@
   "recorded": 1
  },
  {
-  "title": "Корень зла",
+  "title": "«Корень зла»",
   "first_line": "Где он, корень зла...",
   "music": [],
   "lyrics": [],
@@ -54899,7 +55974,7 @@
   "recorded": 1
  },
  {
-  "title": "Корень зла",
+  "title": "«Корень зла»",
   "first_line": "Этот самый корень зла...",
   "music": [],
   "lyrics": [],
@@ -55570,7 +56645,7 @@
  },
  {
   "title": "Моя провинциалка",
-  "first_line": "«Знаменитый цирк Чинизелли...»",
+  "first_line": "Знаменитый цирк Чинизелли...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -55857,8 +56932,8 @@
   "recorded": 1
  },
  {
-  "title": "«Наветренный пролив»",
-  "first_line": "«Такие, брат, дела...»",
+  "title": "Наветренный пролив",
+  "first_line": "Такие, брат, дела...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -56061,11 +57136,27 @@
      "title": "Концерт Александра Костромина 22 июня 2023 г",
      "approx": false
     }
+   },
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [
+     "Александр"
+    ],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=66s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=66s",
+     "time": "1:06",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
    }
   ],
-  "sang": 1,
+  "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Несите бремя белых, о лучших сыновей",
@@ -56178,7 +57269,7 @@
   "recorded": 1
  },
  {
-  "title": "«Ночью я слышал, как пели дети...»",
+  "title": "Ночью я слышал, как пели дети...",
   "first_line": "",
   "music": [],
   "lyrics": [],
@@ -56232,54 +57323,6 @@
   "sang": 1,
   "accompanied": 0,
   "recorded": 1
- },
- {
-  "title": "[О песне \"Август\" и о том, что такое песня вообще]",
-  "first_line": "",
-  "music": [],
-  "lyrics": [],
-  "authors_source": "не установлены",
-  "note": "",
-  "performances": [
-   {
-    "date": "2018-05-31",
-    "event": "Александр Костромин -- 31 мая 2018",
-    "role": "пел",
-    "with": [],
-    "source": "треклист концерта (форум ЦАП)",
-    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43513#p43513",
-    "recording": null,
-    "track": "16",
-    "duration": "06:48"
-   }
-  ],
-  "sang": 1,
-  "accompanied": 0,
-  "recorded": 0
- },
- {
-  "title": "[О творческих мастерских]",
-  "first_line": "",
-  "music": [],
-  "lyrics": [],
-  "authors_source": "не установлены",
-  "note": "",
-  "performances": [
-   {
-    "date": "2018-05-31",
-    "event": "Александр Костромин -- 31 мая 2018",
-    "role": "пел",
-    "with": [],
-    "source": "треклист концерта (форум ЦАП)",
-    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43513#p43513",
-    "recording": null,
-    "track": "26",
-    "duration": "03:49"
-   }
-  ],
-  "sang": 1,
-  "accompanied": 0,
-  "recorded": 0
  },
  {
   "title": "О том, что я за сказкою...",
@@ -56546,6 +57589,33 @@
  },
  {
   "title": "Осень в Сигулде",
+  "first_line": "Свисаю с вагонной площадки, прощайте...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=730s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=730s",
+     "time": "12:10",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
+  "title": "Осень в Сигулде",
   "first_line": "Свисают с вагонной площадки, прощайте...",
   "music": [],
   "lyrics": [],
@@ -56572,7 +57642,7 @@
   "recorded": 1
  },
  {
-  "title": "Осман-паша",
+  "title": "«Осман-паша»",
   "first_line": "А Зульфара пришла сама к нему в шатёр...",
   "music": [],
   "lyrics": [],
@@ -56759,7 +57829,7 @@
  },
  {
   "title": "Памяти Герцена",
-  "first_line": "«Любовь к добру сынам дворян...»",
+  "first_line": "Любовь к добру сынам дворян...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -56786,7 +57856,7 @@
  },
  {
   "title": "Памяти Мандельштама",
-  "first_line": "«Всю ночь за стеной ворковала гитара»",
+  "first_line": "Всю ночь за стеной ворковала гитара",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -56938,6 +58008,33 @@
      "url": "https://www.youtube.com/watch?v=GMebvaF1hJM&t=2825s",
      "time": "47:05",
      "title": "Александр Костромин, открытие сезона в Городском центре авторской песни (КСП).",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
+  "title": "Песенка о наивных тайнах",
+  "first_line": "Один ответственный квартиросъёмщик...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1575s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1575s",
+     "time": "26:15",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
      "approx": false
     }
    }
@@ -57226,11 +58323,52 @@
      "title": "Концерт Натальи Быстровой и Александра Костромина 26 мая 2022г",
      "approx": false
     }
+   },
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1896s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1896s",
+     "time": "31:36",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
    }
   ],
-  "sang": 2,
+  "sang": 3,
   "accompanied": 0,
-  "recorded": 2
+  "recorded": 3
+ },
+ {
+  "title": "Песня про мужика и собачку",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2024-02-04",
+    "event": "Александр и Наталья Костромины",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1635s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=rLosK7pomr0&t=1635s",
+     "time": "27:15",
+     "title": "Александр и Наталья Костромины",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
  },
  {
   "title": "Песня Рони и Бирка",
@@ -57358,7 +58496,7 @@
  },
  {
   "title": "Письмо",
-  "first_line": "«Неужто думаете вы...»",
+  "first_line": "Неужто думаете вы...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -57731,7 +58869,34 @@
   "recorded": 1
  },
  {
-  "title": "Приглашение к плаванию",
+  "title": "Правдивая история о том, как я летел на самолёте...",
+  "first_line": "А жена моя сейчас зажигает зажигалку...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1798s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1798s",
+     "time": "29:58",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
+  "title": "«Приглашение к плаванию»",
   "first_line": "Солёным ветром заметает вода...",
   "music": [],
   "lyrics": [],
@@ -58094,8 +59259,35 @@
   "recorded": 2
  },
  {
+  "title": "Разве я сторож брату моему",
+  "first_line": "Руку на брата поднимает брат...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=600s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=600s",
+     "time": "10:00",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "Разговор с мамой поздней осенью",
-  "first_line": "«Красный, синий, голубой...»",
+  "first_line": "Красный, синий, голубой...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
@@ -58173,30 +59365,6 @@
   "recorded": 0
  },
  {
-  "title": "[Рассказ о Юрии Аделунге]",
-  "first_line": "",
-  "music": [],
-  "lyrics": [],
-  "authors_source": "не установлены",
-  "note": "",
-  "performances": [
-   {
-    "date": "2018-05-31",
-    "event": "Александр Костромин -- 31 мая 2018",
-    "role": "пел",
-    "with": [],
-    "source": "треклист концерта (форум ЦАП)",
-    "url": "https://www.ksp-msk.ru/forum/viewtopic.php?p=43513#p43513",
-    "recording": null,
-    "track": "11",
-    "duration": "05:51"
-   }
-  ],
-  "sang": 1,
-  "accompanied": 0,
-  "recorded": 0
- },
- {
   "title": "Рассказ про историю песни",
   "first_line": "ЖЕНА ФРАНЦУЗСКОГО ПОСЛА",
   "music": [],
@@ -58222,24 +59390,24 @@
   "recorded": 0
  },
  {
-  "title": "Рассказ технолога Петухова...",
-  "first_line": "Сижу я, братцы, как-то с африканцем...",
+  "title": "Рассказ технолога Петухова",
+  "first_line": "Сижу я, братцы...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
   "note": "",
   "performances": [
    {
-    "date": "2018-02-02",
-    "event": "XXX Зимородок-2018. Александр Костромин",
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
     "role": "пел",
     "with": [],
     "source": "запись выступления",
-    "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=1158s",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2400s",
     "recording": {
-     "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=1158s",
-     "time": "19:18",
-     "title": "XXX Зимородок-2018. Александр Костромин",
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=2400s",
+     "time": "40:00",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
      "approx": false
     }
    },
@@ -58261,6 +59429,33 @@
   "sang": 2,
   "accompanied": 0,
   "recorded": 2
+ },
+ {
+  "title": "Рассказ технолога Петухова...",
+  "first_line": "Сижу я, братцы, как-то с африканцем...",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2018-02-02",
+    "event": "XXX Зимородок-2018. Александр Костромин",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=1158s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=ZUY3pJ8kvi0&t=1158s",
+     "time": "19:18",
+     "title": "XXX Зимородок-2018. Александр Костромин",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
  },
  {
   "title": "Рентген",
@@ -58399,12 +59594,26 @@
  },
  {
   "title": "Свидание",
-  "first_line": "",
+  "first_line": "Завалит снег дороги...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
   "note": "",
   "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1215s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1215s",
+     "time": "20:15",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   },
    {
     "date": "2017-05-25",
     "event": "Александр Костромин. 25.05.2017 ЦАП. 2-е отделение",
@@ -58420,9 +59629,9 @@
     }
    }
   ],
-  "sang": 1,
+  "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Синай",
@@ -58836,12 +60045,26 @@
  },
  {
   "title": "Сон",
-  "first_line": "",
+  "first_line": "Я видел сон: потушив все огни...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
   "note": "",
   "performances": [
+   {
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=924s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=924s",
+     "time": "15:24",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
+    }
+   },
    {
     "date": "2021-05-27",
     "event": "Концерт Александра Костромина 27 мая 2021 г",
@@ -58857,9 +60080,9 @@
     }
    }
   ],
-  "sang": 1,
+  "sang": 2,
   "accompanied": 0,
-  "recorded": 1
+  "recorded": 2
  },
  {
   "title": "Сорок первый",
@@ -59837,6 +61060,33 @@
   "recorded": 1
  },
  {
+  "title": "Чехарда с буквами",
+  "first_line": "",
+  "music": [],
+  "lyrics": [],
+  "authors_source": "не установлены",
+  "note": "",
+  "performances": [
+   {
+    "date": "2021-05-27",
+    "event": "Концерт Александра Костромина 27 мая 2021 г",
+    "role": "пел",
+    "with": [],
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=vUSPbfzhxdo&t=2994s",
+    "recording": {
+     "url": "https://www.youtube.com/watch?v=vUSPbfzhxdo&t=2994s",
+     "time": "49:54",
+     "title": "Концерт Александра Костромина 27 мая 2021 г",
+     "approx": false
+    }
+   }
+  ],
+  "sang": 1,
+  "accompanied": 0,
+  "recorded": 1
+ },
+ {
   "title": "«Что может, что может быть хуже...»",
   "first_line": "",
   "music": [],
@@ -60026,25 +61276,25 @@
   "recorded": 1
  },
  {
-  "title": "«Это было моё первое судно…»",
-  "first_line": "",
+  "title": "Этот самый самолёт",
+  "first_line": "И закуривает «Яву»...",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
   "note": "",
   "performances": [
    {
-    "date": "1997-12-25",
-    "event": "Александр Городницкий, Александр Костромин. 25.12.1997. Институт океанологии",
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
     "role": "пел",
     "with": [],
-    "source": "видео на YouTube (разметка в описании)",
-    "url": "https://www.youtube.com/watch?v=9YZueJk8JdY&t=2373s",
+    "source": "запись выступления",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1800s",
     "recording": {
-     "url": "https://www.youtube.com/watch?v=9YZueJk8JdY&t=2373s",
-     "time": "39:33",
-     "title": "Александр Городницкий, Александр Костромин. 25.12.1997. Институт океанологии",
-     "approx": true
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=1800s",
+     "time": "30:00",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
+     "approx": false
     }
    }
   ],
@@ -60190,26 +61440,24 @@
   "recorded": 1
  },
  {
-  "title": "Я люблю",
-  "first_line": "Je t'aime",
+  "title": "«Я лицо мукою мелкой побелю...»",
+  "first_line": "",
   "music": [],
   "lyrics": [],
   "authors_source": "не установлены",
   "note": "",
   "performances": [
    {
-    "date": "2025-06-26",
-    "event": "Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.",
+    "date": "2015-02-07",
+    "event": "Зимородок-2015. Миниконцерт Александра Костромина",
     "role": "пел",
-    "with": [
-     "ДРУГОЙ"
-    ],
+    "with": [],
     "source": "запись выступления",
-    "url": "https://www.youtube.com/watch?v=sxllI7SYkk0&t=10371s",
+    "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=287s",
     "recording": {
-     "url": "https://www.youtube.com/watch?v=sxllI7SYkk0&t=10371s",
-     "time": "2:52:51",
-     "title": "Александр Костромин, концерт в Московском Городском Центре Авторской Песни (КСП). Закрытие сезона.",
+     "url": "https://www.youtube.com/watch?v=W-9D_mYdRJw&t=287s",
+     "time": "4:47",
+     "title": "Зимородок-2015. Миниконцерт Александра Костромина",
      "approx": false
     }
    }
