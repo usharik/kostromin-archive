@@ -7,6 +7,7 @@ authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 duplicate_of: "site-page-420"
 url: "https://www.ksp-msk.ru/page_671.html"
+proofread: false
 ---
 
 Теория музыки

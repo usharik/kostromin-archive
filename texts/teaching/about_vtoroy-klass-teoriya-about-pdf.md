@@ -6,6 +6,7 @@ title: "Второй класс. Теория. — about.pdf"
 authorship: "его текст"
 url: "http://www.ksp-msk.ru/uploads/files/3791_1511204616/about.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ГИТАРЫ ОСОБОЙ НАСТРОЙКИ 

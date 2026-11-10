@@ -6,6 +6,7 @@ title: "Первый класс"
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_1174.html"
+proofread: false
 ---
 
 Занятия 1-го класса гитарной школы проводятся по понедельникам.

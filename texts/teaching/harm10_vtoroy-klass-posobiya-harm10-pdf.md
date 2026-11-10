@@ -7,6 +7,7 @@ authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "http://www.ksp-msk.ru/uploads/files/1751_1305800815/harm10.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
+proofread: false
 ---
 
 ФУНКЦИИ ТРЕЗВУЧИЙ НА СТУПЕНЯХ ЛАДА (МАЖОР) 

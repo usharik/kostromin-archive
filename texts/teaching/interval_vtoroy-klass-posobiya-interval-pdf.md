@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 duplicate_of: "site-interval-doc"
 url: "http://www.ksp-msk.ru/uploads/files/4147_1572967080/interval.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
+proofread: false
 ---
 
 ИНТЕРВАЛЫ В ПРЕДЕЛАХ ДВУХ ОКТАВ

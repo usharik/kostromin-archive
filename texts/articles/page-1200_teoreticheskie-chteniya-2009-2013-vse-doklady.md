@@ -6,6 +6,7 @@ title: "ТЕОРЕТИЧЕСКИЕ ЧТЕНИЯ 2009—2013: ВСЕ ДОКЛАД
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_1200.html"
+proofread: false
 ---
 
 Теоретические чтения 2009–2014

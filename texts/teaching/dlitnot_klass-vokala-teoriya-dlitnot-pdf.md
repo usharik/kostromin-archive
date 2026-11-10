@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 url: "http://www.ksp-msk.ru/uploads/files/713_1256812346/DlitNot.pdf"
 source_page: "https://www.ksp-msk.ru/page_419.html"
 ocr: "gemini-3.8-flash-high"
+proofread: false
 ---
 
 *Текст распознан со скана автоматически, возможны ошибки.*

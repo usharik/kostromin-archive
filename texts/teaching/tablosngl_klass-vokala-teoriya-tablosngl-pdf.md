@@ -7,6 +7,7 @@ authorship: "чужой текст"
 authorship_note: "выписка из учебника «Сценическая речь» (ГИТИС)"
 url: "http://www.ksp-msk.ru/uploads/files/581_1255963281/TablOsnGl.pdf"
 source_page: "https://www.ksp-msk.ru/page_419.html"
+proofread: false
 ---
 
 Сценическая речь: учебник / по ред. И.П. Козляниновой и И.Ю. Промптовой. 4-е изд., испр. М.:

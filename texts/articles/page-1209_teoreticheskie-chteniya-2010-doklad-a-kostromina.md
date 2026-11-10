@@ -6,6 +6,7 @@ title: "Теоретические чтения 2010. Доклад А. Кост�
 authorship: "о нём"
 authorship_note: "вступительное слово И. Хвостовой к его докладу"
 url: "https://www.ksp-msk.ru/page_1209.html"
+proofread: false
 ---
 
 12 марта 2010 года

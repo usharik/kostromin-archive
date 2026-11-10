@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 duplicate_of: "site-gorodnit-pdf"
 url: "http://www.ksp-msk.ru/uploads/files/3790_1511204033/igra_go2.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 Играем Городницкого (1) 

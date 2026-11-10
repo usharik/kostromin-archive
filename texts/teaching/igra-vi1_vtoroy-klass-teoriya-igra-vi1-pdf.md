@@ -6,6 +6,7 @@ title: "Второй класс. Теория. — igra_vi1.pdf"
 authorship: "его текст"
 url: "http://www.ksp-msk.ru/uploads/files/3792_1511208529/igra_vi1.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ИГРАЕМ ВИЗБОРА 

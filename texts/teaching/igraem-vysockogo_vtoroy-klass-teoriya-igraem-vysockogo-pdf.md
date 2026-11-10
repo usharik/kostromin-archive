@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 duplicate_of: "site-igr-vys3-pdf"
 url: "http://www.ksp-msk.ru/uploads/files/767_1257014281/igraem%20Vysockogo.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ИГРАЕМ ВЫСОЦКОГО

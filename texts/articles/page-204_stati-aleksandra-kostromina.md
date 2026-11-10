@@ -6,6 +6,7 @@ title: "Статьи Александра Костромина"
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_204.html"
+proofread: false
 ---
 
 Статьи из раздела "Гитарная школа" в журнале "Люди и песни".

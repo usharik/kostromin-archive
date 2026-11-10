@@ -6,6 +6,7 @@ title: "Гитарная школа"
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_15.html"
+proofread: false
 ---
 
 Занятия 1,5-го класса гитарной школы проводятся по понедельникам.

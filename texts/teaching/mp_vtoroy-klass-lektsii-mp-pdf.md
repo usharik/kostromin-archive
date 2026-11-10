@@ -7,6 +7,7 @@ authorship: "его выступление"
 authorship_note: "расшифровка; реплики других участников размечены в тексте"
 url: "http://www.ksp-msk.ru/uploads/school/442_1227091175/mp.pdf"
 source_page: "https://www.ksp-msk.ru/page_416.html"
+proofread: false
 ---
 
 Вот уже много лет худрук ЦАПа Александр Костромин читает время от времени свою знаменитую лекцию о технике 

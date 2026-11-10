@@ -6,6 +6,7 @@ title: "Обращения аккордов"
 authorship: "не указано"
 authorship_note: "методика гитарной школы ЦАП, подписи автора нет"
 url: "https://www.ksp-msk.ru/page_1176.html"
+proofread: false
 ---
 
 ОБРАЩЕНИЯ АККОРДОВ

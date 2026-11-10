@@ -6,6 +6,7 @@ title: "Второй класс. Пособия."
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_415.html"
+proofread: false
 ---
 
 Пособия, разработанные для Второго класса Гитарной школы

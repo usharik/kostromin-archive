@@ -6,6 +6,7 @@ title: "Песни, пройденные в гитарной школе ЦАП"
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_870.html"
+proofread: false
 ---
 
 СОРТИРОВАТЬ ПО ПЕРВЫМ СТРОКАМ

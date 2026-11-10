@@ -6,6 +6,7 @@ title: "Второй класс. Теория. — igr_vys3.pdf"
 authorship: "его текст"
 url: "http://www.ksp-msk.ru/uploads/files/1720_1301402880/igr_vys3.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ИГРАЕМ ВЫСОЦКОГО 

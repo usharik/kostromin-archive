@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 duplicate_of: "site-yakusheva-pdf"
 url: "http://www.ksp-msk.ru/uploads/files/3793_1511208611/slushaj.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ИГРАЕМ ЯКУШЕВУ 

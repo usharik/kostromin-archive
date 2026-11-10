@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 duplicate_of: "site-stroj-pdf"
 url: "http://www.ksp-msk.ru/uploads/school/437_1226482295/nastroy.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 И ВСЁ-ТАКИ — НАСТРОЙТЕ ГИТАРУ! 

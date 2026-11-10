@@ -7,6 +7,7 @@ authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 duplicate_of: "site-page-1177"
 url: "https://www.ksp-msk.ru/page_1165.html"
+proofread: false
 ---
 
 Типовые аппликатурные варианты аккордов

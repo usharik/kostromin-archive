@@ -7,6 +7,7 @@ authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "http://www.ksp-msk.ru/uploads/files/766_1257013898/muzykalnaia_sistema_okudjavy.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
+proofread: false
 ---
 
 МУЗЫКАЛЬНАЯ СИСТЕМА Б. ОКУДЖАВЫ

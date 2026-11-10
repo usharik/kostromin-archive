@@ -7,6 +7,7 @@ authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "http://www.ksp-msk.ru/uploads/files/3697_1487152530/trezvuch1.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ВИДЫ ТРЕЗВУЧИЙ 

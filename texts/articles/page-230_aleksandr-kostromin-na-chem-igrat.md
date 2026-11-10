@@ -5,6 +5,7 @@ category: "статья"
 title: "Александр Костромин. НА ЧЁМ ИГРАТЬ?"
 authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_230.html"
+proofread: false
 ---
 
 НА ЧЁМ ИГРАТЬ?

@@ -6,6 +6,7 @@ title: "Второй класс"
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_405.html"
+proofread: false
 ---
 
 Занятия 2-го класса гитарной школы проводятся по вторникам, с 19:00 до 22:00.

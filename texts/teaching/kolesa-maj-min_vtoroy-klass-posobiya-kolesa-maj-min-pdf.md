@@ -8,6 +8,7 @@ authorship_note: "списки, расписания, таблицы, анонс
 url: "http://www.ksp-msk.ru/uploads/files/3917_1543590276/kolesa_maj-min.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ocr: "gemini-3.8-flash-high"
+proofread: false
 ---
 
 *Текст распознан со скана автоматически, возможны ошибки.*

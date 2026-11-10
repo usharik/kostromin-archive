@@ -6,6 +6,7 @@ title: "Второй класс. Теория. — igr_oku.pdf"
 authorship: "его текст"
 url: "http://www.ksp-msk.ru/uploads/files/1943_1329947911/igr_oku.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
+proofread: false
 ---
 
 ИГРАЕМ ОКУДЖАВУ 

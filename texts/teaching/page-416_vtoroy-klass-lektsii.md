@@ -6,6 +6,7 @@ title: "Второй класс. Лекции."
 authorship: "справочное"
 authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_416.html"
+proofread: false
 ---
 
 Избранные лекции А. Костромина

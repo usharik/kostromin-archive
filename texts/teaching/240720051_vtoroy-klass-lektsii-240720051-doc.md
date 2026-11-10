@@ -7,6 +7,7 @@ authorship: "его выступление"
 authorship_note: "расшифровка; реплики других участников размечены в тексте"
 url: "http://www.ksp-msk.ru/uploads/files/860_1261582906/240720051.doc"
 source_page: "https://www.ksp-msk.ru/page_416.html"
+proofread: false
 ---
 
 24 июля 2005 года. Верхневолжская летняя школа авторской песни.
