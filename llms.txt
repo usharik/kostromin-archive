@@ -4,6 +4,7 @@
 
 ## Портрет
 - [Портрет: биография, манера, взгляды](persona/portrait.md)
+- [Песни в его исполнении](texts/repertoire.md)
 
 ## Статьи и доклады
 - [Статьи Александра Костромина — gorodnit2.pdf](texts/articles/gorodnit2_stati-aleksandra-kostromina-gorodnit2-pdf.md)
