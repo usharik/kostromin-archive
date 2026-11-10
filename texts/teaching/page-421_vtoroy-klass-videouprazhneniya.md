@@ -3,6 +3,8 @@ id: "site-page-421"
 type: "методика"
 category: "методика"
 title: "Второй класс. Видеоупражнения."
+authorship: "не указано"
+authorship_note: "методика гитарной школы ЦАП, подписи автора нет"
 url: "https://www.ksp-msk.ru/page_421.html"
 ---
 

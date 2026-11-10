@@ -3,6 +3,7 @@ id: "site-page-232"
 type: "статья"
 category: "статья"
 title: "Александр Костромин. НЕСКОЛЬКО ВОПРОСОВ ОБ АВТОРСКОЙ ПЕСНЕ"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_232.html"
 ---
 

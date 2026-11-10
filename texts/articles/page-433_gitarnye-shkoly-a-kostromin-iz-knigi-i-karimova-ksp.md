@@ -3,6 +3,7 @@ id: "site-page-433"
 type: "статья"
 category: "статья"
 title: "Гитарные школы. А.Костромин (из книги И.Каримова \"КСП\")"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_433.html"
 ---
 

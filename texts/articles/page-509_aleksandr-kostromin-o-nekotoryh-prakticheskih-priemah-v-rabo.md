@@ -3,6 +3,7 @@ id: "site-page-509"
 type: "статья"
 category: "статья"
 title: "Александр Костромин О НЕКОТОРЫХ ПРАКТИЧЕСКИХ ПРИЕМАХ В РАБОТЕ НАД ПЕСНЕЙ"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_509.html"
 ---
 

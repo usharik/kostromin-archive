@@ -3,6 +3,9 @@ id: "site-page-1165"
 type: "методика"
 category: "методика"
 title: "Типовые аппликатурные варианты аккордов"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
+duplicate_of: "site-page-1177"
 url: "https://www.ksp-msk.ru/page_1165.html"
 ---
 

@@ -3,6 +3,8 @@ id: "site-page-419"
 type: "методика"
 category: "методика"
 title: "Класс вокала. Теория."
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_419.html"
 ---
 

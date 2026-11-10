@@ -3,6 +3,8 @@ id: "site-page-825"
 type: "методика"
 category: "школа"
 title: "Гитарная школа Центра авторской песни 2013-2014"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_825.html"
 ---
 

@@ -3,6 +3,7 @@ id: "site-page-214"
 type: "статья"
 category: "статья"
 title: "А. Н. Костромин. «Ошибка» Галича: ошибки сегодняшние и всевременные..."
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_214.html"
 ---
 

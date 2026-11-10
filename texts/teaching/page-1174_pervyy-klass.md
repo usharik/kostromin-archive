@@ -3,6 +3,8 @@ id: "site-page-1174"
 type: "методика"
 category: "школа"
 title: "Первый класс"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_1174.html"
 ---
 

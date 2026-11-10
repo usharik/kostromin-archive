@@ -3,6 +3,8 @@ id: "site-page-430"
 type: "методика"
 category: "репертуар"
 title: "Третий класс. Песни."
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_430.html"
 ---
 

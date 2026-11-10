@@ -3,6 +3,8 @@ id: "site-page-204"
 type: "статья"
 category: "статья"
 title: "Статьи Александра Костромина"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_204.html"
 ---
 

@@ -3,6 +3,8 @@ id: "site-page-1175"
 type: "методика"
 category: "школа"
 title: "Полуторный класс"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_1175.html"
 ---
 

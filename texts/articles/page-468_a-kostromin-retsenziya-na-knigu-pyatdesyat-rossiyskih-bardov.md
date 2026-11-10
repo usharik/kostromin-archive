@@ -3,6 +3,7 @@ id: "site-page-468"
 type: "статья"
 category: "статья"
 title: "А. Костромин. Рецензия на книгу \"Пятьдесят российских бардов\""
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_468.html"
 ---
 

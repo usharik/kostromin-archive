@@ -3,6 +3,8 @@ id: "site-tablosngl-pdf"
 type: "методика"
 category: "методика"
 title: "Класс вокала. Теория. — TablOsnGl.pdf"
+authorship: "чужой текст"
+authorship_note: "выписка из учебника «Сценическая речь» (ГИТИС)"
 url: "http://www.ksp-msk.ru/uploads/files/581_1255963281/TablOsnGl.pdf"
 source_page: "https://www.ksp-msk.ru/page_419.html"
 ---

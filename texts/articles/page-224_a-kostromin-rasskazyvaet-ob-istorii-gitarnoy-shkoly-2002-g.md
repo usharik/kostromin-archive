@@ -3,6 +3,7 @@ id: "site-page-224"
 type: "статья"
 category: "выступление"
 title: "А.Костромин рассказывает об истории гитарной школы (2002 г.)"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_224.html"
 ---
 

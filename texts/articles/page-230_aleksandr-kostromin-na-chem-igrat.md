@@ -3,6 +3,7 @@ id: "site-page-230"
 type: "статья"
 category: "статья"
 title: "Александр Костромин. НА ЧЁМ ИГРАТЬ?"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_230.html"
 ---
 

@@ -3,6 +3,7 @@ id: "site-page-1244"
 type: "статья"
 category: "статья"
 title: "НОТНЫЕ ЗАПИСИ ПЕСЕН Б. ОКУДЖАВЫ: К ВОПРОСУ О МУЗЫКАЛЬНОЙ «ТЕКСТОЛОГИИ»"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_1244.html"
 ---
 

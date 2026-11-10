@@ -3,6 +3,7 @@ id: "site-page-418"
 type: "методика"
 category: "методика"
 title: "СИСТЕМА БЕЗНОТНОЙ ЗАПИСИ ГИТАРНОГО АККОМПАНЕМЕНТА"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_418.html"
 ---
 

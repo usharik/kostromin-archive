@@ -3,6 +3,8 @@ id: "site-page-1242"
 type: "методика"
 category: "методика"
 title: "Настройка гитары по флажолетам"
+authorship: "не указано"
+authorship_note: "методика гитарной школы ЦАП, подписи автора нет"
 url: "https://www.ksp-msk.ru/page_1242.html"
 ---
 

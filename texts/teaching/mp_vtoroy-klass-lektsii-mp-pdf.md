@@ -3,6 +3,8 @@ id: "site-mp-pdf"
 type: "методика"
 category: "методика"
 title: "Второй класс. Лекции. — mp.pdf"
+authorship: "его выступление"
+authorship_note: "расшифровка; реплики других участников размечены в тексте"
 url: "http://www.ksp-msk.ru/uploads/school/442_1227091175/mp.pdf"
 source_page: "https://www.ksp-msk.ru/page_416.html"
 ---

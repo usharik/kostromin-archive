@@ -3,6 +3,8 @@ id: "site-page-15"
 type: "методика"
 category: "школа"
 title: "Гитарная школа"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_15.html"
 ---
 

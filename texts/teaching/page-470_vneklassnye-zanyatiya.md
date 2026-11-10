@@ -3,6 +3,8 @@ id: "site-page-470"
 type: "методика"
 category: "методика"
 title: "Внеклассные занятия"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_470.html"
 ---
 

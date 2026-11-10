@@ -3,6 +3,9 @@ id: "site-page-876"
 type: "методика"
 category: "репертуар"
 title: "Песни, пройденные в гитарной школе ЦАП"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
+duplicate_of: "site-page-870"
 url: "https://www.ksp-msk.ru/page_876.html"
 ---
 

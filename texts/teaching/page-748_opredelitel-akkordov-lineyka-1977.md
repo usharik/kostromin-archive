@@ -3,6 +3,8 @@ id: "site-page-748"
 type: "методика"
 category: "методика"
 title: "Определитель аккордов \"линейка\" (1977)"
+authorship: "совместный"
+authorship_note: "совместно с В. Барке, А. Перминым, Ю. Ревичем (1977)"
 url: "https://www.ksp-msk.ru/page_748.html"
 ---
 

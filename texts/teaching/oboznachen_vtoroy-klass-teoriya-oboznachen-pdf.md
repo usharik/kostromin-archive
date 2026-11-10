@@ -3,6 +3,7 @@ id: "site-oboznachen-pdf"
 type: "методика"
 category: "методика"
 title: "Второй класс. Теория. — oboznachen.pdf"
+authorship: "его текст"
 url: "http://www.ksp-msk.ru/uploads/files/1722_1301405649/oboznachen.pdf"
 source_page: "https://www.ksp-msk.ru/page_420.html"
 ---

@@ -3,6 +3,8 @@ id: "site-kolesa-doc"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия. — Kolesa.doc"
+authorship: "не указано"
+authorship_note: "методика гитарной школы ЦАП, подписи автора нет"
 url: "http://www.ksp-msk.ru/uploads/files/5121_1653574124/Kolesa.doc"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ---

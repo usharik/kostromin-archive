@@ -3,6 +3,8 @@ id: "site-page-1200"
 type: "статья"
 category: "доклад"
 title: "ТЕОРЕТИЧЕСКИЕ ЧТЕНИЯ 2009—2013: ВСЕ ДОКЛАДЫ"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_1200.html"
 ---
 

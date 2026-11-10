@@ -3,6 +3,9 @@ id: "site-page-671"
 type: "методика"
 category: "методика"
 title: "Теория музыки (2 класс)"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
+duplicate_of: "site-page-420"
 url: "https://www.ksp-msk.ru/page_671.html"
 ---
 

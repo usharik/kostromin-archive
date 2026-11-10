@@ -3,6 +3,8 @@ id: "site-page-1313"
 type: "статья"
 category: "доклад"
 title: "Александр Костромин. Текст о неграх. 12.03.2010"
+authorship: "его выступление"
+authorship_note: "расшифровка; реплики других участников размечены в тексте"
 url: "https://www.ksp-msk.ru/page_1313.html"
 ---
 

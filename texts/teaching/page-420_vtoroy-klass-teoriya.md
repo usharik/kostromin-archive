@@ -3,6 +3,8 @@ id: "site-page-420"
 type: "методика"
 category: "методика"
 title: "Второй класс. Теория."
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_420.html"
 ---
 

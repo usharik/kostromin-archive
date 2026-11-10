@@ -3,6 +3,8 @@ id: "site-12strelnikova-doc"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия. — 12strelnikova.doc"
+authorship: "чужой текст"
+authorship_note: "гимнастика А. Н. Стрельниковой"
 url: "http://www.ksp-msk.ru/uploads/files/1644_1291845008/12strelnikova.doc"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ---

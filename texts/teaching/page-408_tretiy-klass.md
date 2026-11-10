@@ -3,6 +3,8 @@ id: "site-page-408"
 type: "методика"
 category: "школа"
 title: "Третий класс"
+authorship: "не указано"
+authorship_note: "методика гитарной школы ЦАП, подписи автора нет"
 url: "https://www.ksp-msk.ru/page_408.html"
 ---
 

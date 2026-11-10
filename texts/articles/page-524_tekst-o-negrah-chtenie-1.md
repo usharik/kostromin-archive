@@ -3,6 +3,8 @@ id: "site-page-524"
 type: "статья"
 category: "доклад"
 title: "\"Текст о неграх\", чтение 1"
+authorship: "его выступление"
+authorship_note: "расшифровка; реплики других участников размечены в тексте"
 url: "https://www.ksp-msk.ru/page_524.html"
 ---
 

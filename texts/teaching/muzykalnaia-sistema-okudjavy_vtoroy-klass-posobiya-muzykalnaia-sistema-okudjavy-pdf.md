@@ -3,6 +3,8 @@ id: "site-muzykalnaia-sistema-okudjavy-pdf"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия. — muzykalnaia_sistema_okudjavy.pdf"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "http://www.ksp-msk.ru/uploads/files/766_1257013898/muzykalnaia_sistema_okudjavy.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ---

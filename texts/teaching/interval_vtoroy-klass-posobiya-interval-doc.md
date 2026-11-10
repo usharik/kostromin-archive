@@ -3,6 +3,8 @@ id: "site-interval-doc"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия. — interval.doc"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "http://ksp-msk.ru/uploads/files/807_1259076649/interval.doc"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ---

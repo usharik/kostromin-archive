@@ -3,6 +3,8 @@ id: "site-page-415"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия."
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_415.html"
 ---
 

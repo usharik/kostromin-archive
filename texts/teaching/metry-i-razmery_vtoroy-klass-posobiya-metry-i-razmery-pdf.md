@@ -3,6 +3,8 @@ id: "site-metry-i-razmery-pdf"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия. — metry_i_razmery.pdf"
+authorship: "чужой текст"
+authorship_note: "по учебнику И. В. Способина"
 url: "http://www.ksp-msk.ru/uploads/files/1758_1306245873/metry_i_razmery.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ---

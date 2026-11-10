@@ -3,6 +3,8 @@ id: "site-rodstvo-pdf"
 type: "методика"
 category: "методика"
 title: "Второй класс. Пособия. — rodstvo.pdf"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "http://www.ksp-msk.ru/uploads/files/1749_1305106849/rodstvo.pdf"
 source_page: "https://www.ksp-msk.ru/page_415.html"
 ---

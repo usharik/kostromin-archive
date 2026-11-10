@@ -3,6 +3,7 @@ id: "site-page-482"
 type: "статья"
 category: "статья"
 title: "А.Костромин. О ПРОТИВОСТОЯНИИ БАРДОВ И РОКЕРОВ"
+authorship: "его текст"
 url: "https://www.ksp-msk.ru/page_482.html"
 ---
 

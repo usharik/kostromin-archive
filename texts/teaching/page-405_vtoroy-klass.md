@@ -3,6 +3,8 @@ id: "site-page-405"
 type: "методика"
 category: "школа"
 title: "Второй класс"
+authorship: "справочное"
+authorship_note: "списки, расписания, таблицы, анонсы"
 url: "https://www.ksp-msk.ru/page_405.html"
 ---
 
