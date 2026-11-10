@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=38599#p38599>
 
-*В ответ на сообщение Алексей:*
+*Предыдущее сообщение в теме — Алексей:*
 
 > http://mskit.ru/short_news/s166602/
 >

@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=38481#p38481>
 
-*В ответ на сообщение alural:*
+*Предыдущее сообщение в теме — alural:*
 
 > .
 

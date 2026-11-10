@@ -41,7 +41,7 @@ http://www.sovmusic.ru/forum/read.php?id=4681
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=26926#p26926>
 
-*В ответ на сообщение Andrei Vasiliev:*
+*Предыдущее сообщение в теме — Andrei Vasiliev:*
 
 > ОБРЕЗ
 >
@@ -163,7 +163,7 @@ http://www.sovmusic.ru/forum/read.php?id=4681
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=26987#p26987>
 
-*В ответ на сообщение Михаил Гантман:*
+*Предыдущее сообщение в теме — Михаил Гантман:*
 
 > Андрей, а для таких вот постов и создан раздел "Поговорим о поэзии"  :D
 
@@ -177,7 +177,7 @@ http://www.bard.ru/cgi-bin/mp3.cgi?id=520.09
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=44532#p44532>
 
-*В ответ на сообщение Михаил Гантман:*
+*Предыдущее сообщение в теме — Михаил Гантман:*
 
 > Андрей, а для таких вот постов и создан раздел "Поговорим о поэзии"  :D
 

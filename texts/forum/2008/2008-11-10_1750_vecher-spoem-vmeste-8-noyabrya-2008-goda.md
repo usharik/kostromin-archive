@@ -25,7 +25,7 @@ http://www.ksp-msk.ru/page_199.html
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=13342#p13342>
 
-*В ответ на сообщение Caelinn:*
+*Предыдущее сообщение в теме — Caelinn:*
 
 > А что там было, если в подробностях?
 >
@@ -115,7 +115,7 @@ http://www.ksp-msk.ru/page_199.html
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=13353#p13353>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > перед 30 "Друзей не ищут как медяк, друзья всегда приходят сами..."
 >

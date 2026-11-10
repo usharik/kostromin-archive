@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=45504#p45504>
 
-*В ответ на сообщение kgushin:*
+*Предыдущее сообщение в теме — kgushin:*
 
 > От Маши Сухановой дополнение:
 >
@@ -27,7 +27,7 @@ voice_max: 2
 > "Самовосхваление" --
 > Пит Сигер, Little Boxes https://www.youtube.com/watch?v=I_FB9bwyp6M
 
-*Цитирует:*
+*kgushin писал(а):*
 
 > От Маши Сухановой дополнение:
 > <...>

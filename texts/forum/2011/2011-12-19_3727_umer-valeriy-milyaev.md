@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=31602#p31602>
 
-*В ответ на сообщение eugen:*
+*Предыдущее сообщение в теме — eugen:*
 
 > ...
 

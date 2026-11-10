@@ -15,10 +15,10 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39571#p39571>
 
-*Цитирует:*
+От Петра Трубецкого:
+
+*Цитата:*
 
 > Кусочек этой песни нашелся в фонотеке Курчева, в радио передаче.
-
-От Петра Трубецкого:
 
 http://www.ksp-msk.ru/uploads/files/3370_1425162438/mnogo%20horosih%20pesen%20ab126100.mp3

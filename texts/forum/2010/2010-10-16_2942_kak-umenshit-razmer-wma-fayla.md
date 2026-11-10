@@ -25,15 +25,19 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=25483#p25483>
 
-*В ответ на сообщение Natashik:*
+*Предыдущее сообщение в теме — Natashik:*
 
 > Можно например Q-BASEом сохранить в mp3.
 
-*Цитирует:*
+Natashik писал(а):
+
+*Цитата:*
 
 > Можно например Q-BASEом сохранить в mp3.
 
-*Цитирует:*
+Яндекс отвечает примерно так:
+
+*Цитата:*
 
 > 1 Q-Base Technologies перевод
 > Q-Base has an experienced staff of more than 30 IT experts. By providing our customers with the highest-skilled teams and a world-class infrastructure, we can ensure the quality and reliability of the products we build for you.
@@ -72,10 +76,6 @@ voice_max: 2
 > 14 Q-BASE – Новая музыка, видео, концерты, статистика и изображения...
 > Лучшие композиции от Q-BASE: Ecstasy, Stairway To Heaven и используй другие возможности. Q-base, Hardcore и Hardstyle.
 
-Natashik писал(а):
-
-Яндекс отвечает примерно так:
-
 Которым из Ку-Бейзов?
 
 Повторяю: вопрос дилетанта. Ку-бейза нету. Есть Адоб Аудишн. Муви Мейкер есть. Порезать на куски скорее всего смогу, а уменьшить Sample Rate не получается.
@@ -86,7 +86,7 @@ Natashik писал(а):
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=25488#p25488>
 
-*В ответ на сообщение Natashik:*
+*Предыдущее сообщение в теме — Natashik:*
 
 > Стоп. Я, видимо, обчиталась. Файл именно wma, не wav?
 >

@@ -15,7 +15,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=40651#p40651>
 
-*В ответ на сообщение Laert:*
+*Предыдущее сообщение в теме — Laert:*
 
 > Кругозор 1973 №10 стр.02
 >

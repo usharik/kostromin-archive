@@ -217,7 +217,7 @@ http://www.proza.ru/2017/09/27/737
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42788#p42788>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -519,7 +519,7 @@ http://www.proza.ru/2017/09/27/737
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42789#p42789>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -629,7 +629,7 @@ II отд. Галич
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42793#p42793>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -709,7 +709,7 @@ II отд. Галич
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42795#p42795>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -955,7 +955,7 @@ II отд.
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42798#p42798>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -967,7 +967,7 @@ http://www.ksp-msk.ru/page_973.html
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42804#p42804>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -979,7 +979,7 @@ http://www.ksp-msk.ru/page_973.html
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42830#p42830>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 
@@ -993,7 +993,7 @@ https://rutube.ru/video/64de60d21907f938e1aff23a2fa84fdd/?ref=logo&bmstart=14
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42831#p42831>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Крайний слева, видимо, Арнольд Волынцев.
 

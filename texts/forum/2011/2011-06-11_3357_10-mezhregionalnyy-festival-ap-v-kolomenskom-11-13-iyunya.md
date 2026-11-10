@@ -15,7 +15,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=28928#p28928>
 
-*В ответ на сообщение dimpal:*
+*Предыдущее сообщение в теме — dimpal:*
 
 > http://mgomz.ru/news.asp?ob_no=3101   [ прочитано 11 июня 2011 ]
 >

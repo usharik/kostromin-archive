@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=27037#p27037>
 
-*В ответ на сообщение Caelinn:*
+*Предыдущее сообщение в теме — Caelinn:*
 
 > Присоединяюсь
 

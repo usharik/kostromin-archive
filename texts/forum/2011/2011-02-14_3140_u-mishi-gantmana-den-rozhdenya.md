@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=27104#p27104>
 
-*В ответ на сообщение Vladimir K.:*
+*Предыдущее сообщение в теме — Vladimir K.:*
 
 > Михаил, с ДНЕМ РОЖДЕНИЯ!!!
 >

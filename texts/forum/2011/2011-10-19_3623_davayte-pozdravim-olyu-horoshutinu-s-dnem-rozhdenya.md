@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=30935#p30935>
 
-*В ответ на сообщение Snegurochka:*
+*Предыдущее сообщение в теме — Snegurochka:*
 
 > +1
 

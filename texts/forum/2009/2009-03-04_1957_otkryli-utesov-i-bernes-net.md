@@ -15,7 +15,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=15081#p15081>
 
-*В ответ на сообщение posadnik:*
+*Предыдущее сообщение в теме — posadnik:*
 
 > Ах.
 

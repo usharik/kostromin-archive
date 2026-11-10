@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=15706#p15706>
 
-*В ответ на сообщение Vladimir K.:*
+*Предыдущее сообщение в теме — Vladimir K.:*
 
 > Александр Николаевич, добрый день!
 >

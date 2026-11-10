@@ -15,7 +15,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=46325#p46325>
 
-*В ответ на сообщение vnk:*
+*Предыдущее сообщение в теме — vnk:*
 
 > Добрый день, All!
 >

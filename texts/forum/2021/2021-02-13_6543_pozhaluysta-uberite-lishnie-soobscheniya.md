@@ -15,13 +15,13 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=44794#p44794>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Тут в теме из-за сбоя сайта одно сообщение несколько раз сдублировалось
 >
 > viewtopic.php?f=49&t=5463&start=140 (http://www.ksp-msk.ru/forum/viewtopic.php?f=49&t=5463&start=140)
 
-*Цитирует:*
+*Boris Felikson писал(а):*
 
 > Тут в теме из-за сбоя сайта одно сообщение несколько раз сдублировалось
 >

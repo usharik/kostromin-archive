@@ -23,7 +23,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39704#p39704>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > Cпасибо, Борис, за видео!
 

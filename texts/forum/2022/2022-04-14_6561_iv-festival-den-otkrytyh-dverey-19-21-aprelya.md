@@ -15,13 +15,13 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=45424#p45424>
 
-*В ответ на сообщение Алька Коленбет:*
+*Предыдущее сообщение в теме — Алька Коленбет:*
 
 > Открыт приём заявок на II фестиваль "День открытых дверей"!
 >
 > Регистрационная форма (https://docs.google.com/forms/d/e/1FAIpQLSdrvam6Rejo9cwF-vXwm4X0j90t8fDu--sJgAaFTZqw8e-3Ng/viewform)
 
-*Цитирует:*
+*Цитата:*
 
 > Воскресенье, 24 апреля
 >

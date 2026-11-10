@@ -75,11 +75,11 @@ https://kinoklub-eldar.ru/event/kino-ko ... a-v-licah/ (https://kinoklub-eldar.r
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=45400#p45400>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > За видео отдельное спасибо.
 
-*Цитирует:*
+*Boris Felikson писал(а):*
 
 > За видео отдельное спасибо.
 

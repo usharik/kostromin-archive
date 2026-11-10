@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=25283#p25283>
 
-*В ответ на сообщение Gryzlov:*
+*Предыдущее сообщение в теме — Gryzlov:*
 
 > Алина, спасибо.
 >

@@ -47,11 +47,11 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=43663#p43663>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Программа не отображается ни тут http://www.ksp-msk.ru/page_193.html ни тут http://www.ksp-msk.ru/page_760.html, зато тут http://www.ksp-msk.ru/page_187.html что-то лишнее.
 
-*Цитирует:*
+*Boris Felikson писал(а):*
 
 > Программа не отображается ни тут http://www.ksp-msk.ru/page_193.html ни тут http://www.ksp-msk.ru/page_760.html, зато тут http://www.ksp-msk.ru/page_187.html что-то лишнее.
 

@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=38888#p38888>
 
-*В ответ на сообщение Алексей:*
+*Предыдущее сообщение в теме — Алексей:*
 
 > My Heart's In The Highlands
 >
@@ -39,7 +39,7 @@ voice_max: 2
 > Chasing the wild deer, and following the roe;
 > My heart's in the Highlands, whereever I go.
 
-*Цитирует:*
+*Mergiona писал(а):*
 
 > Летом неожиданно нашлось стихотворение Бёрнса. А Вам оно ничего не напоминает?...  :D
 >

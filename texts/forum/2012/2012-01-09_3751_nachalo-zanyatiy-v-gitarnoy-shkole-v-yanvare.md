@@ -15,7 +15,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=31688#p31688>
 
-*В ответ на сообщение Tushka:*
+*Предыдущее сообщение в теме — Tushka:*
 
 > Добрый день.
 >

@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=43507#p43507>
 
-*В ответ на сообщение Pit_:*
+*Предыдущее сообщение в теме — Pit_:*
 
 > (http://i-fotki.info/)
 >

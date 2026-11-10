@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=13956#p13956>
 
-*В ответ на сообщение posadnik:*
+*Предыдущее сообщение в теме — posadnik:*
 
 > была,
 >

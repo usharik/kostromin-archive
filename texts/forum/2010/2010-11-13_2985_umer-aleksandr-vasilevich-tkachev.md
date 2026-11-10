@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=25832#p25832>
 
-*В ответ на сообщение Arretir:*
+*Предыдущее сообщение в теме — Arretir:*
 
 > 9. 11. 2010 года умер Александр Васильевич Ткачёв...
 >
@@ -35,7 +35,7 @@ http://bards.ru/person.php?id=330
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=25833#p25833>
 
-*В ответ на сообщение Arretir:*
+*Предыдущее сообщение в теме — Arretir:*
 
 > 9. 11. 2010 года умер Александр Васильевич Ткачёв...
 >

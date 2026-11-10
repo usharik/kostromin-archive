@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=24232#p24232>
 
-*В ответ на сообщение atrofimov:*
+*Предыдущее сообщение в теме — atrofimov:*
 
 > Всем привет!
 >

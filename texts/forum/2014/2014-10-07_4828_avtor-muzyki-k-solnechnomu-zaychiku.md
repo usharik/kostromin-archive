@@ -15,7 +15,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=38956#p38956>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > Флярковский или Матвеева?
 >
@@ -31,7 +31,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=38957#p38957>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > Флярковский или Матвеева?
 >
@@ -51,7 +51,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39012#p39012>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > Спасибо, Александр!
 > Суров! Но справедлив!:)
@@ -66,11 +66,11 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39014#p39014>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > А как такое понимать? http://rao.ru/index.php/pravoobladately ... hphrase=al (http://rao.ru/index.php/pravoobladatelyam/informatsiya/reestry/reestr-proizvedenij-rossijskikh-pravoobladatelej?searchword=&work=%D1%8F%20%D0%BC%D0%B5%D1%87%D1%82%D0%B0%D0%BB%D0%B0%20%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F%D1%85&search_type=registerofworks&isRAO=1&typereeestr=rao&searchphrase=al)
 
-*Цитирует:*
+*Цитата:*
 
 > Российское авторское общество
 > Реестр произведений российских правообладателей
@@ -106,11 +106,13 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39030#p39030>
 
-*В ответ на сообщение Gennadi Beygin:*
+*Предыдущее сообщение в теме — Gennadi Beygin:*
 
 > Автор песенки "Солнечный зайчик", причем полный ее автор, Геннадий Бейгин: viewtopic.php?f=1&t=1429 (http://www.ksp-msk.ru/forum/viewtopic.php?f=1&t=1429) :wink:
 
-*Цитирует:*
+На всякий случай добавлю реального "Солнечного зайчика", автором которого точно является Новелла Николаевна:
+
+*Цитата:*
 
 > Новелла Матвеева
 >
@@ -170,8 +172,6 @@ voice_max: 3
 > Я зайчик солнечный!
 > Я тут!
 
-На всякий случай добавлю реального "Солнечного зайчика", автором которого точно является Новелла Николаевна:
-
 http://trumpumpum.ru/autors/matveeva-no ... ychik.html (http://trumpumpum.ru/autors/matveeva-novella/solnechniy-zaychik.html)
 
 ---
@@ -180,7 +180,7 @@ http://trumpumpum.ru/autors/matveeva-no ... ychik.html (http://trumpumpum.ru/aut
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39115#p39115>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > Какое чудесное продолжение темы!!!!
 > Вот чувствовала я, что без Новеллы Николаевны здесь не обошлось!
@@ -189,7 +189,7 @@ http://trumpumpum.ru/autors/matveeva-no ... ychik.html (http://trumpumpum.ru/aut
 > Совершенно реальная и распространенная ситуация с прикрытием одного имени другим.
 > Жаль, чуть-чуть не успели у самого Флярковского услышать историю создания этой песни...  8 мая этого года его не стало... Надо успеть выйти на связь с Новеллой Николаевной! Время уже не идет - бежит...
 
-*Цитирует:*
+*brusnika писал(а):*
 
 > Какое чудесное продолжение темы!!!!
 > Вот чувствовала я, что без Новеллы Николаевны здесь не обошлось!
@@ -210,7 +210,7 @@ http://trumpumpum.ru/autors/matveeva-no ... ychik.html (http://trumpumpum.ru/aut
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39936#p39936>
 
-*В ответ на сообщение electrik:*
+*Предыдущее сообщение в теме — electrik:*
 
 > Приведу фразу Новеллы Матвеевой из её интервью:
 >
@@ -218,14 +218,12 @@ http://trumpumpum.ru/autors/matveeva-no ... ychik.html (http://trumpumpum.ru/aut
 > http://www.proza.ru/2005/06/06-51
 > или - найти в "бумажном" виде на указанных источниках
 
-*Цитирует:*
+*electrik писал(а):*
 
 > Приведу фразу Новеллы Матвеевой из её интервью:
 >
-> [цитата: Цитата]
+> *Цитата:*
 > > - Мне рассказывали, что Корней Иванович, когда прочитал мое стихотворение «Солнечный зайчик», от радости он будто бы прыгал через стул. Сколько раз, не знаю.
-> [/цитата]
->
 > Прочитать интервью в полном виде можно здесь:
 > http://www.proza.ru/2005/06/06-51
 > или - найти в "бумажном" виде на указанных источниках
@@ -248,7 +246,7 @@ http://trumpumpum.ru/autors/matveeva-no ... ychik.html (http://trumpumpum.ru/aut
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39937#p39937>
 
-*В ответ на сообщение electrik:*
+*Предыдущее сообщение в теме — electrik:*
 
 > Приведу фразу Новеллы Матвеевой из её интервью:
 >

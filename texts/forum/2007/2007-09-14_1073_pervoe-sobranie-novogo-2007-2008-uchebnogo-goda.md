@@ -15,7 +15,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=6024#p6024>
 
-*В ответ на сообщение Vladimir K.:*
+*Предыдущее сообщение в теме — Vladimir K.:*
 
 > Добрый вечер!
 >

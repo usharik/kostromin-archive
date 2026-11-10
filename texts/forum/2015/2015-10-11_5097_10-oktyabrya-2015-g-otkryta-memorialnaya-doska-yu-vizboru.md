@@ -23,7 +23,7 @@ http://www.otr-online.ru/news/v-moskve- ... 49368.html (http://www.otr-online.ru
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=39973#p39973>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > "Неофициальный" экспресс-репортаж:
 

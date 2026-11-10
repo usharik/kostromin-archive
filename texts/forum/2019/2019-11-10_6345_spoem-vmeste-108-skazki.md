@@ -23,11 +23,11 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=43725#p43725>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Кстати, насчет аписи песни Никитина на Заходера  тут (http://sergeytatiananikitiny.com/index.php/media/index.php?searchword=%D0%B2+%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%BC+%D0%BF%D0%BE%D0%BB%D0%B5&option=com_muscol&search=songs&view=search&Itemid=)
 
-*Цитирует:*
+*Boris Felikson писал(а):*
 
 > В программе ошибка в дате и её опять нет в списках программ.
 

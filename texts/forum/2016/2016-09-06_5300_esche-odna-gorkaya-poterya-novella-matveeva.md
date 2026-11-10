@@ -15,7 +15,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=40902#p40902>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > Спасибо,  Боря.
 
@@ -33,7 +33,7 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=40931#p40931>
 
-*В ответ на сообщение dimpal:*
+*Предыдущее сообщение в теме — dimpal:*
 
 > 9 сен. в 20:14
 > Надежда Алферова

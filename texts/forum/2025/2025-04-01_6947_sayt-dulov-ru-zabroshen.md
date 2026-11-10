@@ -15,7 +15,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=46398#p46398>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Напиши Вере Романовой
 
@@ -29,7 +29,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=46399#p46399>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Напиши Вере Романовой
 
@@ -41,7 +41,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=46400#p46400>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Напиши Вере Романовой
 

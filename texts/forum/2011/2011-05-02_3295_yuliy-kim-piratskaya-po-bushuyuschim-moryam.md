@@ -311,7 +311,7 @@ http://ru.wikipedia.org/wiki/%D0%91%D0% ... 0%B8%D1%87 (http://ru.wikipedia.org/
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=28380#p28380>
 
-*В ответ на сообщение Юлия:*
+*Предыдущее сообщение в теме — Юлия:*
 
 > А я еще вот такой тескт нашла:
 >

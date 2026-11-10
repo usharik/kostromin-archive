@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=23757#p23757>
 
-*В ответ на сообщение posadnik:*
+*Предыдущее сообщение в теме — posadnik:*
 
 > Господа администраторы сайта.
 >

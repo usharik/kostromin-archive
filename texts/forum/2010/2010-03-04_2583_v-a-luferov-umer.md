@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=21054#p21054>
 
-*В ответ на сообщение Nina:*
+*Предыдущее сообщение в теме — Nina:*
 
 > :roll: Я новичок среди Вас и многих не знаю, даже не слышала, как не знала Виктора Архиповича, но соболезную вместе с вами...
 >
@@ -31,7 +31,7 @@ http://community.livejournal.com/bards_ ... tml#cutid1 (http://community.livejou
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=21155#p21155>
 
-*В ответ на сообщение Akeon (Виталий Басенок):*
+*Предыдущее сообщение в теме — Akeon (Виталий Басенок):*
 
 > И песен его попеть, Паш.
 >

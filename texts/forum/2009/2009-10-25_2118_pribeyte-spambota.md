@@ -15,7 +15,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=17777#p17777>
 
-*В ответ на сообщение Павел Ардабьевский:*
+*Предыдущее сообщение в теме — Павел Ардабьевский:*
 
 > пришел спам в ЛС от alexseinicolaev
 
@@ -27,7 +27,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=18618#p18618>
 
-*В ответ на сообщение posadnik:*
+*Предыдущее сообщение в теме — posadnik:*
 
 > viewtopic.php?p=18614#18614 (http://www.ksp-msk.ru/forum/viewtopic.php?p=18614#18614)
 >
@@ -41,7 +41,7 @@ voice_max: 2
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=27082#p27082>
 
-*В ответ на сообщение Akeon (Виталий Басенок):*
+*Предыдущее сообщение в теме — Akeon (Виталий Басенок):*
 
 > Да, Паш, спасибо, будет убивать :).
 
@@ -57,7 +57,7 @@ viewtopic.php?t=3128 (http://www.ksp-msk.ru/forum/viewtopic.php?t=3128)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=31116#p31116>
 
-*В ответ на сообщение Akeon (Виталий Басенок):*
+*Предыдущее сообщение в теме — Akeon (Виталий Басенок):*
 
 > Ага, спасибо, Леш.
 
@@ -81,7 +81,7 @@ viewtopic.php?t=179&start=20 (http://www.ksp-msk.ru/forum/viewtopic.php?t=179&st
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=31799#p31799>
 
-*В ответ на сообщение Boris Felikson:*
+*Предыдущее сообщение в теме — Boris Felikson:*
 
 > Оно же
 >
@@ -97,7 +97,7 @@ viewtopic.php?t=3300 (http://www.ksp-msk.ru/forum/viewtopic.php?t=3300)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=32179#p32179>
 
-*В ответ на сообщение Алексей:*
+*Предыдущее сообщение в теме — Алексей:*
 
 > Удалил!
 >
@@ -111,7 +111,7 @@ viewtopic.php?t=3846 (http://www.ksp-msk.ru/forum/viewtopic.php?t=3846)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=33822#p33822>
 
-*В ответ на сообщение Akeon (Виталий Басенок):*
+*Предыдущее сообщение в теме — Akeon (Виталий Басенок):*
 
 > Точно :)! Генерал БОтцваны! :)))
 
@@ -125,7 +125,7 @@ viewtopic.php?f=8&t=4096 (http://www.ksp-msk.ru/forum/viewtopic.php?f=8&t=4096)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=33927#p33927>
 
-*В ответ на сообщение Алексей:*
+*Предыдущее сообщение в теме — Алексей:*
 
 > Убрал!
 
@@ -139,7 +139,7 @@ viewtopic.php?f=2&t=4108 (http://www.ksp-msk.ru/forum/viewtopic.php?f=2&t=4108)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=33930#p33930>
 
-*В ответ на сообщение Алексей:*
+*Предыдущее сообщение в теме — Алексей:*
 
 > Убрал!
 
@@ -153,12 +153,12 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=41269#p41269>
 
-*В ответ на сообщение Юлия:*
+*Предыдущее сообщение в теме — Юлия:*
 
 > В этой теме viewtopic.php?f=51&t=5303 (http://www.ksp-msk.ru/forum/viewtopic.php?f=51&t=5303)
 > SimonGex
 
-*Цитирует:*
+*Юлия писал(а):*
 
 > В этой теме viewtopic.php?f=51&t=5303 (http://www.ksp-msk.ru/forum/viewtopic.php?f=51&t=5303)
 > SimonGex
@@ -171,12 +171,12 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=41291#p41291>
 
-*В ответ на сообщение electrik:*
+*Предыдущее сообщение в теме — electrik:*
 
 > Вот тут в последнем посту подвесили рекламу "сдать квартиру":
 > http://www.ksp-msk.ru/forum/viewtopic.php?f=27&t=5276
 
-*Цитирует:*
+*electrik писал(а):*
 
 > Вот тут в последнем посту подвесили рекламу "сдать квартиру":
 > http://www.ksp-msk.ru/forum/viewtopic.php?f=27&t=5276
@@ -189,7 +189,7 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=41367#p41367>
 
-*В ответ на сообщение kgushin:*
+*Предыдущее сообщение в теме — kgushin:*
 
 > Вот тут опять нагадили:
 >
@@ -199,7 +199,7 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 >
 > viewtopic.php?f=10&t=5379 (http://www.ksp-msk.ru/forum/viewtopic.php?f=10&t=5379)
 
-*Цитирует:*
+*kgushin писал(а):*
 
 > Вот тут опять нагадили:
 >
@@ -217,11 +217,11 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42073#p42073>
 
-*В ответ на сообщение kgushin:*
+*Предыдущее сообщение в теме — kgushin:*
 
 > Еще один спамбот очень ждет удаления -- lukabest его фамилия.
 
-*Цитирует:*
+*kgushin писал(а):*
 
 > Еще один спамбот очень ждет удаления -- lukabest его фамилия.
 
@@ -233,11 +233,11 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42379#p42379>
 
-*В ответ на сообщение Павел Ардабьевский:*
+*Предыдущее сообщение в теме — Павел Ардабьевский:*
 
 > viewtopic.php?f=10&t=5824 (http://www.ksp-msk.ru/forum/viewtopic.php?f=10&t=5824)
 
-*Цитирует:*
+*Павел Ардабьевский писал(а):*
 
 > http://www.ksp-msk.ru/forum/viewtopic.php?f=10&t=5824
 
@@ -249,12 +249,12 @@ viewtopic.php?t=4110 (http://www.ksp-msk.ru/forum/viewtopic.php?t=4110)
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=42397#p42397>
 
-*В ответ на сообщение Pipopolam:*
+*Предыдущее сообщение в теме — Pipopolam:*
 
 > дави его, дави...
 > viewtopic.php?t=5834 (http://www.ksp-msk.ru/forum/viewtopic.php?t=5834)
 
-*Цитирует:*
+*Pipopolam писал(а):*
 
 > дави его, дави...
 > viewtopic.php?t=5834 (http://www.ksp-msk.ru/forum/viewtopic.php?t=5834)

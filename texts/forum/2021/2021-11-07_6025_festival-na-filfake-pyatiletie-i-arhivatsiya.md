@@ -15,11 +15,11 @@ voice_max: 1
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=45197#p45197>
 
-*В ответ на сообщение brusnika:*
+*Предыдущее сообщение в теме — brusnika:*
 
 > А где дата? :)
 
-*Цитирует:*
+*brusnika писал(а):*
 
 > А где дата? :)
 

@@ -15,7 +15,7 @@ voice_max: 3
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=36614#p36614>
 
-*В ответ на сообщение Pipopolam:*
+*Предыдущее сообщение в теме — Pipopolam:*
 
 > С опозданием, но - поздравляю!
 

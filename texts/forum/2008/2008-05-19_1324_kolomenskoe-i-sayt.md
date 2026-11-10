@@ -15,7 +15,7 @@ voice_max: 0
 
 <https://www.ksp-msk.ru/forum/viewtopic.php?p=8361#p8361>
 
-*В ответ на сообщение Caelinn:*
+*Предыдущее сообщение в теме — Caelinn:*
 
 > а) http://www.mgomz.ru/default.asp?ob_no=1909
 >
