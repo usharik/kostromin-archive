@@ -88,6 +88,7 @@
 - [Пойте душой: Александр Костромин — об авторской песне и бардовском движении](texts/interviews/2024-10-09_vm-2024-10-09.md): 2024-10-09
 
 ## Расшифровки лекций и концертов
+- [«Антирежиссёрская» лекция А. Костромина](texts/talks/0000-00-00_antirezhisser_antirezhisserskaya-lektsiya-a-kostromina.md)
 - [Поминки по Александру Костромину (часть 2)](texts/talks/1951-09-13_DJShDlKTdqc_pominki-po-aleksandru-kostrominu-chast-2.md): 1951-09-13
 - ["Солнечный зайчик-2009" в передаче "Нефальшивою струною". Гость - Александр Костромин. Запорожье.](texts/talks/2009-12-20_uTJa6pA8s94_solnechnyy-zaychik-2009-v-peredache-nefalshivoyu-strunoyu-go.md): 2009-12-20
 - [Александр Костромин - концерт в ЦАП (14.10.2010)](texts/talks/2010-10-14_z2jJuGogZkQ_aleksandr-kostromin-kontsert-v-tsap-14-10-2010.md): 2010-10-14
