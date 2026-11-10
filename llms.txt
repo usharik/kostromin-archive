@@ -205,8 +205,8 @@
 - [И всё же Два Грушинских Фестиваля](texts/forum/2009/2009-03-30_900_i-vse-zhe-dva-grushinskih-festivalya.md): 2009-03-30
 - [О "Хронике" Игоря Каримова](texts/forum/2009/2009-04-01_2011_o-hronike-igorya-karimova.md): 2009-04-01
 - [Александр Николаевич (Костромин), СПАСИБО!](texts/forum/2009/2009-04-03_2018_aleksandr-nikolaevich-kostromin-spasibo.md): 2009-04-03
+- [Ремонт своими руками, эпизод II](texts/forum/2009/2009-04-13_2031_remont-svoimi-rukami-epizod-ii.md): 2009-04-13
 - [Вечер "Споём вместе!" 11 апреля 2009 года](texts/forum/2009/2009-04-13_2032_vecher-spoem-vmeste-11-aprelya-2009-goda.md): 2009-04-13
-- [Ремонт своими руками, эпизод II](texts/forum/2009/2009-04-14_2031_remont-svoimi-rukami-epizod-ii.md): 2009-04-14
 - [ПОЗДРАВЛЯЕМ ВСЕХ С ЮБИЛЕЕМ! (На этот раз день в день)](texts/forum/2009/2009-04-27_2050_pozdravlyaem-vseh-s-yubileem-na-etot-raz-den-v-den.md): 2009-04-27
 - [Поздравляем Дмитрия Богданова с юбилеем!](texts/forum/2009/2009-04-27_2051_pozdravlyaem-dmitriya-bogdanova-s-yubileem.md): 2009-04-27
 - [Семинар 3 июня 2009 в ЦАПе: СП/АП: Кто поёт?](texts/forum/2009/2009-05-26_2086_seminar-3-iyunya-2009-v-tsape-sp-ap-kto-poet.md): 2009-05-26
@@ -265,7 +265,7 @@
 - [Прошёл год. Спасибо за советы :-)](texts/forum/2010/2010-03-30_2638_proshel-god-spasibo-za-sovety.md): 2010-03-30
 - [Концерт Игоря Жмотова и Якова Гальперштейна: ЦАП, 1 апреля](texts/forum/2010/2010-03-30_2639_kontsert-igorya-zhmotova-i-yakova-galpershteyna-tsap-1-aprel.md): 2010-03-30
 - [25 Московский конкурс: Вторые туры закончились](texts/forum/2010/2010-03-30_2640_25-moskovskiy-konkurs-vtorye-tury-zakonchilis.md): 2010-03-30
-- ["Летчица". Попытка анализа ;-)](texts/forum/2010/2010-04-03_2658_letchitsa-popytka-analiza.md): 2010-04-03
+- ["Летчица". Попытка анализа ;-)](texts/forum/2010/2010-04-01_2658_letchitsa-popytka-analiza.md): 2010-04-01
 - [Фестивали без конкурса](texts/forum/2010/2010-04-04_2655_festivali-bez-konkursa.md): 2010-04-04
 - [мастерская. Границы жанра.](texts/forum/2010/2010-04-06_2661_masterskaya-granitsy-zhanra.md): 2010-04-06
 - [Вечер "Споём вместе!" 14 апреля 2010 года](texts/forum/2010/2010-04-15_2674_vecher-spoem-vmeste-14-aprelya-2010-goda.md): 2010-04-15
